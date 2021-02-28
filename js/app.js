@@ -202,7 +202,7 @@ function renderDynamicItem(data, id){
             drawingIdeals(item).then(() => {
                 drawingProductVar(item);
             }).then(() => {
-                headerImg.innerHTML = `<img alt="" src="../${item.img}">`;
+                headerImg.innerHTML = `<img alt="" src="${item.img}">`;
                 specsContainer.style.transform = "translateY(0%)";
             });
         } 
