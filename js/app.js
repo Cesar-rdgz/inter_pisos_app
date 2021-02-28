@@ -38,7 +38,7 @@ const getProducts =  (resource) => {
     });
 };
 
-getProducts('../products_pisos.json').then(data => {
+getProducts('products_pisos.json').then(data => {
     renderContent(data);
 }).then(() => {
     owlInit();
@@ -116,7 +116,7 @@ function selectProduct(){
         cleanDiv();
         const typeOfProduct = evt.target.value;
         sheet = typeOfProduct;
-        getProducts(`../json/products_${typeOfProduct}.json`).then(data => {
+        getProducts(`products_${typeOfProduct}.json`).then(data => {
             renderLastContent(data);
         }).then(() => {
             restartOwl();
@@ -228,7 +228,7 @@ function responsiveItem(){
         evt.preventDefault();
         const idData = evt.target.parentElement.getAttribute('value');
         if(idData){
-            getProducts(`../products_${sheet}.json`).then(data => {
+            getProducts(`products_${sheet}.json`).then(data => {
                 renderDynamicItem(data, idData);
             }).catch(err => {
                 console.log('promise rejected:', err);
