@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img": "img/adhesivo-1.png",
+        "img": "adhesivo-1.png",
         "name": "Pegazulejo",
         "uses": {
                     "Muro": "<i class='far fa-square'></i>",
@@ -13,7 +13,7 @@
     },
     {
         "id": 2,
-        "img": "img/adhesivo-2.jpg",
+        "img": "adhesivo-2.jpg",
         "name": "Porcelanico",
         "uses": {
             "Porcelanico": "<i class='fas fa-square'></i>"
@@ -24,7 +24,7 @@
     },
     {
         "id": 3,
-        "img": "img/adhesivo-3.png",
+        "img": "adhesivo-3.png",
         "name": "cemix",
         "uses": {
             "Cerámico": "<i class='fas fa-square'></i>",
@@ -36,7 +36,7 @@
     },
     {
         "id": 4,
-        "img": "img/adhesivo-4.webp",
+        "img": "adhesivo-4.webp",
         "name": "Perdura Stone",
         "uses": {
             "Piedra natural": "<i class='fas fa-boxes'></i>"
@@ -47,7 +47,7 @@
     },
     {
         "id": 5,
-        "img": "img/adhesivo-5.png",
+        "img": "adhesivo-5.png",
         "name": "Durentto",
         "uses": {
                 "Juntas": "<i class='fas fa-th'></i>"
@@ -58,7 +58,7 @@
     },
     {
         "id": 6,
-        "img": "img/adhesivo-6.png",
+        "img": "adhesivo-6.png",
         "name": "Durentto",
         "uses": {
                 "Juntas": "<i class='fas fa-th'></i>"
@@ -69,7 +69,7 @@
     },
     {
         "id": 7,
-        "img": "img/adhesivo-7.webp",
+        "img": "adhesivo-7.webp",
         "name": "Durentto",
         "uses": {
             "Juntas": "<i class='fas fa-th'></i>"
@@ -80,7 +80,7 @@
     },
     {
         "id": 8,
-        "img": "img/adhesivo-8.png",
+        "img": "adhesivo-8.png",
         "name": "AMU",
         "uses": {
             "Multiusos": "<i class='fas fa-infinity'></i>"
@@ -91,7 +91,7 @@
     },
     {
         "id": 9,
-        "img": "img/adhesivo-9.png",
+        "img": "adhesivo-9.png",
         "name": "cemix",
         "uses": {
             "Muro": "<i class='far fa-square'></i>",
@@ -103,7 +103,7 @@
     },
     {
         "id": 10,
-        "img": "img/adhesivo-10.webp",
+        "img": "adhesivo-10.webp",
         "name": "Perdura",
         "uses": {
             "Piso": "<i class='fas fa-square'></i>"
