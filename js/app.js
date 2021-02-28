@@ -38,7 +38,7 @@ const getProducts =  (resource) => {
     });
 };
 
-getProducts('../json/products_pisos.json').then(data => {
+getProducts('../products_pisos.json').then(data => {
     renderContent(data);
 }).then(() => {
     owlInit();
