@@ -228,7 +228,7 @@ function responsiveItem(){
         evt.preventDefault();
         const idData = evt.target.parentElement.getAttribute('value');
         if(idData){
-            getProducts(`products_${sheet}.json`).then(data => {
+            getProducts(`../products_${sheet}.json`).then(data => {
                 renderDynamicItem(data, idData);
             }).catch(err => {
                 console.log('promise rejected:', err);
