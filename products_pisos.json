@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img": "img/friezze.png",
+        "img": "friezze.png",
         "name": "Friezze",
         "uses": {
                     "interiores": "<i class='fas fa-couch'></i>",
@@ -10,15 +10,15 @@
                 },
         "type": "Piso y muro cerámico",
         "variations": {
-            "vari1": "img/f-variation.png",
-            "vari2": "img/f-variation2.png",
-            "vari3": "img/f-variation3.png",
-            "vari4": "img/f-variation4.png"
+            "vari1": "f-variation.png",
+            "vari2": "f-variation2.png",
+            "vari3": "f-variation3.png",
+            "vari4": "f-variation4.png"
         }
     },
     {
         "id": 2,
-        "img": "img/laurent.png",
+        "img": "laurent.png",
         "name": "Laurent",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -27,13 +27,13 @@
             },
         "type": "Piso y muro cerámico",
         "variations": {
-            "vari1": "img/l-variations.png",
-            "vari2": "img/l-variations2.png"
+            "vari1": "l-variations.png",
+            "vari2": "l-variations2.png"
         }
     },
     {
         "id": 3,
-        "img": "img/iris.png",
+        "img": "iris.png",
         "name": "Iris",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -42,13 +42,13 @@
             },
         "type": "Piso y muro",
         "variations": {
-            "vari1": "img/iris-1.jpg",
-            "vari2": "img/iris-2.jpg"
+            "vari1": "iris-1.jpg",
+            "vari2": "iris-2.jpg"
         }
     },
     {
         "id": 4,
-        "img": "img/monet.png",
+        "img": "monet.png",
         "name": "Monet",
         "uses": {
             "baños": "<i class='fas fa-toilet'></i>",
@@ -56,15 +56,15 @@
             },
         "type": "Azulejo",
         "variations": {
-            "vari1": "img/monet-1.jpg",
-            "vari2": "img/monet-2.jpg",
-            "vari3": "img/monet-3.jpg",
-            "vari4": "img/monet-4.jpg"
+            "vari1": "monet-1.jpg",
+            "vari2": "monet-2.jpg",
+            "vari3": "monet-3.jpg",
+            "vari4": "monet-4.jpg"
         }
     },
     {
         "id": 5,
-        "img": "img/tonala.png",
+        "img": "tonala.png",
         "name": "Tonalá",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -74,12 +74,12 @@
             },
         "type": "Piso",
         "variations": {
-            "vari1": "img/tonala-1.png"
+            "vari1": "tonala-1.png"
         }
     },
     {
         "id": 6,
-        "img": "img/terranea.png",
+        "img": "terranea.png",
         "name": "Terranea",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -87,13 +87,13 @@
             },
         "type": "Piso",
         "variations": {
-            "vari1": "img/terranea-1.png",
-            "vari2": "img/terranea-2.png"
+            "vari1": "terranea-1.png",
+            "vari2": "terranea-2.png"
         }
     },
     {
         "id": 7,
-        "img": "img/etiopia.png",
+        "img": "etiopia.png",
         "name": "Etipía",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -103,13 +103,13 @@
             },
         "type":"Piso y muro",
         "variations": {
-            "vari1": "img/etiopia-1.jpg",
-            "vari2": "img/etiopia-2.jpg"
+            "vari1": "etiopia-1.jpg",
+            "vari2": "etiopia-2.jpg"
         }
     },
     {
         "id": 8,
-        "img": "img/clever.png",
+        "img": "clever.png",
         "name": "Clever",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -119,12 +119,12 @@
             },
         "type": "Piso y muro",
         "variations": {
-            "vari1": "img/clever-1.jpg"
+            "vari1": "clever-1.jpg"
         }
     },
     {
         "id": 9,
-        "img": "img/noslow.png",
+        "img": "noslow.png",
         "name": "Noslow",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -134,12 +134,12 @@
             },
         "type": "Piso y muro",
         "variations": {
-            "vari1": "img/noslow-1.jpg"
+            "vari1": "noslow-1.jpg"
         }
     },
     {
         "id": 10,
-        "img": "img/andrazzi.png",
+        "img": "andrazzi.png",
         "name": "Andrazzi",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -148,14 +148,14 @@
             },
         "type":"Azulejo",
         "variations": {
-            "vari1": "img/andrazzi-v.jpg",
-            "vari2": "img/andrazzi-2.jpg",
-            "vari3": "img/andrazzi-3.jpg"
+            "vari1": "andrazzi-v.jpg",
+            "vari2": "andrazzi-2.jpg",
+            "vari3": "andrazzi-3.jpg"
         }
     },
     {
         "id": 11,
-        "img": "img/riojana.png",
+        "img": "riojana.png",
         "name": "Riojana",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -165,14 +165,14 @@
             },
         "type": "Piso",
         "variations": {
-            "vari1": "img/riojana-1.png",
-            "vari2": "img/riojana-2.png",
-            "vari3": "img/riojana-3.png"
+            "vari1": "riojana-1.png",
+            "vari2": "riojana-2.png",
+            "vari3": "riojana-3.png"
         }
     },
     {
         "id": 12,
-        "img": "img/gaskan.png",
+        "img": "gaskan.png",
         "name": "Gaskan",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -182,12 +182,12 @@
             },
         "type":"Piso y muro",
         "variations": {
-            "vari1": "img/gaskan-1.jpg"
+            "vari1": "gaskan-1.jpg"
         }
     },
     {
         "id": 13,
-        "img": "img/deseo.jpg",
+        "img": "deseo.jpg",
         "name": "Deseo",
         "uses": {
             "baños": "<i class='fas fa-toilet'></i>",
@@ -195,15 +195,15 @@
             },
         "type":"Azulejo",
         "variations": {
-            "vari1": "img/deseo-1.jpg",
-            "vari2": "img/deseo-3.jpg",
-            "vari3": "img/deseo-8.jpg",
-            "vari4": "img/deseo-10.jpg"
+            "vari1": "deseo-1.jpg",
+            "vari2": "deseo-3.jpg",
+            "vari3": "deseo-8.jpg",
+            "vari4": "deseo-10.jpg"
         }
     },
     {
         "id": 14,
-        "img": "img/yuliani.png",
+        "img": "yuliani.png",
         "name": "Yuliani",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -212,15 +212,15 @@
             },
         "type": "Muro",
         "variations": {
-            "vari1": "img/yuliani-1.jpg",
-            "vari2": "img/yuliani-2.jpg",
-            "vari3": "img/yuliani-3.jpg",
-            "vari4": "img/yuliani-4.jpg"
+            "vari1": "yuliani-1.jpg",
+            "vari2": "yuliani-2.jpg",
+            "vari3": "yuliani-3.jpg",
+            "vari4": "yuliani-4.jpg"
         }
     },
     {
         "id": 15,
-        "img": "img/charlot.jpg",
+        "img": "charlot.jpg",
         "name": "Charlot",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -229,15 +229,15 @@
             },
         "type":"Muro",
         "variations": {
-            "vari1": "img/charlot-1.jpg",
-            "vari2": "img/charlot-3.jpg",
-            "vari3": "img/charlot-5.jpg",
-            "vari4": "img/charlot-6.jpg"
+            "vari1": "charlot-1.jpg",
+            "vari2": "charlot-3.jpg",
+            "vari3": "charlot-5.jpg",
+            "vari4": "charlot-6.jpg"
         }
     },
     {
         "id": 16,
-        "img": "img/aranza.png",
+        "img": "aranza.png",
         "name": "Aranza",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -246,12 +246,12 @@
             },
         "type": "Piso",
         "variations": {
-            "vari1": "img/charlot-1.jpg"
+            "vari1": "charlot-1.jpg"
         }
     },
     {
         "id": 17,
-        "img": "img/travali.png",
+        "img": "travali.png",
         "name": "Travali",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -260,12 +260,12 @@
             },
         "type": "Piso",
         "variations": {
-            "vari1": "img/travali-1.jpg"
+            "vari1": "travali-1.jpg"
         }
     },
     {
         "id": 18,
-        "img": "img/lermitash.png",
+        "img": "lermitash.png",
         "name": "Lermitash",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -274,15 +274,15 @@
             },
         "type": "Piso y muro",
         "variations": {
-            "vari1": "img/lermitash-1.jpg",
-            "vari2": "img/lermitash-3.jpg",
-            "vari3": "img/lermitash-4.jpg",
-            "vari4": "img/lermitash-6.jpg"
+            "vari1": "lermitash-1.jpg",
+            "vari2": "lermitash-3.jpg",
+            "vari3": "lermitash-4.jpg",
+            "vari4": "lermitash-6.jpg"
         }
     },
     {
         "id": 19,
-        "img": "img/le-vit.png",
+        "img": "le-vit.png",
         "name": "Le vit",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -291,15 +291,15 @@
             },
         "type":" Piso y muro",
         "variations": {
-            "vari1": "img/le-vit-4.jpg",
-            "vari2": "img/le-vit-6.jpg",
-            "vari3": "img/le-vit-9.jpg",
-            "vari4": "img/le-vit-11.jpg"
+            "vari1": "le-vit-4.jpg",
+            "vari2": "le-vit-6.jpg",
+            "vari3": "le-vit-9.jpg",
+            "vari4": "le-vit-11.jpg"
         }
     },
     {
         "id": 20,
-        "img": "img/garnieri.png",
+        "img": "garnieri.png",
         "name": "Garnieri",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
@@ -308,10 +308,10 @@
             },
         "type": "Piso y muro",
         "variations": {
-            "vari1": "img/garnieri-1.jpg",
-            "vari2": "img/garnieri-4.jpg",
-            "vari3": "img/garnieri-6.jpg",
-            "vari4": "img/garnieri-13.jpg"
+            "vari1": "garnieri-1.jpg",
+            "vari2": "garnieri-4.jpg",
+            "vari3": "garnieri-6.jpg",
+            "vari4": "garnieri-13.jpg"
         }
     }
 ]

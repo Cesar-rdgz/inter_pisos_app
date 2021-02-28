@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img": "img/sanitario-1.webp",
+        "img": "sanitario-1.webp",
         "name": "Oxford",
         "uses": {
                 "Porcelanico": "<i class='fas fa-toilet'></i>"
@@ -12,7 +12,7 @@
     },
     {
         "id": 2,
-        "img": "img/sanitario-2.png",
+        "img": "sanitario-2.png",
         "name": "Bellagio",
         "uses": {
             "Porcelanico": "<i class='fas fa-toilet'></i>"
@@ -23,7 +23,7 @@
     },
     {
         "id": 3,
-        "img": "img/sanitario-3.webp",
+        "img": "sanitario-3.webp",
         "name": "Mazara",
         "uses": {
             "Cerámico": "<i class='fas fa-toilet'></i>"
@@ -34,7 +34,7 @@
     },
     {
         "id": 4,
-        "img": "img/sanitario-4.webp",
+        "img": "sanitario-4.webp",
         "name": "Aral American",
         "uses": {
             "Porcelanico": "<i class='fas fa-toilet'></i>"
@@ -45,7 +45,7 @@
     },
     {
         "id": 5,
-        "img": "img/sanitario-5.webp",
+        "img": "sanitario-5.webp",
         "name": "Regency",
         "uses": {
                 "Porcelanico": "<i class='fas fa-toilet'></i>"
@@ -56,7 +56,7 @@
     },
     {
         "id": 6,
-        "img": "img/sanitario-6.png",
+        "img": "sanitario-6.png",
         "name": "Cebolleta",
         "uses": {
                 "regadera": "<i class='fas fa-shower'></i>"
@@ -67,7 +67,7 @@
     },
     {
         "id": 7,
-        "img": "img/sanitario-7.png",
+        "img": "sanitario-7.png",
         "name": "Urban",
         "uses": {
             "Porcelanico": "<i class='fas fa-toilet'></i>"
@@ -78,7 +78,7 @@
     },
     {
         "id": 8,
-        "img": "img/sanitario-8.jpg",
+        "img": "sanitario-8.jpg",
         "name": "Alarg",
         "uses": {
             "Porcelanico": "<i class='fas fa-toilet'></i>"
@@ -89,7 +89,7 @@
     },
     {
         "id": 9,
-        "img": "img/sanitario-9.jpg",
+        "img": "sanitario-9.jpg",
         "name": "Jasmin",
         "uses": {
             "Marfil": "<i class='fas fa-toilet'></i>"
@@ -100,7 +100,7 @@
     },
     {
         "id": 10,
-        "img": "img/sanitario-10.png",
+        "img": "sanitario-10.png",
         "name": "Lavabo",
         "uses": {
             "Porcelanico": "<i class='fas fa-toilet'></i>"

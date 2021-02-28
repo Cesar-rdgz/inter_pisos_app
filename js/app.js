@@ -54,7 +54,7 @@ function renderContent(data){
 
         data.forEach(item => {
             const html = `
-                <a value="${item.id}" href="#"><div class="item" style="background-image: url('${item.img}');background-size: cover;background-position: center;">
+                <a value="${item.id}" href="#"><div class="item" style="background-image: url('img/${item.img}');background-size: cover;background-position: center;">
                     <div value="${item.id}" class="item-img">
                         <p>${item.name}</p>
                     </div>
@@ -202,7 +202,7 @@ function renderDynamicItem(data, id){
             drawingIdeals(item).then(() => {
                 drawingProductVar(item);
             }).then(() => {
-                headerImg.innerHTML = `<img alt="" src="${item.img}">`;
+                headerImg.innerHTML = `<img alt="" src="img/${item.img}">`;
                 specsContainer.style.transform = "translateY(0%)";
             });
         } 
