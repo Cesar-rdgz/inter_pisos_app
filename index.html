@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.css" crossorigin="anonymous" />
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js" crossorigin="anonymous"></script>
+    <title>Interpisos</title>
+</head>
+<body>
+    <header>
+        <div class="nav-container">
+            <nav>
+                <div class="icons-container">
+
+                    <label for="btn-toggle"><i class="fas fa-bars"></i></label>
+                    <input type="checkbox" id="btn-toggle">
+                    <i class="fas fa-phone-volume"></i>
+
+                </div>
+                <div class="nav-links">
+                    <ul>
+                        <li><a href="#">Inicio</a></li>
+                        <li><a href="#">Sobre Nosotros</a></li>
+                        <li><a href="#">Cocinas Italianas</a></li>
+                        <li><a href="#">Contacto</a></li>
+                        <li><a href="#">Sucursales</a></li>
+                        <li><a href="#">Others</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="container top-fold">
+            <div class="title">
+                <p class="company-name"><span>Inter</span>-Pisos</p>
+                <h1 class="statement">Desde diseño de cocina hasta material de excelente calidad para la construcción de tus sueños.</h1>
+            </div>
+        </div>
+
+        <div class="container products">
+            <div class="toggle-content">
+                <select name="products" id="product-options">
+                    <option value="pisos">Pisos</option>
+                    <option value="adhesivos">Adhesivos</option>
+                    <option value="sanitarios">Sanitarios</option>
+                    <option value="griferia">Griferia</option>
+                    <option value="cocina">Cocinas</option>
+                    <option value="tejas">Tejas</option>
+                    <option value="decorados">Decorados</option>
+                    <option value="setbaño">Set de baño</option>
+                    <option value="tinas">Tinas</option>
+                    <option value="persianas">Persianas</option>
+                    <option value="florones">Florones</option>
+                    <option value="calentadores">Calentadores Solares</option>
+                    <option value="cortadoras">Cortadoras</option>
+                </select>
+            </div>
+            <div class="items-container">
+
+                <div id="product-slider" class="owl-carousel">
+                    <!--
+                        renderContent() and renderLastContent()
+                    -->
+                </div>
+
+            </div>
+            <div class="item-selected">
+                <div class="item-selected-img">
+                    <!--
+
+                    renderDynamicItem() in conjunction with drawingIdeals() are taking care of this content
+
+                    -->
+                </div>
+                <div id="item-selected-specs">
+                    <p class="main-item-title">
+                        <!--
+                            drawingIdeals();
+                        -->
+                    </p>
+                    <div class="ideal-icons">
+                        <!--
+
+                            drawingIdeals() it's drawing this content
+
+                        -->
+                    </div>
+                    <p class="main-item-title type">
+                        <!--
+                            drawingIdeals();
+                        -->
+                    </p>
+                    <div class="product-variation">
+                        <!--
+                            drawingProductVar();
+                        -->
+                    </div>
+                    <div class="single-item-icons">
+                        <label for="close-item"><i class="fas fa-times"></i></label>
+                        <input type="checkbox" id="close-item">
+                        <i class="fas fa-phone-volume"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="btn">
+                <a id="all" href="">Todos</a>
+            </div>
+        </div>
+
+        <div class="container philosophy">
+            <div class="mision">
+                <i class="fas fa-bullseye"></i>
+                <p>Ser la empresa líder en el centro del país en la venta de productos cerámicos y demás complementos que permitan crear espacios extraordinarios llenos de emociones y vida generando satisfacción total en nuestros clientes, creando valor para sus inversionistas, con un excelente ambiente de trabajo y mejora continua.</p>
+            </div>
+            <div class="goal">
+                <div>
+                    <i class="fas fa-trophy"></i>
+                </div>
+                <p>Crear espacios extraordinarios llenos de vida para nuestros clientes por medio de productos innovadores que excedan sus expectativas ofertados por internet y en tiendas físicas.</p>
+            </div>
+        </div>
+
+    </main>
+    <footer>
+        <div class="footer-container">
+            <address>
+                <ul class="list-addresses">
+                    <li>
+                        <i class="fas fa-map-marker-alt"></i>
+                        GRAL. Anaya # 38-B, Tlaltenango de Sanchéz Roman, C.P. 99700
+                    </li>
+                    <li>
+                        <i class="fas fa-phone"></i>
+                        (437) 954 4063
+                    </li>
+                    <li>
+                        <i class="fas fa-envelope"></i>
+                        inter-pisos@hotmail.com
+                    </li>
+                </ul>
+            </address>
+
+            <div class="news">
+                <p class="news-title">Litora torquent conubia</p>
+
+                <div class="new">
+                    <a href="#">
+                        <p class="blog-title">Nostra per inceptos himenaeos cras augue est dictum quis…</p>
+                    </a>
+                    <p class="date">Friday, 6th April 2045</p>
+                </div>
+
+                <div class="new">
+                    <a href="#">
+                        <p class="blog-title">Nostra per inceptos himenaeos cras augue est dictum quis…</p>
+                    </a>
+                    <p class="date">Friday, 6th April 2045</p>
+                </div>
+
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "img": "img/sanitario-1.webp",
+        "name": "Oxford",
+        "uses": {
+                "Porcelanico": "<i class='fas fa-toilet'></i>"
+                },
+        "type": "Lavabo y pedesta Oxford Blanco",
+        "variations": {
+        }
+    },
+    {
+        "id": 2,
+        "img": "img/sanitario-2.png",
+        "name": "Bellagio",
+        "uses": {
+            "Porcelanico": "<i class='fas fa-toilet'></i>"
+            },
+        "type": "One piece Bellagio Dual flush 3 a 6 lts",
+        "variations": {
+        }
+    },
+    {
+        "id": 3,
+        "img": "img/sanitario-3.webp",
+        "name": "Mazara",
+        "uses": {
+            "Cerámico": "<i class='fas fa-toilet'></i>"
+            },
+        "type": "wc cerámico Dual flush 3 a 6 lts",
+        "variations": {
+        }
+    },
+    {
+        "id": 4,
+        "img": "img/sanitario-4.webp",
+        "name": "Aral American",
+        "uses": {
+            "Porcelanico": "<i class='fas fa-toilet'></i>"
+            },
+        "type": "One piece Aral American Standard Dual de 4.2 a 6 Lpf.",
+        "variations": {
+        }
+    },
+    {
+        "id": 5,
+        "img": "img/sanitario-5.webp",
+        "name": "Regency",
+        "uses": {
+                "Porcelanico": "<i class='fas fa-toilet'></i>"
+            },
+        "type": "Lavabo Regency 4\" Blanco",
+        "variations": {
+        }
+    },
+    {
+        "id": 6,
+        "img": "img/sanitario-6.png",
+        "name": "Cebolleta",
+        "uses": {
+                "regadera": "<i class='fas fa-shower'></i>"
+            },
+        "type": "Cebolleta croma, chorro Rain, ducha lateral dirigible, rosca de conexión 1/2\"",
+        "variations": {
+        }
+    },
+    {
+        "id": 7,
+        "img": "img/sanitario-7.png",
+        "name": "Urban",
+        "uses": {
+            "Porcelanico": "<i class='fas fa-toilet'></i>"
+            },
+        "type":"One piece urban blanco, consume de agua 3.9 litros, accionamiento de botón Single Flush, capacidad de evacuación 600 gramos",
+        "variations": {
+        }
+    },
+    {
+        "id": 8,
+        "img": "img/sanitario-8.jpg",
+        "name": "Alarg",
+        "uses": {
+            "Porcelanico": "<i class='fas fa-toilet'></i>"
+            },
+        "type": "One piece Alarg Descarga Dual 3 y 6 lts, 6,0 litso descarga completa y 3,0 litros descarga media",
+        "variations": {
+        }
+    },
+    {
+        "id": 9,
+        "img": "img/sanitario-9.jpg",
+        "name": "Jasmin",
+        "uses": {
+            "Marfil": "<i class='fas fa-toilet'></i>"
+            },
+        "type": "JGO accesorios Jazmin Marfil",
+        "variations": {
+        }
+    },
+    {
+        "id": 10,
+        "img": "img/sanitario-10.png",
+        "name": "Lavabo",
+        "uses": {
+            "Porcelanico": "<i class='fas fa-toilet'></i>"
+            },
+        "type":"Lavabo cuadrado para monomando blanco",
+        "variations": {
+        }
+    }
+]

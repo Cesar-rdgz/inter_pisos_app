@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "img": "img/adhesivo-1.png",
+        "name": "Pegazulejo",
+        "uses": {
+                    "Muro": "<i class='far fa-square'></i>",
+                    "Piso": "<i class='fas fa-square'></i>"
+                },
+        "type": "Adhesivo para instalar cerámica de media y alta absorción en pisos y muros",
+        "variations": {
+        }
+    },
+    {
+        "id": 2,
+        "img": "img/adhesivo-2.jpg",
+        "name": "Porcelanico",
+        "uses": {
+            "Porcelanico": "<i class='fas fa-square'></i>"
+            },
+        "type": "Especial para pisos porcelánicos en interior y trávico ligero",
+        "variations": {
+        }
+    },
+    {
+        "id": 3,
+        "img": "img/adhesivo-3.png",
+        "name": "cemix",
+        "uses": {
+            "Cerámico": "<i class='fas fa-square'></i>",
+            "Mármol": "<i class='far fa-square'></i>"
+            },
+        "type": "Adhesivo para revestimiento cerámico y mármol",
+        "variations": {
+        }
+    },
+    {
+        "id": 4,
+        "img": "img/adhesivo-4.webp",
+        "name": "Perdura Stone",
+        "uses": {
+            "Piedra natural": "<i class='fas fa-boxes'></i>"
+            },
+        "type": "Adhesivo especial para pegar piedra",
+        "variations": {
+        }
+    },
+    {
+        "id": 5,
+        "img": "img/adhesivo-5.png",
+        "name": "Durentto",
+        "uses": {
+                "Juntas": "<i class='fas fa-th'></i>"
+            },
+        "type": "Junteador sin Arena",
+        "variations": {
+        }
+    },
+    {
+        "id": 6,
+        "img": "img/adhesivo-6.png",
+        "name": "Durentto",
+        "uses": {
+                "Juntas": "<i class='fas fa-th'></i>"
+            },
+        "type": "Junteador con Arena",
+        "variations": {
+        }
+    },
+    {
+        "id": 7,
+        "img": "img/adhesivo-7.webp",
+        "name": "Durentto",
+        "uses": {
+            "Juntas": "<i class='fas fa-th'></i>"
+            },
+        "type":"Adhesivo Ceramico Blanco",
+        "variations": {
+        }
+    },
+    {
+        "id": 8,
+        "img": "img/adhesivo-8.png",
+        "name": "AMU",
+        "uses": {
+            "Multiusos": "<i class='fas fa-infinity'></i>"
+            },
+        "type": "Adhesivo multiusos de alto desempeño",
+        "variations": {
+        }
+    },
+    {
+        "id": 9,
+        "img": "img/adhesivo-9.png",
+        "name": "cemix",
+        "uses": {
+            "Muro": "<i class='far fa-square'></i>",
+            "Piso": "<i class='fas fa-square'></i>"
+            },
+        "type": "Adhesico para instalar cerámica de media y alta absorción en pisos y muros",
+        "variations": {
+        }
+    },
+    {
+        "id": 10,
+        "img": "img/adhesivo-10.webp",
+        "name": "Perdura",
+        "uses": {
+            "Piso": "<i class='fas fa-square'></i>"
+            },
+        "type":"Adhesivo diseñado para cualquier recubrimeinto vítreo",
+        "variations": {
+        }
+    }
+]

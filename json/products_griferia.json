@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "img": "img/griferia-1.webp",
+        "name": "Oxford",
+        "uses": {
+                "Porcelanico": "<i class='fas fa-toilet'></i>"
+                },
+        "type": "Lavabo y pedesta Oxford Blanco",
+        "variations": {
+        }
+    },
+    {
+        "id": 2,
+        "img": "img/griferia-2.webp",
+        "name": "Mezcladora",
+        "uses": {
+            "Cromo": "<i class='fas fa-sink'></i>"
+            },
+        "type": "Mezcladora para lavabo cromo, incluye cubiertas y manerales",
+        "variations": {
+        }
+    },
+    {
+        "id": 3,
+        "img": "img/griferia-3.webp",
+        "name": "Regadera",
+        "uses": {
+            "Cromo": "<i class='fas fa-sink'></i>"
+            },
+        "type": "Regadera con brazo y chapetón, regadera de chorro fijo con sistema anticalcáreo, incluye brazo y chapetón",
+        "variations": {
+        }
+    },
+    {
+        "id": 4,
+        "img": "img/griferia-4.webp",
+        "name": "Mezcladora",
+        "uses": {
+            "Cromo": "<i class='fas fa-sink'></i>"
+            },
+        "type": "Mezcladora P/LAV, reduce el consumo de agua por 30%, grifo montado en la cubierta del fregador o el mostrador",
+        "variations": {
+        }
+    },
+    {
+        "id": 5,
+        "img": "img/griferia-5.webp",
+        "name": "Monomando",
+        "uses": {
+                "Cromo": "<i class='fas fa-sink'></i>"
+            },
+        "type": "Monomando tecnología avanzada de válvula con disco cerámico con garantía de nunca tener fugas.",
+        "variations": {
+        }
+    },
+    {
+        "id": 6,
+        "img": "img/griferia-6.webp",
+        "name": "Monomando",
+        "uses": {
+                "Cromo": "<i class='fas fa-sink'></i>"
+            },
+        "type": "Tecnología avanzada de válvula con disco de cerámica con garantía de nunca tener fugas, incluye dispensador de jabón combinado",
+        "variations": {
+        }
+    },
+    {
+        "id": 7,
+        "img": "img/griferia-7.jpg",
+        "name": "Monomando",
+        "uses": {
+                "Cromo": "<i class='fas fa-sink'></i>"
+            },
+        "type":"Tecnología avanzada de válvula con dico de cerámica con garantía de nunca tener fugas, fácil instalación sin herramienta.",
+        "variations": {
+        }
+    },
+    {
+        "id": 8,
+        "img": "img/griferia-8.jpg",
+        "name": "Regadera",
+        "uses": {
+                "Cromo": "<i class='fas fa-sink'></i>"
+            },
+        "type": "Regadera C/Brazo y manijas, instalación de 3 orificios",
+        "variations": {
+        }
+    },
+    {
+        "id": 9,
+        "img": "img/griferia-9.jpg",
+        "name": "Regadera",
+        "uses": {
+                "Cromo": "<i class='fas fa-sink'></i>"
+            },
+        "type": "Tecnología avanzada de válvula con disco de cerámica con garantía de nunca tener fugas",
+        "variations": {
+        }
+    },
+    {
+        "id": 10,
+        "img": "img/griferia-10.webp",
+        "name": "Monomando",
+        "uses": {
+            "Cromo": "<i class='fas fa-sink'></i>"
+            },
+        "type":"Monomando para lavabo",
+        "variations": {
+        }
+    }
+]

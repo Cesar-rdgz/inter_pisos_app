@@ -1,0 +1,310 @@
+@import url('all.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --main-color: #c96b37;
+}
+
+.nav-container{
+    width: 100%;
+    position: relative;
+}
+
+.nav-container nav .icons-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.nav-container nav .icons-container label{
+    cursor: pointer;
+}
+
+#btn-toggle{
+    display: none;
+}
+
+.nav-container nav .fas{
+    margin: 2rem;
+    font-size: 1.2rem;
+}
+
+.nav-container .nav-links{
+    position: absolute;
+    top: 80px;
+    left: 0;
+    z-index: 3;
+    width: 100%;
+    height: 100vh;
+    background-color: var(--main-color);
+    transition: all 0.5s;
+    transform: translate(-100%);
+}
+
+.nav-container .nav-links  ul{
+    list-style: none;
+}
+
+.nav-container .nav-links  ul li{
+    margin: 0;
+}
+
+.nav-container .nav-links  ul li:first-child{
+    margin: 0;
+}
+
+.nav-container .nav-links  ul li a{
+    display: block;
+    padding: 1.5rem 0 1.5rem .7rem;
+    color: #fff;
+    text-decoration: none;
+    transition: all .3s ease-in-out;
+}
+
+.nav-container .nav-links  ul li a:hover{
+    background-color: #fff;
+}
+
+.container.top-fold {
+    background-image: url("../img/port.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 300px;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.container.top-fold .title{
+    position: absolute;
+    bottom: 0;
+}
+
+.container.top-fold .title .company-name{
+    font-size: 1.5rem;
+    width: 50%;
+}
+
+.container.top-fold .title .company-name span{
+    color: var(--main-color);
+    font-weight: bold;
+}
+
+.container.top-fold .title .statement{
+    font-size: 1rem;
+    font-weight: 300;
+    width: 70%;
+    margin: .7rem .5rem;
+}
+
+.container.products{
+    width: 100%;
+}
+
+.container.products #product-slider{
+    width: 100%;
+}
+
+.container.products .toggle-content{
+    padding: 0rem 1rem 1rem 0rem;
+}
+
+.container.products .toggle-content #product-options{
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    background: #fff;
+}
+
+.container.products .items-container .item{
+    position: relative;
+    padding-top: 1rem;
+    margin: 15px auto 70px auto;
+    width: 130px;
+    min-height: 150px;
+    border-radius: 12px 12px 0 0;
+    background-color: white;
+    box-shadow: 3px 8px 15px -3px #000;
+}
+
+.container.products .items-container .item > .item-img{
+    position: absolute;
+    top: 100%;
+    border: 1px solid white;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    height: 30px;
+    border-radius: 0 0 12px 12px;
+    box-shadow: 7px 7px 20px -7px #000;
+}
+
+.container.products .items-container .item > .item-img p{
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container.products .items-container .item .item-img img{
+    width: 100%;
+    height: 100%;
+}
+
+.container.products .item-selected{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    transform: translateY(100%);
+    transition: all .3s ease-in-out;
+}
+
+.container.products .item-selected .item-selected-img{
+    position: relative;
+    top: 0;
+    left:0;
+    width: 100%;
+    height: 40vh;
+    z-index: 5;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container.products .item-selected .item-selected-img img{
+    width: 100%;
+    height: 100%;
+}
+
+#close-item{
+    display: none;
+}
+
+.container.products .item-selected #item-selected-specs .single-item-icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 1rem 1.2rem;
+    font-size: 1.3rem;
+}
+
+.container.products .item-selected #item-selected-specs{
+    border-radius: 14px 14px 0 0;
+    position: relative;
+    bottom: 0;
+    left:0;
+    width: 100%;
+    height: 60vh;
+    z-index: 6;
+}
+
+.container.products .item-selected #item-selected-specs .main-item-title{
+    text-align: center;
+    margin: .7rem 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    width: 95%;
+    margin: auto;
+}
+
+.container.products .item-selected #item-selected-specs .ideal-icons{
+    width: 100%;
+    padding: 1rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.container.products .item-selected #item-selected-specs .ideal-icons .ideal-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+}
+
+.container.products .item-selected #item-selected-specs .ideal-icons .ideal-item i{
+    font-size: 1.2rem;
+}
+
+.container.products .item-selected #item-selected-specs .ideal-icons .ideal-item span{
+    font-size: .5rem;
+}
+
+.container.products .item-selected #item-selected-specs .product-variation{
+    margin: 1.5rem 0;
+    padding: 0 .5rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.container.products .item-selected #item-selected-specs .product-variation .var{
+    width: 60px;
+    height: 60px;
+}
+
+.container.products .item-selected #item-selected-specs .product-variation .var img{
+    width: 100%;
+    height: 100%;
+}
+
+.btn #all{
+    padding: .7rem 1.2rem;
+    background-color: var(--main-color);
+    color: white;
+    border-radius: 7px;
+}
+
+.container.philosophy{
+    width: 100%;
+    padding: 1rem;
+}
+
+.container.philosophy i{
+    font-size: 4rem;
+    margin: 1rem;
+    color: var(--main-color);
+}
+
+.container.philosophy p{
+    font-family: 'Poppins', sans-serif;
+    font-size: .7rem;
+}
+
+.container.philosophy .goal div{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer-container{
+    background-color: var(--main-color);
+    color: #fff;
+    padding: 1rem;
+}
+
+.footer-container .news-title{
+    font-size: 1.2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer-container .list-addresses{
+    list-style: none;
+}
+
+.footer-container .list-addresses li{
+    border-bottom: 1px solid #000;
+    padding: 1rem;
+}
+
+.footer-container .news .blog-title{
+    color: #82B7DF;
+}
