@@ -73,7 +73,7 @@
 }
 
 .container.top-fold {
-    background-image: url("../img/port.png");
+    background-image: url("../port.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top;
