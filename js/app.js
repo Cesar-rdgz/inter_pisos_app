@@ -11,6 +11,12 @@ $("#product-slider").owlCarousel({
 });
 });*/
 
+setTimeout(() => {
+    const spinner = document.querySelector('.spinner-container');
+    
+    spinner.style.transform = 'translateX(-100%)';
+}, 5000);
+
 selectProduct();
 responsiveMenu();
 responsiveItem();
