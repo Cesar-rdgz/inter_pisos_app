@@ -220,7 +220,7 @@
     width: 100%;
     text-align: center;
     background-color: white;
-    height: 30px;
+    height: 45px;
     border-radius: 0 0 12px 12px;
     box-shadow: 7px 7px 20px -7px #000;
 }
@@ -251,7 +251,7 @@
     top: 0;
     left:0;
     width: 100%;
-    height: 40vh;
+    height: 55vh;
     z-index: 5;
     background-size: contain;
     background-position: center;
@@ -269,10 +269,29 @@
 
 .container.products .item-selected #item-selected-specs .single-item-icons{
     display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
+    justify-content: space-evenly;
+    align-items: center;
     padding: 1rem 1.2rem;
     font-size: 1.3rem;
+}
+
+.container.products .item-selected #item-selected-specs label{
+    margin-bottom: 0;
+    font-size: 30px;
+}
+
+.container.products .item-selected #item-selected-specs .single-item-icons .container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.container.products .item-selected #item-selected-specs .single-item-icons .whatsapp .whatsapp-text{
+    font-size: 15px
+}
+
+.container.products .item-selected #item-selected-specs .single-item-icons .phone .phone-text{
+    font-size: 15px
 }
 
 .container.products .item-selected #item-selected-specs{
@@ -311,11 +330,11 @@
 }
 
 .container.products .item-selected #item-selected-specs .ideal-icons .ideal-item i{
-    font-size: 1.2rem;
+    font-size: 2rem;
 }
 
 .container.products .item-selected #item-selected-specs .ideal-icons .ideal-item span{
-    font-size: .5rem;
+    font-size: .7rem;
 }
 
 .container.products .item-selected #item-selected-specs .product-variation{
