@@ -313,5 +313,170 @@
             "vari3": "garnieri-6.jpg",
             "vari4": "garnieri-13.jpg"
         }
+    },
+    {
+        "id": 21,
+        "img": "ivory.png",
+        "name": "Ivory",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y muro",
+        "variations": {
+            "vari1": "ivory-1.jpg",
+            "vari2": "ivory-2.jpg",
+            "vari3": "ivory-3.jpg",
+            "vari4": "ivory-4.jpg"
+        }
+    },
+    {
+        "id": 22,
+        "img": "beneatto.png",
+        "name": "Beneatto",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y muro",
+        "variations": {
+            "vari1": "beneatto-1.jpg",
+            "vari2": "beneatto-2.jpg",
+            "vari3": "beneatto-3.jpg",
+            "vari4": "beneatto-4.jpg"
+        }
+    },
+    {
+        "id": 23,
+        "img": "tamesis.jpg",
+        "name": "Támesis",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y muro",
+        "variations": {
+            "vari1": "tamesis-1.jpg",
+            "vari2": "tamesis-2.jpg",
+            "vari3": "tamesis-3.jpg",
+            "vari4": "tamesis-4.jpg"
+        }
+    },
+    {
+        "id": 24,
+        "img": "chamonix.jpg",
+        "name": "Chamonix",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y muro",
+        "variations": {
+            "vari1": "chamonix-1.jpg",
+            "vari2": "chamonix-2.jpg",
+            "vari3": "chamonix-3.jpg",
+            "vari4": "chamonix-4.jpg"
+        }
+    },
+    {
+        "id": 25,
+        "img": "constantino.jpg",
+        "name": "Constantino",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso",
+        "variations": {
+            "vari1": "constantino-1.jpg"
+        }
+    },
+    {
+        "id": 26,
+        "img": "leonardos.jpg",
+        "name": "Leonardo's",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y muro",
+        "variations": {
+            "vari1": "leonardos-1.jpg",
+            "vari2": "leonardos-2.jpg",
+            "vari3": "leonardos-3.jpg"
+        }
+    },
+    {
+        "id": 27,
+        "img": "ipanema.jpg",
+        "name": "Ipanema",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y muro",
+        "variations": {
+            "vari1": "ipanema-1.jpg",
+            "vari2": "ipanema-2.jpg",
+            "vari3": "ipanema-3.jpg"
+        }
+    },
+    {
+        "id": 28,
+        "img": "montebello.jpg",
+        "name": "Montebello",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Porcelánico",
+        "variations": {
+            "vari1": "montebello-1.jpg"
+        }
+    },
+    {
+        "id": 29,
+        "img": "piamont.jpg",
+        "name": "Piamont",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Porcelánico",
+        "variations": {
+            "vari1": "piamont-1.jpg",
+            "vari2": "piamont-2.jpg",
+            "vari3": "piamont-3.jpg",
+            "vari4": "piamont-4.jpg"
+        }
+    },
+    {
+        "id": 30,
+        "img": "padova.jpg",
+        "name": "Padova",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Super Gres/Porcelánico",
+        "variations": {
+            "vari1": "padova-1.jpg",
+            "vari2": "padova-2.jpg"
+        }
     }
 ]

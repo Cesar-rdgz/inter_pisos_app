@@ -95,7 +95,7 @@ function owlInit(){
         items: numOwlItems,
         itemsDesktop:[1199,2],
         itemsDesktopSmall:[980,2],
-        itemsMobile:[700,1.7],
+        itemsMobile:[700,2],
         pagination:false,
         navigation:true,
         navigationText:["",""],
