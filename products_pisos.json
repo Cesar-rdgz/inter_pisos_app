@@ -630,5 +630,308 @@
         "variations": {
             "vari1": "lombardi-1.jpg"
         }
+    },
+    {
+        "id": 41,
+        "img": "valenzi.jpg",
+        "name": "Valenzi",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo piedra mármol, café cálido, acabado mate liso",
+        "variations": {
+            "vari1": "valenzi-1.jpg"
+        }
+    },
+    {
+        "id": 42,
+        "img": "montecarlo.jpg",
+        "name": "Monte Carlo",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo piedra mármol, blanco, acabado mate liso",
+        "variations": {
+            "vari1": "montecarlo-1.jpg"
+        }
+    },
+    {
+        "id": 43,
+        "img": "zadar.jpg",
+        "name": "Zadar",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo piedra mármol, gris, acabado mate liso",
+        "variations": {
+            "vari1": "zadar-1.jpg"
+        }
+    },
+    {
+        "id": 44,
+        "img": "astor.jpg",
+        "name": "Astor",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared/Piso super gres tipo madera café / beige, café cálido, acabado mate liso",
+        "variations": {
+            "vari1": "astor-1.jpg",
+            "vari2": "astor-2.jpg"
+        }
+    },
+    {
+        "id": 45,
+        "img": "greensboro.jpg",
+        "name": "Greensboro",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo madera, café cálido, acabado mate liso",
+        "variations": {
+            "vari1": "greensboro-1.jpg"
+        }
+    },
+    {
+        "id": 46,
+        "img": "roble.jpg",
+        "name": "Roble",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo madera, café cálido, acabado mate liso",
+        "variations": {
+            "vari1": "roble-1.jpg"
+        }
+    },
+    {
+        "id": 47,
+        "img": "daytona.jpg",
+        "name": "Daytona",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared cerámica liso, negro frío, blanco y azul, texturizado acabado mate com aspecto 3d (ondas)",
+        "variations": {
+            "vari1": "daytona-1.jpg",
+            "vari2": "daytona-2.jpg",
+            "vari3": "daytona-3.jpg"
+        }
+    },
+    {
+        "id": 48,
+        "img": "siore.jpg",
+        "name": "Siore",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared cerámica liso, Beige",
+        "variations": {
+            "vari1": "siore-1.jpg"
+        }
+    },
+    {
+        "id": 49,
+        "img": "andrea.jpg",
+        "name": "Andrea",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared cerámica liso, acabado blanco mate",
+        "variations": {
+            "vari1": "andrea-1.jpg"
+        }
+    },
+    {
+        "id": 50,
+        "img": "bardi.jpg",
+        "name": "Bardi",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared y Piso cerámico tipo mármol, blanco cálido acabado brillante liso",
+        "variations": {
+            "vari1": "bardi-1.jpg"
+        }
+    },
+    {
+        "id": 51,
+        "img": "artic.jpg",
+        "name": "Artic",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared cerámica tipo mármol blanco frío, acabado brillante liso",
+        "variations": {
+            "vari1": "artic-1.jpg"
+        }
+    },
+    {
+        "id": 52,
+        "img": "zendo.png",
+        "name": "Zendo",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso cerámica tipo mármol blanco frío, acabado brillante liso",
+        "variations": {
+            "vari1": "zendo-1.png"
+        }
+    },
+    {
+        "id": 53,
+        "img": "kitch.jpg",
+        "name": "Kitch",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso gres decorado, gris cálido, acabado mate liso",
+        "variations": {
+            "vari1": "kitch-1.jpg"
+        }
+    },
+    {
+        "id": 54,
+        "img": "portosanto.jpg",
+        "name": "Porto Santo",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y Muro con elegantes colores",
+        "variations": {
+            "vari1": "portosanto-1.jpg",
+            "vari2": "portosanto-2.jpg",
+            "vari3": "portosanto-3.jpg",
+            "vari4": "portosanto-4.jpg"
+        }
+    },
+    {
+        "id": 55,
+        "img": "portoalegre.jpg",
+        "name": "Porto Alegre",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y Muro con elegantes colores",
+        "variations": {
+            "vari1": "portoalegre-1.jpg",
+            "vari2": "portoalegre-2.jpg",
+            "vari3": "portoalegre-3.jpg",
+            "vari4": "portoalegre-4.jpg"
+        }
+    },
+    {
+        "id": 56,
+        "img": "portofino.jpg",
+        "name": "Porto Fino",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y Muro Pircelánico",
+        "variations": {
+            "vari1": "portofino-1.jpg",
+            "vari2": "portofino-2.jpg",
+            "vari3": "portofino-3.jpg",
+            "vari4": "portofino-4.jpg"
+        }
+    },
+    {
+        "id": 57,
+        "img": "blendwood.jpg",
+        "name": "Blendwood",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y Muro Pircelánico",
+        "variations": {
+            "vari1": "blendwood-1.jpg",
+            "vari2": "blendwood-2.jpg"
+        }
+    },
+    {
+        "id": 58,
+        "img": "calajan.jpg",
+        "name": "Calajan",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared porcelánica tipo madera, gris frío, acabado mate texturizado",
+        "variations": {
+            "vari1": "calajan-1.jpg"
+        }
+    },
+    {
+        "id": 59,
+        "img": "kant.jpg",
+        "name": "Kant",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared porcelánico tipo madera, café frío, acabado mate liso",
+        "variations": {
+            "vari1": "kant-1.jpg"
+        }
+    },
+    {
+        "id": 60,
+        "img": "banff.jpg",
+        "name": "Banff",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared/Piso porcelánico tipo madera café cálido acabado mate texturizado",
+        "variations": {
+            "vari1": "banff-1.jpg"
+        }
     }
 ]
