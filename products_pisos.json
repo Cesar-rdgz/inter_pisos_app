@@ -466,7 +466,7 @@
     {
         "id": 30,
         "img": "padova.jpg",
-        "name": "Padova",
+        "name": "Pádova",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
             "exteriores": "<i class='fas fa-sun'></i>",
@@ -477,6 +477,158 @@
         "variations": {
             "vari1": "padova-1.jpg",
             "vari2": "padova-2.jpg"
+        }
+    },
+    {
+        "id": 31,
+        "img": "frau.jpg",
+        "name": "Frau",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Super Gres",
+        "variations": {
+            "vari1": "frau-1.jpg"
+        }
+    },
+    {
+        "id": 32,
+        "img": "napa.jpg",
+        "name": "Napa",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo mármol, gris frío, acabado mate",
+        "variations": {
+            "vari1": "napa-1.jpg"
+        }
+    },
+    {
+        "id": 33,
+        "img": "nouvelle.jpg",
+        "name": "Nouvelle",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo cemento, gris frío, acabado mate texturizado",
+        "variations": {
+            "vari1": "nouvelle-1.jpg"
+        }
+    },
+    {
+        "id": 34,
+        "img": "lanz.jpg",
+        "name": "Lanz",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo piedra, blanco cálido, acabado mate rugoso",
+        "variations": {
+            "vari1": "lanz-1.jpg"
+        }
+    },
+    {
+        "id": 35,
+        "img": "santotomas.jpg",
+        "name": "Santo Tomás",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo cemento, gris frío, acabado mate",
+        "variations": {
+            "vari1": "santotomas-1.jpg"
+        }
+    },
+    {
+        "id": 36,
+        "img": "lemek.jpg",
+        "name": "Lemek",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo piedra, blanco frío, acabado mate liso",
+        "variations": {
+            "vari1": "lemek-1.jpg",
+            "vari2": "lemek-2.jpg"
+        }
+    },
+    {
+        "id": 37,
+        "img": "gabana.jpg",
+        "name": "Gabana",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres, textil blanco cálido, acabado mate liso y textil café, ",
+        "variations": {
+            "vari1": "gabana-1.jpg",
+            "vari2": "gabana-2.jpg"
+        }
+    },
+    {
+        "id": 38,
+        "img": "gaudi.jpg",
+        "name": "Gaudi",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo piedra, café cálido y gris, acabado mate rugoso",
+        "variations": {
+            "vari1": "gaudi-1.jpg",
+            "vari2": "gaudi-2.jpg"
+        }
+    },
+    {
+        "id": 39,
+        "img": "genova.jpg",
+        "name": "Génova",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo mármol, café cálido y blanco, acabado mate liso",
+        "variations": {
+            "vari1": "genova-1.jpg",
+            "vari2": "genova-2.jpg"
+        }
+    },
+    {
+        "id": 40,
+        "img": "lombardi.jpg",
+        "name": "Lombardi",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo piedra mármol, café cálido, acabado mate liso",
+        "variations": {
+            "vari1": "lombardi-1.jpg"
         }
     }
 ]
