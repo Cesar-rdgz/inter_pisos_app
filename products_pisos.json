@@ -933,5 +933,448 @@
         "variations": {
             "vari1": "banff-1.jpg"
         }
+    },
+    {
+        "id": 61,
+        "img": "vali.jpg",
+        "name": "Vali",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared/Piso porcelánico tipo madera café cálido acabado mate texturizado",
+        "variations": {
+            "vari1": "vali-1.jpg",
+            "vari2": "vali-2.jpg"
+        }
+    },
+    {
+        "id": 62,
+        "img": "balau.jpg",
+        "name": "Balau",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso porcelánico tipo madera, café cálido, blanco y rojo acabado mate texturizado",
+        "variations": {
+            "vari1": "balau-1.jpg",
+            "vari2": "balau-2.jpg",
+            "vari3": "balau-3.jpg"
+        }
+    },
+    {
+        "id": 63,
+        "img": "carioca.jpg",
+        "name": "Carioca",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>"
+            },
+        "type": "Piso gres tipo madera, café cálido y rojo, acabado brillante liso",
+        "variations": {
+            "vari1": "carioca-1.jpg",
+            "vari2": "carioca-2.jpg"
+        }
+    },
+    {
+        "id": 64,
+        "img": "murcia.jpg",
+        "name": "Murcia",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>"
+            },
+        "type": "Piso gres tipo madera, café cálido y rojo, acabado brillante liso",
+        "variations": {
+            "vari1": "murcia-1.jpg",
+            "vari2": "murcia-2.jpg"
+        }
+    },
+    {
+        "id": 65,
+        "img": "fresno.jpg",
+        "name": "Fresno",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso gres decorado verde cálido, acabado brillante liso",
+        "variations": {
+            "vari1": "fresno-1.jpg"
+        }
+    },
+    {
+        "id": 66,
+        "img": "veleta.jpg",
+        "name": "Veleta",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso gres decorado blanco cálido, acabado brillante liso",
+        "variations": {
+            "vari1": "veleta-1.jpg"
+        }
+    },
+    {
+        "id": 67,
+        "img": "solari.jpg",
+        "name": "Solari",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Malla decorativa",
+        "variations": {
+            "vari1": "solari-1.jpg",
+            "vari2": "solari-2.jpg"
+        }
+    },
+    {
+        "id": 68,
+        "img": "marantyalfia.jpg",
+        "name": "Marant",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Malla mármol natural",
+        "variations": {
+            "vari1": "marant-1.jpg",
+            "vari2": "marant-2.jpg"
+        }
+    },
+    {
+        "id": 69,
+        "img": "baltico.jpg",
+        "name": "Báltico",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared malla tipo texturizado negro frío, acabado brillante",
+        "variations": {
+            "vari1": "baltico-1.jpg"
+        }
+    },
+    {
+        "id": 70,
+        "img": "bronzo.jpg",
+        "name": "Bronzo",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared malla tipo piedra café cálido, acabado mate rugoso",
+        "variations": {
+            "vari1": "bronzo-1.png"
+        }
+    },
+    {
+        "id": 71,
+        "img": "phoenix.png",
+        "name": "Phoenix",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Malla decorativa Phoenix",
+        "variations": {
+            "vari1": "phoenix-1.png"
+        }
+    },
+    {
+        "id": 72,
+        "img": "piuter.jpg",
+        "name": "Piuter",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Malla decorativa Piuter",
+        "variations": {
+            "vari1": "piuter-1.jpg"
+        }
+    },
+    {
+        "id": 73,
+        "img": "ambar.png",
+        "name": "Ámbar",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Malla decorativa Ámbar",
+        "variations": {
+            "vari1": "ambar-1.png"
+        }
+    },
+    {
+        "id": 74,
+        "img": "fermont.png",
+        "name": "Fermont",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Malla decorativa Fermont",
+        "variations": {
+            "vari1": "fermont-1.jpg"
+        }
+    },
+    {
+        "id": 75,
+        "img": "louisiana.png",
+        "name": "Louisiana",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Malla decorativa Louisiana",
+        "variations": {
+            "vari1": "louisiana-1.png"
+        }
+    },
+    {
+        "id": 76,
+        "img": "floyd.png",
+        "name": "Floyd",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Malla decorativa Floyd",
+        "variations": {
+            "vari1": "floyd-1.png"
+        }
+    },
+    {
+        "id": 77,
+        "img": "alabama.jpg",
+        "name": "Alabama",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso porcelanico, apariencia madera, color café mate,",
+        "variations": {
+            "vari1": "alabama-1.jpg"
+        }
+    },
+    {
+        "id": 78,
+        "img": "arcosia.jpg",
+        "name": "Arcosia",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso cerámico Arcosia, acabado Marfil, arena mate.",
+        "variations": {
+            "vari1": "arcosia-1.jpg",
+            "vari2": "arcosia-2.jpg",
+            "vari3": "arcosia-3.jpg",
+            "vari4": "arcosia-4.jpg"
+        }
+    },
+    {
+        "id": 79,
+        "img": "ardem.jpg",
+        "name": "Ardem",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso ideal para interiores, baño y cocina, monocolor",
+        "variations": {
+            "vari1": "ardem-1.jpg"
+        }
+    },
+    {
+        "id": 80,
+        "img": "atis.jpg",
+        "name": "Atís",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared/Piso super gres tipo piedra café / beige cálido y gris frío, acabado mate liso",
+        "variations": {
+            "vari1": "atis-1.jpg",
+            "vari2": "atis-2.jpg"
+        }
+    },
+    {
+        "id": 81,
+        "img": "botev.jpg",
+        "name": "Bovet",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo piedra, blanco, café y gris cálido, acabado mate liso",
+        "variations": {
+            "vari1": "bovet-1.jpg",
+            "vari2": "bovet-2.jpg",
+            "vari3": "bovet-3.jpg"
+        }
+    },
+    {
+        "id": 82,
+        "img": "burconi.jpg",
+        "name": "Burconi",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared cerámica tipo piedra café/beige cálido, acabado mate rugoso",
+        "variations": {
+            "vari1": "burconi-1.jpg"
+        }
+    },
+    {
+        "id": 83,
+        "img": "cannonwood.jpg",
+        "name": "Cannon wood",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "Comercial": "<i class='fas fa-store'></i>"
+            },
+        "type": "Piso gres tipo madera, gris cálido, acabado mate texturizado",
+        "variations": {
+            "vari1": "cannonwood-1.jpg"
+        }
+    },
+    {
+        "id": 84,
+        "img": "cascata.jpg",
+        "name": "Cascata",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared cerámica texturizada, blanco frío, café/beige, gris y negro, acabado mate",
+        "variations": {
+            "vari1": "cascata-1.jpg",
+            "vari2": "cascata-2.jpg",
+            "vari3": "cascata-3.jpg",
+            "vari4": "cascata-4.jpg"
+        }
+    },
+    {
+        "id": 85,
+        "img": "cuori.jpg",
+        "name": "Cuori",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared cerámica tipo piedra gris frío, acabado mate texturizado",
+        "variations": {
+            "vari1": "cuori-1.jpg"
+        }
+    },
+    {
+        "id": 86,
+        "img": "decker.jpg",
+        "name": "Decker",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "Comercial": "<i class='fas fa-store'></i>"
+            },
+        "type": "Piso gres tipo madera café cálido, acabado mate texturizado",
+        "variations": {
+            "vari1": "decker-1.jpg"
+        }
+    },
+    {
+        "id": 87,
+        "img": "denver.jpg",
+        "name": "Denver",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared porcelánico tipo madera café / beige cálido, acabado mate texturizado",
+        "variations": {
+            "vari1": "denver-1.jpg"
+        }
+    },
+    {
+        "id": 88,
+        "img": "edimburgo.jpg",
+        "name": "Edimburgo",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared cerámica en varios colores",
+        "variations": {
+            "vari1": "edimburgo-1.jpg",
+            "vari2": "edimburgo-2.jpg",
+            "vari3": "edimburgo-3.jpg",
+            "vari4": "edimburgo-4.jpg"
+        }
+    },
+    {
+        "id": 89,
+        "img": "elkwood.jpg",
+        "name": "Elkwood",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "Comercial": "<i class='fas fa-store'></i>"
+            },
+        "type": "Piso gres tipo madera café / beige cálido, acabado mate texturizado",
+        "variations": {
+            "vari1": "elkwood-1.jpg"
+        }
+    },
+    {
+        "id": 90,
+        "img": "hanover.jpg",
+        "name": "Hanover",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "Comercial": "<i class='fas fa-store'></i>"
+            },
+        "type": "Piso gres tipo madera, café cálido, acabado mate liso",
+        "variations": {
+            "vari1": "hanover-1.jpg"
+        }
     }
 ]
