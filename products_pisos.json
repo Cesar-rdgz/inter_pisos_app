@@ -1376,5 +1376,398 @@
         "variations": {
             "vari1": "hanover-1.jpg"
         }
+    },
+    {
+        "id": 91,
+        "img": "helsinki.jpg",
+        "name": "Helsinki",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo piedra, blanco cálido, acabado mate rugoso",
+        "variations": {
+            "vari1": "Helsinki-1.jpg"
+        }
+    },
+    {
+        "id": 92,
+        "img": "hubbert.jpg",
+        "name": "Hubbert",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared porcelánico tipo madera, café cálido, acabado mate liso",
+        "variations": {
+            "vari1": "hubbert-1.jpg"
+        }
+    },
+    {
+        "id": 93,
+        "img": "kiel.jpg",
+        "name": "Kiel",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo piedra, gris frío y beig, acabado mate rugoso",
+        "variations": {
+            "vari1": "kiel-1.jpg",
+            "vari2": "kiel-2.jpg",
+            "vari3": "kiel-3.jpg"
+        }
+    },
+    {
+        "id": 94,
+        "img": "leighton.jpg",
+        "name": "Leighton",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared super gres tipo cemento, negro frío, negro gris y beig, acabado mate liso",
+        "variations": {
+            "vari1": "leighton-1.jpg",
+            "vari2": "leighton-2.jpg",
+            "vari3": "leighton-3.jpg"
+        }
+    },
+    {
+        "id": 95,
+        "img": "levicato.jpg",
+        "name": "Levicato",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared porcelánica tipo mármol, gris frío, acabado mate liso",
+        "variations": {
+            "vari1": "levicato-1.jpg"
+        }
+    },
+    {
+        "id": 96,
+        "img": "lubeck.jpg",
+        "name": "Lubeck",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared porcelánica tipo madera, café cálido, acabado mate liso",
+        "variations": {
+            "vari1": "lubeck-1.jpg",
+            "vari2": "lubeck-2.jpg"
+        }
+    },
+    {
+        "id": 97,
+        "img": "maier.jpg",
+        "name": "Maier",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared porcelánico en varios colores: gris cálido, beige,azul,café; acabado mate texturizado",
+        "variations": {
+            "vari1": "maier-1.jpg",
+            "vari2": "maier-2.jpg",
+            "vari3": "maier-3.jpg",
+            "vari4": "maier-4.jpg"
+        }
+    },
+    {
+        "id": 98,
+        "img": "martelgray.jpg",
+        "name": "Martel Gray",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo piedra, gris frío, acabado mate liso",
+        "variations": {
+            "vari1": "martelgray-1.jpg"
+        }
+    },
+    {
+        "id": 99,
+        "img": "memphis.jpg",
+        "name": "Memphis",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "Comercial": "<i class='fas fa-store'></i>"
+            },
+        "type": "Piso gres tipo madera, café cálido, acabado mate texturizado",
+        "variations": {
+            "vari1": "memphis-1.jpg"
+        }
+    },
+    {
+        "id": 100,
+        "img": "milano.jpg",
+        "name": "Milano",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo textil, gris frío, acabado brillante liso",
+        "variations": {
+            "vari1": "milano-1.jpg"
+        }
+    },
+    {
+        "id": 101,
+        "img": "milena.jpg",
+        "name": "Milena",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared cerámica tipo mármol, café / beige cálido, acabado mate liso ",
+        "variations": {
+            "vari1": "milena-1.jpg"
+        }
+    },
+    {
+        "id": 102,
+        "img": "moncler.jpg",
+        "name": "Moncler",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo mármol, blanco cálido, acabado brillante liso",
+        "variations": {
+            "vari1": "moncler-1.jpg"
+        }
+    },
+    {
+        "id": 103,
+        "img": "murano.jpg",
+        "name": "Murano",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared super gres tipo mármol, blanco frío, acabado mate liso",
+        "variations": {
+            "vari1": "murano-1.jpg"
+        }
+    },
+    {
+        "id": 104,
+        "img": "mylo.jpg",
+        "name": "Mylo",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Pared cerámica tipo mármol, blanco frío, acabado mate texturizado",
+        "variations": {
+            "vari1": "mylo-1.jpg"
+        }
+    },
+    {
+        "id": 105,
+        "img": "nebraska.jpg",
+        "name": "Nebraska",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "Comercial": "<i class='fas fa-store'></i>"
+            },
+        "type": "Piso gres tipo madera, café cálido, acabado mate texturizado",
+        "variations": {
+            "vari1": "nebraska-1.jpg"
+        }
+    },
+    {
+        "id": 106,
+        "img": "nekk.jpg",
+        "name": "Nekk",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso y pared porcelánico tipo madera, negro frío, acabado mate texturizado",
+        "variations": {
+            "vari1": "nekk-1.jpg"
+        }
+    },
+    {
+        "id": 107,
+        "img": "parquet.jpg",
+        "name": "Parquet",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso porcelánico tipo madera, café cálido, acabado mate liso",
+        "variations": {
+            "vari1": "parquet-1.jpg"
+        }
+    },
+    {
+        "id": 108,
+        "img": "percal.jpg",
+        "name": "Percal",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso porcelánico tipo madera, café cálido, acabado mate liso",
+        "variations": {
+            "vari1": "percal-1.jpg",
+            "vari2": "percal-2.jpg",
+            "vari3": "percal-3.jpg",
+            "vari4": "percal-4.jpg"
+        }
+    },
+    {
+        "id": 109,
+        "img": "riverwood.jpg",
+        "name": "River Wood",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso porcelánico tipo madera, café cálido, acabado mate liso",
+        "variations": {
+            "vari1": "riverwood-1.jpg"
+        }
+    },
+    {
+        "id": 110,
+        "img": "rochelle.jpg",
+        "name": "Rochelle",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso porcelánico tipo madera, café cálido, acabado mate liso",
+        "variations": {
+            "vari1": "rochelle-1.jpg"
+        }
+    },
+    {
+        "id": 111,
+        "img": "sanmiguel.jpg",
+        "name": "San Miguel",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso porcelánico Arena, Margil, Taupé, Terracota",
+        "variations": {
+            "vari1": "sanmiguel-1.jpg"
+        }
+    },
+    {
+        "id": 112,
+        "img": "santorini.jpg",
+        "name": "Santorini",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso porcelánico Monocolor",
+        "variations": {
+            "vari1": "santorini-1.jpg"
+        }
+    },
+    {
+        "id": 113,
+        "img": "stockton.jpg",
+        "name": "Stockton",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "Comercial": "<i class='fas fa-store'></i>"
+            },
+        "type": "Piso porcelánico Monocolor",
+        "variations": {
+            "vari1": "stockton-1.jpg"
+        }
+    },
+    {
+        "id": 114,
+        "img": "trenton.jpg",
+        "name": "Trenton",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso porcelánico Silver, Light Gray, Sand",
+        "variations": {
+            "vari1": "trenton-1.jpg",
+            "vari2": "trenton-2.jpg",
+            "vari3": "trenton-3.jpg"
+        }
+    },
+    {
+        "id": 115,
+        "img": "vermont.jpg",
+        "name": "Vermont",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "exteriores": "<i class='fas fa-sun'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso porcelánico Monocolor",
+        "variations": {
+            "vari1": "vermont-1.jpg"
+        }
+    },
+    {
+        "id": 116,
+        "img": "volterra.jpg",
+        "name": "Volterra",
+        "uses": {
+            "interiores": "<i class='fas fa-couch'></i>",
+            "baños": "<i class='fas fa-toilet'></i>",
+            "cocinas": "<i class='fas fa-utensil-spoon'></i>"
+            },
+        "type": "Piso porcelánico café cálido",
+        "variations": {
+            "vari1": "volterra-1.jpg"
+        }
     }
 ]
