@@ -335,6 +335,7 @@
 
 .container.products .item-selected #item-selected-specs .ideal-icons .ideal-item span{
     font-size: .7rem;
+    text-align: center;
 }
 
 .container.products .item-selected #item-selected-specs .product-variation{

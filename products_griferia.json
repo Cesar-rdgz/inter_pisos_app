@@ -1,101 +1,113 @@
 [
     {
         "id": 1,
-        "img": "griferia-1.webp",
-        "name": "Oxford",
+        "img": "panel2301.jpg",
+        "name": "Panel Modelo 2301",
         "uses": {
-                "Porcelanico": "<i class='fas fa-toilet'></i>"
+                "Aleación de Aluminio": ""
                 },
-        "type": "Lavabo y pedesta Oxford Blanco",
+        "type": "Regadera superior con 50 puntos, 2 Regaderes frontales con 50 puntos, Manguera reforzada de 1.50mts",
         "variations": {
+            "var1": "2301-1.jpg",
+            "var2": "2301-2.jpg"
         }
     },
     {
         "id": 2,
-        "img": "griferia-2.webp",
-        "name": "Mezcladora",
+        "img": "panel2311.jpg",
+        "name": "Panel Modelo 2311",
         "uses": {
-            "Cromo": "<i class='fas fa-sink'></i>"
+            "Aleación de Aluminio": ""
             },
-        "type": "Mezcladora para lavabo cromo, incluye cubiertas y manerales",
+        "type": "Regadera superior con 50 puntos, 3 regaderas frontales con 16 puntos minijet de silicona c/u,Monomando diseño circular acabado cromo",
         "variations": {
         }
     },
     {
         "id": 3,
-        "img": "griferia-3.webp",
-        "name": "Regadera",
+        "img": "panel2331-B.jpg",
+        "name": "Panel Modelo 2331B",
         "uses": {
-            "Cromo": "<i class='fas fa-sink'></i>"
+            "Aleación de Aluminio": ""
             },
-        "type": "Regadera con brazo y chapetón, regadera de chorro fijo con sistema anticalcáreo, incluye brazo y chapetón",
+        "type": "Regadera superior con 22 puntos, 2 regaderas frontales con 22 puntos, Monomando diseño circular acabado cromo",
         "variations": {
+            "var1": "panel2331-B-1.jpg",
+            "var2": "panel2331-B-2.jpg",
+            "var3": "panel2331-B-3.jpg"
         }
     },
     {
         "id": 4,
-        "img": "griferia-4.webp",
-        "name": "Mezcladora",
+        "img": "panel2331-S.jpg",
+        "name": "Panel Modelo 2331s",
         "uses": {
-            "Cromo": "<i class='fas fa-sink'></i>"
+            "Aleación de aluminio": ""
             },
-        "type": "Mezcladora P/LAV, reduce el consumo de agua por 30%, grifo montado en la cubierta del fregador o el mostrador",
+        "type": "Chasis diseño one piece, Regadera superior con 22 puntos,  2 regaderas frontales con 22 puntos",
         "variations": {
+            "var1": "panel2331-S-1.jpg",
+            "var2": "panel2331-S-3.jpg",
+            "var3": "panel2331-S-2.jpg"
         }
     },
     {
         "id": 5,
-        "img": "griferia-5.webp",
-        "name": "Monomando",
+        "img": "panel2302.jpg",
+        "name": "Panel Modelo 2302",
         "uses": {
-                "Cromo": "<i class='fas fa-sink'></i>"
+                "Aleación de Aluminio": ""
             },
-        "type": "Monomando tecnología avanzada de válvula con disco cerámico con garantía de nunca tener fugas.",
+        "type": "Chasis diseño one piece, Regadera superior con 50 puntos, 2 regaderas frontales con 50 puntos, Monomando diseño circular acabado cromo",
         "variations": {
         }
     },
     {
         "id": 6,
-        "img": "griferia-6.webp",
-        "name": "Monomando",
+        "img": "panel2113.jpg",
+        "name": "Panel Modelo 2113",
         "uses": {
-                "Cromo": "<i class='fas fa-sink'></i>"
+                "Acero inoxidable": ""
             },
-        "type": "Tecnología avanzada de válvula con disco de cerámica con garantía de nunca tener fugas, incluye dispensador de jabón combinado",
+        "type": "Chasis diseño compuesto, Regadera superior con 50 puntos, 2 regaderas frontales con 50 puntos, Regadera de mano en latón acabado cromo",
         "variations": {
+            "var1": "panel2113-1.jpg"
         }
     },
     {
         "id": 7,
-        "img": "griferia-7.jpg",
-        "name": "Monomando",
+        "img": "panel2123.jpg",
+        "name": "Panel para ducha",
         "uses": {
-                "Cromo": "<i class='fas fa-sink'></i>"
+                "Acero inoxidable": ""
             },
-        "type":"Tecnología avanzada de válvula con dico de cerámica con garantía de nunca tener fugas, fácil instalación sin herramienta.",
+        "type":"Modelo 2123, Chasis diseño one piece,Salida superior efecto cascada, Regadera de mano en latón acabado cromo",
         "variations": {
+            "var1": "panel2123-1.jpg"
         }
     },
     {
         "id": 8,
-        "img": "griferia-8.jpg",
-        "name": "Regadera",
+        "img": "panel2169.jpg",
+        "name": "Panel para ducha",
         "uses": {
-                "Cromo": "<i class='fas fa-sink'></i>"
+                "Acero Inoxidable": ""
             },
-        "type": "Regadera C/Brazo y manijas, instalación de 3 orificios",
+        "type": "Chasis diseño compuesto, Regadera superior con 50 puntos, 4 miniregaderas frontales direccionales con 9 puntos",
         "variations": {
+            "var1": "panel2169-1.jpg"
         }
     },
     {
         "id": 9,
-        "img": "griferia-9.jpg",
-        "name": "Regadera",
+        "img": "panel2175.jpg",
+        "name": "Panel para ducha",
         "uses": {
-                "Cromo": "<i class='fas fa-sink'></i>"
+                "Acero Inoxidable": ""
             },
-        "type": "Tecnología avanzada de válvula con disco de cerámica con garantía de nunca tener fugas",
+        "type": "Chasis diseño one piece, Regadera superior con 50 puntos, Manguera reforzada de 1.50mts de aluminio",
         "variations": {
+            "var1": "panel2175-1.jpg";
         }
     },
     {
