@@ -257,9 +257,9 @@
     {
         "id": 22,
         "img": "satinlluvia.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Ducha rendonda",
         "uses": {
-            "Ducha redonda": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
         "variations": {
@@ -270,9 +270,9 @@
     {
         "id": 23,
         "img": "cromolluvia.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Ducha redonda",
         "uses": {
-            "Ducha redonda": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
         "variations": {
@@ -282,9 +282,9 @@
     {
         "id": 24,
         "img": "cuadradasatin.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Ducha cuadrada",
         "uses": {
-            "Ducha cuadrada": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
         "variations": {
@@ -294,9 +294,9 @@
     {
         "id": 25,
         "img": "cuadradacromo.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Ducha cuadrada",
         "uses": {
-            "Ducha cuadrada": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
         "variations": {
@@ -306,9 +306,9 @@
     {
         "id": 26,
         "img": "rectangular.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Ducha cuadrada",
         "uses": {
-            "Ducha cuadrada": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
         "variations": {
@@ -318,9 +318,9 @@
     {
         "id": 27,
         "img": "led.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Regadera luz LED",
         "uses": {
-            "Luz LED": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acero Inoxidable, Sistema generador de energía, el flujo de agua activa mini leds que cambian de color acorde a la temperatura del agua, NO requiere conexión eléctrica",
         "variations": {
@@ -330,9 +330,9 @@
     {
         "id": 28,
         "img": "led2.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Regadera luz LED",
         "uses": {
-            "Luz LED": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acero Inoxidable, 4 lámparas perimetrales de luz LED blanca, Incluye regulador de voltaje para su funcionamiento, Requiere acometida eléctrica",
         "variations": {
@@ -342,9 +342,9 @@
     {
         "id": 29,
         "img": "cascada-circular-cromo.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Brazo con cascada",
         "uses": {
-            "A muro con cascada": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Salida efecto cascada, Salida efecto lluvia redonda de siliconas anticalcarie desmontables, Soporte a muro",
         "variations": {
@@ -354,9 +354,9 @@
     {
         "id": 30,
         "img": "cascada-circular-satin.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Brazon con cascada",
         "uses": {
-            "A muro con cascada": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acabado satín, Salida efecto cascada, Salida efecto lluvia redonda de siliconas anticalcarie desmontables, Soporte a muro",
         "variations": {
@@ -366,9 +366,9 @@
     {
         "id": 31,
         "img": "cascada-cuadrada-cromo.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Brazo con cascada",
         "uses": {
-            "A muro con cascada": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acabado satín, Salida efecto cascada, Salida efecto lluvia redonda de siliconas anticalcarie desmontables, Soporte a muro",
         "variations": {
@@ -378,9 +378,9 @@
     {
         "id": 32,
         "img": "cascada-cuadrada-satin.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Brazo a muro",
         "uses": {
-            "A muro con cascada": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acabado satín, Salida efecto cascada, Salida efecto lluvia redonda de siliconas anticalcarie desmontables, Soporte a muro",
         "variations": {
@@ -390,9 +390,9 @@
     {
         "id": 33,
         "img": "brazo1.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Brazo a muro",
         "uses": {
-            "Brazo a muro": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acabado cromo espejo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 40cm de largo",
         "variations": {
@@ -402,9 +402,9 @@
     {
         "id": 34,
         "img": "BRM01-S.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Brazo a muro",
         "uses": {
-            "Brazo a muro": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acabado cromo espejo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 40cm de largo",
         "variations": {
@@ -414,9 +414,9 @@
     {
         "id": 35,
         "img": "BRM02.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Brazo a muro",
         "uses": {
-            "Brazo a muro": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acabado cromo espejo, Perfil circular, chapetón cuadrado incluido, Conexión de 1/2\", 32.5cm de largo",
         "variations": {
@@ -426,9 +426,9 @@
     {
         "id": 36,
         "img": "BRM02-S.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Brazo a muro",
         "uses": {
-            "Brazo a muro": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acabado satín, Perfil circular, chapetón redondo incluido, Conexión de 1/2\", 32.5cm de largo",
         "variations": {
@@ -438,9 +438,9 @@
     {
         "id": 37,
         "img": "BRM03.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "brazo a muro",
         "uses": {
-            "Brazo a muro": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acabado cromo espejo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 32.5cm de largo",
         "variations": {
@@ -450,9 +450,9 @@
     {
         "id": 38,
         "img": "BRM03-S.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Brazo a muro",
         "uses": {
-            "Brazo a muro": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acabado satín, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 32.5cm de largo",
         "variations": {
@@ -462,9 +462,9 @@
     {
         "id": 39,
         "img": "BRP01-S.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Brazo a muro",
         "uses": {
-            "Brazo a muro": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acabado satín, Conexión para techo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 30cm de largo",
         "variations": {
@@ -474,9 +474,9 @@
     {
         "id": 40,
         "img": "BRP02-S.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Brazo a muro",
         "uses": {
-            "Brazo a muro": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acabado satín, Conexión para techo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 20cm de largo",
         "variations": {
@@ -486,9 +486,9 @@
     {
         "id": 41,
         "img": "BRP03.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Brazo a muro",
         "uses": {
-            "Brazo a muro": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acabado cromo espejo, Conexión para techo, Perfil cuadrado, chapetón redondo incluido, Conexión de 1/2\", 27cm de largo",
         "variations": {
@@ -498,13 +498,313 @@
     {
         "id": 42,
         "img": "BRP03-S.jpg",
-        "name": "Ducha efecto lluvia",
+        "name": "Brazo a muro",
         "uses": {
-            "Brazo a muro": ""
+            "Ducha efecto lluvia": ""
             },
         "type":"Acabado satín, Conexión para techo, Perfil circular, chapetón redondo incluido, Conexión de 1/2\", 27cm de largo",
         "variations": {
             "var1": "BRP03-S.jpg"
+        }
+    },
+    {
+        "id": 43,
+        "img": "mon-01.png",
+        "name": "Monomando",
+        "uses": {
+            "Ducha efecto lluvia": ""
+            },
+        "type":"Acabado cromo, Activa el paso del agua al levantarse el maneral, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
+        "variations": {
+            "var1": "mon-01.png"
+        }
+    },
+    {
+        "id": 44,
+        "img": "nom-01s.png",
+        "name": "Monomando",
+        "uses": {
+            "Ducha efecto lluvia": ""
+            },
+        "type":"Acabado satín, Activa el paso del agua al levantarse el maneral, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
+        "variations": {
+            "var1": "nom-01s.png"
+        }
+    },
+    {
+        "id": 45,
+        "img": "mon02.jpg",
+        "name": "Monomando",
+        "uses": {
+            "Ducha efecto lluvia": ""
+            },
+        "type":"Acabado cromo, Activa el paso del agua al levantarse el maneral, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
+        "variations": {
+            "var1": "mon02.jpg"
+        }
+    },
+    {
+        "id": 46,
+        "img": "mon02s.jpg",
+        "name": "Monomando",
+        "uses": {
+            "Ducha efecto lluvia": ""
+            },
+        "type":"Acabado satín, Activa el paso del agua al levantarse el maneral, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
+        "variations": {
+            "var1": "mon02s.jpg"
+        }
+    },
+    {
+        "id": 47,
+        "img": "mon-03.png",
+        "name": "Monomando",
+        "uses": {
+            "Ducha efecto lluvia": ""
+            },
+        "type":"Acabado cromo, Activa el paso del agua al levantarse el maneral, Realiza el cambio de salida a través del desviador, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
+        "variations": {
+            "var1": "mon-03.png"
+        }
+    },
+    {
+        "id": 48,
+        "img": "mon-03s.png",
+        "name": "Monomando",
+        "uses": {
+            "Ducha efecto lluvia": ""
+            },
+        "type":"Acabado satín, Activa el paso del agua al levantarse el maneral, Realiza el cambio de salida a través del desviador, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
+        "variations": {
+            "var1": "mon-03s.png"
+        }
+    },
+    {
+        "id": 49,
+        "img": "mon04.jpg",
+        "name": "Monomando",
+        "uses": {
+            "Ducha efecto lluvia": ""
+            },
+        "type":"Acabado cromo, Activa el paso del agua al levantarse el maneral, Realiza el cambio de salida a través del desviador, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
+        "variations": {
+            "var1": "mon04.jpg"
+        }
+    },
+    {
+        "id": 50,
+        "img": "KS01.jpg",
+        "name": "Kit regadera de mano",
+        "uses": {
+            "Ducha de mano": ""
+            },
+        "type":"Acabado satín, Regadera de mano perfil cúbico, 45 puntos de salida de agua, Manguera reforzada de 1.50mts de aluminio, Base a muro Conexión de 1/2\"",
+        "variations": {
+            "var1": "KS01.jpg"
+        }
+    },
+    {
+        "id": 51,
+        "img": "KC01.jpg",
+        "name": "Kit regadera de mano",
+        "uses": {
+            "Ducha de mano": ""
+            },
+        "type":"Acabado satín, Regadera de mano perfil cúbico, 45 puntos de salida de agua, Manguera reforzada de 1.50mts de aluminio, Base a muro Conexión de 1/2\"",
+        "variations": {
+            "var1": "KC01.jpg"
+        }
+    },
+    {
+        "id": 52,
+        "img": "troquelredondo.jpg",
+        "name": "Coladera troquel redondo",
+        "uses": {
+            "Coladeras lineales": ""
+            },
+        "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa con troquelado redondo, cespol antiolores incluido",
+        "variations": {
+            "var1": "troquelredondo.jpg"
+        }
+    },
+    {
+        "id": 53,
+        "img": "troquelcuadrado.jpg",
+        "name": "Coladera troquel cuadrado",
+        "uses": {
+            "Coladeras lineales": ""
+            },
+        "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa con troquelado cuadrado, cespol antiolores incluido",
+        "variations": {
+            "var1": "troquelcuadrado.jpg"
+        }
+    },
+    {
+        "id": 54,
+        "img": "troquelrejilla.jpg",
+        "name": "Coladera de rejilla",
+        "uses": {
+            "Coladeras lineales": ""
+            },
+        "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa tipo rejilla, cespol antiolores incluido",
+        "variations": {
+            "var1": "troquelrejilla.jpg"
+        }
+    },
+    {
+        "id": 55,
+        "img": "coladeradesalojo.jpg",
+        "name": "Coladera desalojo perimetral",
+        "uses": {
+            "Coladeras lineales": ""
+            },
+        "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa acero liso para desalojo perimetral, cespol antiolores incluido",
+        "variations": {
+            "var1": "coladeradesalojo.jpg"
+        }
+    },
+    {
+        "id": 56,
+        "img": "coladeradeinserto.jpg",
+        "name": "Coladera para inserto",
+        "uses": {
+            "Coladeras lineales": ""
+            },
+        "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa con charola para inserto de recubrimiento, cespol antiolores incluido",
+        "variations": {
+            "var1": "coladeradeinserto.jpg"
+        }
+    },
+    {
+        "id": 57,
+        "img": "modelo400.jpg",
+        "name": "Céspol antiolores",
+        "uses": {
+            "Coladeras lineales": ""
+            },
+        "type":"Fabricado en ABS, Sistema de contrapeso, antiolores y anti-insectos, Compatible con PVC, Salida a desalojo lateral de 2\"",
+        "variations": {
+            "var1": "modelo400.jpg"
+        }
+    },
+    {
+        "id": 58,
+        "img": "TF01.jpg",
+        "name": "Tina trapezoidal cuva",
+        "uses": {
+            "Tinas Freestanding": ""
+            },
+        "type":"Diseño trapezoidal con bordes y esquinas curvas, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 290 litros aprox.",
+        "variations": {
+            "var1": "TF01.jpg"
+        }
+    },
+    {
+        "id": 59,
+        "img": "TF02.jpg",
+        "name": "Tina trapezoidal recta",
+        "uses": {
+            "Tinas Freestanding": ""
+            },
+        "type":"Diseño trapezoidal con bordes y esquinas rectas, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 275 litros aprox.",
+        "variations": {
+            "var1": "TF02.jpg"
+        }
+    },
+    {
+        "id": 60,
+        "img": "TF03.jpg",
+        "name": "Tina oval",
+        "uses": {
+            "Tinas Freestanding": ""
+            },
+        "type":"Diseño oval, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 290 litros aprox.",
+        "variations": {
+            "var1": "TF03.jpg"
+        }
+    },
+    {
+        "id": 61,
+        "img": "TF04.jpg",
+        "name": "Tina ogánico",
+        "uses": {
+            "Tinas Freestanding": ""
+            },
+        "type":"Diseño orgánico, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 250 litros aprox.",
+        "variations": {
+            "var1": "TF04.jpg"
+        }
+    },
+    {
+        "id": 62,
+        "img": "TF05.jpg",
+        "name": "Tina ogánico repisa",
+        "uses": {
+            "Tinas Freestanding": ""
+            },
+        "type":"Diseño orgánico con repisa, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 205 litros aprox.",
+        "variations": {
+            "var1": "TF05.jpg"
+        }
+    },
+    {
+        "id": 63,
+        "img": "TF02-S-2.jpg",
+        "name": "Tina borde ancho",
+        "uses": {
+            "Tinas Freestanding": ""
+            },
+        "type":"Diseño trapezoidal con borde exterior ancho para aislamiento térmico, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 190 litros aprox.",
+        "variations": {
+            "var1": "TF02-S-2.jpg"
+        }
+    },
+    {
+        "id": 64,
+        "img": "TF02-W.jpg",
+        "name": "Tina borde ancho",
+        "uses": {
+            "Tinas Freestanding": ""
+            },
+        "type":"Diseño trapezoidal con borde exterior ancho para aislamiento térmico, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 275 litros aprox.",
+        "variations": {
+            "var1": "TF02-W.jpg"
+        }
+    },
+    {
+        "id": 65,
+        "img": "TF03-W.jpg",
+        "name": "Tina borde ancho",
+        "uses": {
+            "Tinas Freestanding": ""
+            },
+        "type":"Diseño trapezoidal con borde exterior ancho para aislamiento térmico, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 290 litros aprox.",
+        "variations": {
+            "var1": "TF03-W.jpg"
+        }
+    },
+    {
+        "id": 66,
+        "img": "TF06.jpg",
+        "name": "Tina ovoide",
+        "uses": {
+            "Tinas Freestanding": ""
+            },
+        "type":"Diseño ovoide, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 290 litros aprox.",
+        "variations": {
+            "var1": "TF06.jpg"
+        }
+    },
+    {
+        "id": 67,
+        "img": "deck.jpg",
+        "name": "Tapete de ducha",
+        "uses": {
+            "Tinas Freestanding": ""
+            },
+        "type":"Hecho en México, Elaborado de madera cumarú, Acabado mate, 2 capas de laca protectora waterproof, base de caucho antiderrapante, ideal para áreas húmedas",
+        "variations": {
+            "var1": "deck.jpg"
         }
     }
 ]
