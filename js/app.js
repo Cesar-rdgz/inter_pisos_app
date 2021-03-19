@@ -1,16 +1,3 @@
-/*$(document).ready(function(){
-$("#product-slider").owlCarousel({
-    items: 10,
-    itemsDestop:[1199,2],
-    itemsDestopSmall:[980,2],
-    itemsMobile:[700,1.7],
-    pagination:false,
-    navigation:true,
-    navigationText:["",""],
-    autoPlay:true
-});
-});*/
-
 setTimeout(() => {
     const spinner = document.querySelector('.spinner-container');
     

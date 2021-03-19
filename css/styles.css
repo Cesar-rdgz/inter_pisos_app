@@ -244,6 +244,8 @@
     background-color: #fff;
     transform: translateY(100%);
     transition: all .3s ease-in-out;
+
+    overflow: scroll;
 }
 
 .container.products .item-selected .item-selected-img{

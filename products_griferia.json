@@ -107,18 +107,404 @@
             },
         "type": "Chasis diseño one piece, Regadera superior con 50 puntos, Manguera reforzada de 1.50mts de aluminio",
         "variations": {
-            "var1": "panel2175-1.jpg";
+            "var1": "panel2175-1.jpg"
         }
     },
     {
         "id": 10,
-        "img": "griferia-10.webp",
-        "name": "Monomando",
+        "img": "panel2195.jpg",
+        "name": "Panel para ducha",
         "uses": {
-            "Cromo": "<i class='fas fa-sink'></i>"
+            "Acero Inoxidable": ""
             },
-        "type":"Monomando para lavabo",
+        "type":"Regadera superior de acero inoxidable circular de 20cm con brazo de latón circular",
         "variations": {
+            "var1": "panel2195.jpg"
+        }
+    },
+    {
+        "id": 11,
+        "img": "panel2123-T.jpg",
+        "name": "Panel para ducha",
+        "uses": {
+            "Acero Inoxidable": ""
+            },
+        "type":"Salida superior efecto cascada, Regadera superior con 50 puntos, 2 regaderas frontales con 50 puntos",
+        "variations": {
+            "var1": "panel2123-T.jpg"
+        }
+    },
+    {
+        "id": 12,
+        "img": "panel2757-N.jpg",
+        "name": "Panel para ducha",
+        "uses": {
+            "Cristal Templado": ""
+            },
+        "type":"Acabado color negro brillante, Regadera superior de acero inoxidable circular de 15cm",
+        "variations": {
+            "var1": "panel2757-N.jpg"
+        }
+    },
+    {
+        "id": 13,
+        "img": "panel27607.jpg",
+        "name": "Panel para ducha",
+        "uses": {
+            "Cristal Templado": ""
+            },
+        "type":"Acabado color blanco brillante, Regadera superior de ABS circular de 20cm, 6 mini regaderas direccionales de ABS, Regadera de mano multimodal en ABS acabado cromo",
+        "variations": {
+            "var1": "panel27607.jpg"
+        }
+    },
+    {
+        "id": 14,
+        "img": "panel27608.jpg",
+        "name": "Panel para ducha",
+        "uses": {
+            "Cristal Templado": ""
+            },
+        "type":"Acabado color negro brillante, Regadera superior de ABS circular de 20cm, 6 mini regaderas direccionales de ABS, Regadera de mano multimodal en ABS acabado cromo",
+        "variations": {
+            "var1": "panel27608.jpg"
+        }
+    },
+    {
+        "id": 15,
+        "img": "panel2757-R.jpg",
+        "name": "Panel para ducha",
+        "uses": {
+            "Cristal Templado": ""
+            },
+        "type":"Acabado color rojo brillante, Regadera superior de acero inoxidable circular de 15cm, Monomando diseño circular acabado cromo",
+        "variations": {
+            "var1": "panel2757-R.jpg"
+        }
+    },
+    {
+        "id": 16,
+        "img": "panel2779-b.jpg",
+        "name": "Panel para ducha",
+        "uses": {
+            "Conexion superior": ""
+            },
+        "type":"Acabado color blanco brillante, Panel diseño one piece, Regadera superior de acero inoxidable circular de 20cm, 2 mini regaderas frontales direccionales de acero inoxidable",
+        "variations": {
+            "var1": "panel2779-b.jpg"
+        }
+    },
+    {
+        "id": 17,
+        "img": "panel2779-N.jpg",
+        "name": "Panel para ducha",
+        "uses": {
+            "Conexion superior": ""
+            },
+        "type":"Acabado color negro brillante, Regadera superior de acero inoxidable circular de 20cm, 2 mini regaderas frontales direccionales de acero inoxidable",
+        "variations": {
+            "var1": "panel2779-N.jpg"
+        }
+    },
+    {
+        "id": 18,
+        "img": "panel2782-B.jpg",
+        "name": "Panel para ducha",
+        "uses": {
+            "Conexion superior": ""
+            },
+        "type":"Acabado color blanco brillante, Chasis posterior en aluminio color plata, Regadera superior de acero inoxidable circular de 20cm,  mini regaderas frontales direccionales de acero inoxidable",
+        "variations": {
+            "var1": "panel2782-B.jpg"
+        }
+    },
+    {
+        "id": 19,
+        "img": "panel2785-N.jpg",
+        "name": "Panel para ducha",
+        "uses": {
+            "Conexion superior": ""
+            },
+        "type":"Acabado color negro brillante, Regadera superior de acero inoxidable cuadrada de 20cm con brazo cuadrado acabado cromo, 2 mini regaderas frontales direccionales de acero inoxidable acabado satín",
+        "variations": {
+            "var1": "panel2785-N.jpg"
+        }
+    },
+    {
+        "id": 20,
+        "img": "panel2785-R.jpg",
+        "name": "Panel para ducha",
+        "uses": {
+            "Conexion superior": ""
+            },
+        "type":"Acabado color rojo brillante, Regadera superior de acero inoxidable cuadrada de 20cm con brazo cuadrado acabado cromo, 2 mini regaderas frontales direccionales de acero inoxidable acabado satín",
+        "variations": {
+            "var1": "panel2785-R.jpg"
+        }
+    },
+    {
+        "id": 21,
+        "img": "panel2782-W.jpg",
+        "name": "Panel para ducha",
+        "uses": {
+            "Conexion superior": ""
+            },
+        "type":"Acabado color negro brillante, Regadera superior de acero inoxidable circular de 20cm, 2 mini regaderas frontales direccionales de acero inoxidable",
+        "variations": {
+            "var1": "panel2782-W.jpg"
+        }
+    },
+    {
+        "id": 22,
+        "img": "satinlluvia.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Ducha redonda": ""
+            },
+        "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
+        "variations": {
+            "var1": "satinlluvia-1.jpg",
+            "var2": "satinlluvia-2.jpg"
+        }
+    },
+    {
+        "id": 23,
+        "img": "cromolluvia.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Ducha redonda": ""
+            },
+        "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
+        "variations": {
+            "var1": "cromolluvia-1.jpg"
+        }
+    },
+    {
+        "id": 24,
+        "img": "cuadradasatin.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Ducha cuadrada": ""
+            },
+        "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
+        "variations": {
+            "var1": "cuadradasatin.jpg"
+        }
+    },
+    {
+        "id": 25,
+        "img": "cuadradacromo.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Ducha cuadrada": ""
+            },
+        "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
+        "variations": {
+            "var1": "cuadradacromo.jpg"
+        }
+    },
+    {
+        "id": 26,
+        "img": "rectangular.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Ducha cuadrada": ""
+            },
+        "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
+        "variations": {
+            "var1": "rectangular.jpg"
+        }
+    },
+    {
+        "id": 27,
+        "img": "led.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Luz LED": ""
+            },
+        "type":"Acero Inoxidable, Sistema generador de energía, el flujo de agua activa mini leds que cambian de color acorde a la temperatura del agua, NO requiere conexión eléctrica",
+        "variations": {
+            "var1": "led.jpg"
+        }
+    },
+    {
+        "id": 28,
+        "img": "led2.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Luz LED": ""
+            },
+        "type":"Acero Inoxidable, 4 lámparas perimetrales de luz LED blanca, Incluye regulador de voltaje para su funcionamiento, Requiere acometida eléctrica",
+        "variations": {
+            "var1": "led2.jpg"
+        }
+    },
+    {
+        "id": 29,
+        "img": "cascada-circular-cromo.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "A muro con cascada": ""
+            },
+        "type":"Salida efecto cascada, Salida efecto lluvia redonda de siliconas anticalcarie desmontables, Soporte a muro",
+        "variations": {
+            "var1": "cascada-circular-cromo.jpg"
+        }
+    },
+    {
+        "id": 30,
+        "img": "cascada-circular-satin.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "A muro con cascada": ""
+            },
+        "type":"Acabado satín, Salida efecto cascada, Salida efecto lluvia redonda de siliconas anticalcarie desmontables, Soporte a muro",
+        "variations": {
+            "var1": "cascada-circular-satin.jpg"
+        }
+    },
+    {
+        "id": 31,
+        "img": "cascada-cuadrada-cromo.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "A muro con cascada": ""
+            },
+        "type":"Acabado satín, Salida efecto cascada, Salida efecto lluvia redonda de siliconas anticalcarie desmontables, Soporte a muro",
+        "variations": {
+            "var1": "cascada-cuadrada-cromo.jpg"
+        }
+    },
+    {
+        "id": 32,
+        "img": "cascada-cuadrada-satin.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "A muro con cascada": ""
+            },
+        "type":"Acabado satín, Salida efecto cascada, Salida efecto lluvia redonda de siliconas anticalcarie desmontables, Soporte a muro",
+        "variations": {
+            "var1": "cascada-cuadrada-satin.jpg"
+        }
+    },
+    {
+        "id": 33,
+        "img": "brazo1.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Brazo a muro": ""
+            },
+        "type":"Acabado cromo espejo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 40cm de largo",
+        "variations": {
+            "var1": "brazo1.jpg"
+        }
+    },
+    {
+        "id": 34,
+        "img": "BRM01-S.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Brazo a muro": ""
+            },
+        "type":"Acabado cromo espejo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 40cm de largo",
+        "variations": {
+            "var1": "BRM01-S.jpg"
+        }
+    },
+    {
+        "id": 35,
+        "img": "BRM02.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Brazo a muro": ""
+            },
+        "type":"Acabado cromo espejo, Perfil circular, chapetón cuadrado incluido, Conexión de 1/2\", 32.5cm de largo",
+        "variations": {
+            "var1": "BRM02.jpg"
+        }
+    },
+    {
+        "id": 36,
+        "img": "BRM02-S.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Brazo a muro": ""
+            },
+        "type":"Acabado satín, Perfil circular, chapetón redondo incluido, Conexión de 1/2\", 32.5cm de largo",
+        "variations": {
+            "var1": "BRM02-S.jpg"
+        }
+    },
+    {
+        "id": 37,
+        "img": "BRM03.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Brazo a muro": ""
+            },
+        "type":"Acabado cromo espejo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 32.5cm de largo",
+        "variations": {
+            "var1": "BRM03.jpg"
+        }
+    },
+    {
+        "id": 38,
+        "img": "BRM03-S.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Brazo a muro": ""
+            },
+        "type":"Acabado satín, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 32.5cm de largo",
+        "variations": {
+            "var1": "BRM03-S.jpg"
+        }
+    },
+    {
+        "id": 39,
+        "img": "BRP01-S.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Brazo a muro": ""
+            },
+        "type":"Acabado satín, Conexión para techo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 30cm de largo",
+        "variations": {
+            "var1": "BRP01-S.jpg"
+        }
+    },
+    {
+        "id": 40,
+        "img": "BRP02-S.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Brazo a muro": ""
+            },
+        "type":"Acabado satín, Conexión para techo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 20cm de largo",
+        "variations": {
+            "var1": "BRP02-S.jpg"
+        }
+    },
+    {
+        "id": 41,
+        "img": "BRP03.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Brazo a muro": ""
+            },
+        "type":"Acabado cromo espejo, Conexión para techo, Perfil cuadrado, chapetón redondo incluido, Conexión de 1/2\", 27cm de largo",
+        "variations": {
+            "var1": "BRP03.jpg"
+        }
+    },
+    {
+        "id": 42,
+        "img": "BRP03-S.jpg",
+        "name": "Ducha efecto lluvia",
+        "uses": {
+            "Brazo a muro": ""
+            },
+        "type":"Acabado satín, Conexión para techo, Perfil circular, chapetón redondo incluido, Conexión de 1/2\", 27cm de largo",
+        "variations": {
+            "var1": "BRP03-S.jpg"
         }
     }
 ]
