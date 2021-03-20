@@ -1,5 +1,13 @@
 [
     {
+        "filters": {
+            "filterOne": "panel para ducha",
+            "filterTwo": "regaderas",
+            "filterThree": "Luz LED",
+            "filterFourth": "Efecto Lluvia"   
+        }
+    },
+    {
         "id": 1,
         "img": "panel2301.jpg",
         "name": "Panel Modelo 2301",

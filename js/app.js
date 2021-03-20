@@ -8,6 +8,7 @@ selectProduct();
 responsiveMenu();
 responsiveItem();
 closeProductSpecs();
+filterproducts();
 
 let sheet = 'pisos';
 let numOwlItems = 20;
@@ -44,16 +45,30 @@ function renderContent(data){
 
     return new Promise((resolve, reject) => {
         let div = document.getElementById('product-slider');
+        const filtersCon =  document.querySelector('.filters .wrapper');
 
         data.forEach(item => {
-            const html = `
-                <a value="${item.id}" href="#"><div class="item" style="background-image: url('${item.img}');background-size: cover;background-position: center;">
-                    <div value="${item.id}" class="item-img">
-                        <p>${item.name}</p>
-                    </div>
-                </div></a>
-            `;
-            div.innerHTML += html;
+            if(!item.id){
+                const filtersKeys = Object.values(item.filters);
+
+                filtersKeys.forEach(fil => {
+                        const filters = `
+                        <a href="#">
+                            <span>${fil}</span>
+                        </a>
+                    `;
+                    filtersCon.innerHTML += filters;
+                });
+            }else{
+                const html = `
+                    <a value="${item.id}" href="#"><div class="item" style="background-image: url('${item.img}');background-size: cover;background-position: center;">
+                        <div value="${item.id}" class="item-img">
+                            <p>${item.name}</p>
+                        </div>
+                    </div></a>
+                `;
+                div.innerHTML += html;
+            }
         });
     });
 }
@@ -62,17 +77,31 @@ function renderLastContent(data){
 
     return new Promise((resolve, reject) => {
         let div = document.querySelector('#product-slider .owl-wrapper');
+        const filtersCon =  document.querySelector('.filters .wrapper');
 
         data.forEach(item => {
-            const html = `
-            <div class="owl-item" style="width: 171px;"><a value="${item.id}" href="#"><div class="item" style="background-image: url('${item.img}');background-size: cover;background-position: center;">
-                    <div value="${item.id}" class="item-img">
-                        <p>${item.name}</p>
-                    </div>
-                </div></a>
-            </div>
-            `;
-            div.innerHTML += html;
+            if(!item.id){
+                const filtersKeys = Object.values(item.filters);
+
+                filtersKeys.forEach(fil => {
+                        const filters = `
+                        <a href="#">
+                            <span>${fil}</span>
+                        </a>
+                    `;
+                    filtersCon.innerHTML += filters;
+                });
+            }else{
+                const html = `
+                <div class="owl-item" style="width: 171px;"><a value="${item.id}" href="#"><div class="item" style="background-image: url('${item.img}');background-size: cover;background-position: center;">
+                        <div value="${item.id}" class="item-img">
+                            <p>${item.name}</p>
+                        </div>
+                    </div></a>
+                </div>
+                `;
+                div.innerHTML += html;
+            }
         });
     });
 }
@@ -228,4 +257,10 @@ function responsiveItem(){
             });
         }
     });
+}
+
+/* Here I'm going to put the filter function... check if there is somewhere in the json item the query and do the filter */
+
+function filterproducts(){
+
 }

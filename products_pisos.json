@@ -1,5 +1,14 @@
 [
     {
+        "filters": {
+            "all": "Todo",
+            "filterOne": "Piso",
+            "filterTwo": "Muro",
+            "filterThree": "Piso y muro",
+            "filtetfourth": "Azulejo"
+        }
+    },
+    {
         "id": 1,
         "img": "friezze.png",
         "name": "Friezze",
