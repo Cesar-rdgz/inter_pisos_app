@@ -228,7 +228,7 @@
     display: block;
     text-align: center;
     padding: .2rem .7rem;
-    width: 150px;
+    width: max-content;
     background-color: lightgray;
     color: black;
     border-radius: 12px;

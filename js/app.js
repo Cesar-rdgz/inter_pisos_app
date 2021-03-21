@@ -2,13 +2,13 @@ setTimeout(() => {
     const spinner = document.querySelector('.spinner-container');
     
     spinner.style.transform = 'translateX(-100%)';
+    filterproducts();
 }, 5000);
 
 selectProduct();
 responsiveMenu();
 responsiveItem();
 closeProductSpecs();
-filterproducts();
 
 let sheet = 'pisos';
 let numOwlItems = 20;
@@ -53,15 +53,15 @@ function renderContent(data){
 
                 filtersKeys.forEach(fil => {
                         const filters = `
-                        <a href="#">
-                            <span>${fil}</span>
+                        <a data-query="${fil}" href="#">
+                            <span data-query="${fil}">${fil}</span>
                         </a>
                     `;
                     filtersCon.innerHTML += filters;
                 });
             }else{
                 const html = `
-                    <a value="${item.id}" href="#"><div class="item" style="background-image: url('${item.img}');background-size: cover;background-position: center;">
+                    <a value="${item.id}" data-query="${item.type}" href="#"><div class="item" style="background-image: url('${item.img}');background-size: cover;background-position: center;">
                         <div value="${item.id}" class="item-img">
                             <p>${item.name}</p>
                         </div>
@@ -79,14 +79,16 @@ function renderLastContent(data){
         let div = document.querySelector('#product-slider .owl-wrapper');
         const filtersCon =  document.querySelector('.filters .wrapper');
 
+        filtersCon.innerHTML = '';
+
         data.forEach(item => {
             if(!item.id){
                 const filtersKeys = Object.values(item.filters);
 
                 filtersKeys.forEach(fil => {
                         const filters = `
-                        <a href="#">
-                            <span>${fil}</span>
+                        <a data-query="${fil}" href="#">
+                            <span data-query="${fil}">${fil}</span>
                         </a>
                     `;
                     filtersCon.innerHTML += filters;
@@ -259,8 +261,24 @@ function responsiveItem(){
     });
 }
 
-/* Here I'm going to put the filter function... check if there is somewhere in the json item the query and do the filter */
-
 function filterproducts(){
+    const fil = document.querySelector('.container.products .filters');
 
+    fil.addEventListener('click', e => {
+        e.preventDefault();
+        if(e.target.nodeName === 'A' || e.target.nodeName === 'SPAN'){
+            let queryFil = e.target.getAttribute('data-query');
+            let items = document.querySelectorAll('#product-slider .owl-wrapper .owl-item');
+
+            items.forEach(item => {
+                const query = item.firstChild.getAttribute('data-query');
+                if(query.includes(queryFil) !== true){
+                    item.style.display = 'none';
+                    restartOwl();
+                } else {
+                    item.style.display = 'block';
+                }
+            });
+        }
+    });
 }

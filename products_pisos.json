@@ -5,7 +5,17 @@
             "filterOne": "Piso",
             "filterTwo": "Muro",
             "filterThree": "Piso y muro",
-            "filtetfourth": "Azulejo"
+            "filtetfourth": "Azulejo",
+            "filterFive": "porcelánico",
+            "filterSix": "super gres",
+            "filterSeven": "marmol",
+            "filterEight": "Malla decorativa",
+            "filterNine": "Colores elegantes",
+            "filterTen": "tipo piedra",
+            "filerEleven": "Tipo madera",
+            "filterTwelve": "Piso y pared",
+            "filtertThirteen": "cerámica",
+            "filterFourteen": "varios colores"
         }
     },
     {
@@ -18,6 +28,7 @@
                     "cocinas": "<i class='fas fa-utensil-spoon'></i>"
                 },
         "type": "Piso y muro cerámico",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "f-variation.png",
             "vari2": "f-variation2.png",
@@ -35,6 +46,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y muro cerámico",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "l-variations.png",
             "vari2": "l-variations2.png"
@@ -50,6 +62,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "iris-1.jpg",
             "vari2": "iris-2.jpg"
@@ -64,6 +77,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Azulejo",
+        "query": "Azulejo",
         "variations": {
             "vari1": "monet-1.jpg",
             "vari2": "monet-2.jpg",
@@ -82,6 +96,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso",
+        "query": "Azulejo",
         "variations": {
             "vari1": "tonala-1.png"
         }
@@ -95,6 +110,7 @@
             "exteriores": "<i class='fas fa-sun'></i>"
             },
         "type": "Piso",
+        "query": "Piso",
         "variations": {
             "vari1": "terranea-1.png",
             "vari2": "terranea-2.png"
@@ -111,6 +127,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type":"Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "etiopia-1.jpg",
             "vari2": "etiopia-2.jpg"
@@ -127,6 +144,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "clever-1.jpg"
         }
@@ -142,6 +160,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "noslow-1.jpg"
         }
@@ -156,6 +175,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type":"Azulejo",
+        "query": "Azulejo",
         "variations": {
             "vari1": "andrazzi-v.jpg",
             "vari2": "andrazzi-2.jpg",
@@ -173,6 +193,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso",
+        "query": "Piso",
         "variations": {
             "vari1": "riojana-1.png",
             "vari2": "riojana-2.png",
@@ -190,6 +211,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type":"Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "gaskan-1.jpg"
         }
@@ -203,6 +225,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type":"Azulejo",
+        "query": "Azulejo",
         "variations": {
             "vari1": "deseo-1.jpg",
             "vari2": "deseo-3.jpg",
@@ -220,6 +243,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Muro",
+        "query": "Muro",
         "variations": {
             "vari1": "yuliani-1.jpg",
             "vari2": "yuliani-2.jpg",
@@ -237,6 +261,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type":"Muro",
+        "query": "Muro",
         "variations": {
             "vari1": "charlot-1.jpg",
             "vari2": "charlot-3.jpg",
@@ -254,6 +279,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso",
+        "query": "Piso",
         "variations": {
             "vari1": "charlot-1.jpg"
         }
@@ -268,6 +294,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso",
+        "query": "Piso",
         "variations": {
             "vari1": "travali-1.jpg"
         }
@@ -282,6 +309,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "lermitash-1.jpg",
             "vari2": "lermitash-3.jpg",
@@ -299,6 +327,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type":" Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "le-vit-4.jpg",
             "vari2": "le-vit-6.jpg",
@@ -316,6 +345,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "garnieri-1.jpg",
             "vari2": "garnieri-4.jpg",
@@ -333,6 +363,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "ivory-1.jpg",
             "vari2": "ivory-2.jpg",
@@ -350,6 +381,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "beneatto-1.jpg",
             "vari2": "beneatto-2.jpg",
@@ -367,6 +399,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "tamesis-1.jpg",
             "vari2": "tamesis-2.jpg",
@@ -384,6 +417,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "chamonix-1.jpg",
             "vari2": "chamonix-2.jpg",
@@ -402,6 +436,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso",
+        "query": "Piso",
         "variations": {
             "vari1": "constantino-1.jpg"
         }
@@ -416,6 +451,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "leonardos-1.jpg",
             "vari2": "leonardos-2.jpg",
@@ -433,6 +469,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y muro",
+        "query": "Piso y muro",
         "variations": {
             "vari1": "ipanema-1.jpg",
             "vari2": "ipanema-2.jpg",
@@ -450,6 +487,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Porcelánico",
+        "query": "porcelánico",
         "variations": {
             "vari1": "montebello-1.jpg"
         }
@@ -465,6 +503,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Porcelánico",
+        "query": "porcelánico",
         "variations": {
             "vari1": "piamont-1.jpg",
             "vari2": "piamont-2.jpg",
@@ -483,6 +522,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Super Gres/Porcelánico",
+        "query": "porcelánico",
         "variations": {
             "vari1": "padova-1.jpg",
             "vari2": "padova-2.jpg"
@@ -499,6 +539,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Super Gres",
+        "query": "super gres",
         "variations": {
             "vari1": "frau-1.jpg"
         }
@@ -514,6 +555,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo mármol, gris frío, acabado mate",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "napa-1.jpg"
         }
@@ -529,6 +571,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo cemento, gris frío, acabado mate texturizado",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "nouvelle-1.jpg"
         }
@@ -544,6 +587,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo piedra, blanco cálido, acabado mate rugoso",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "lanz-1.jpg"
         }
@@ -559,6 +603,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo cemento, gris frío, acabado mate",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "santotomas-1.jpg"
         }
@@ -574,6 +619,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo piedra, blanco frío, acabado mate liso",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "lemek-1.jpg",
             "vari2": "lemek-2.jpg"
@@ -589,7 +635,8 @@
             "baños": "<i class='fas fa-toilet'></i>",
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
-        "type": "Piso y pared super gres, textil blanco cálido, acabado mate liso y textil café, ",
+        "type": "Piso y pared super gres, textil blanco cálido, acabado mate liso y textil café",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "gabana-1.jpg",
             "vari2": "gabana-2.jpg"
@@ -606,6 +653,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo piedra, café cálido y gris, acabado mate rugoso",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "gaudi-1.jpg",
             "vari2": "gaudi-2.jpg"
@@ -621,6 +669,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo mármol, café cálido y blanco, acabado mate liso",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "genova-1.jpg",
             "vari2": "genova-2.jpg"
@@ -636,6 +685,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo piedra mármol, café cálido, acabado mate liso",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "lombardi-1.jpg"
         }
@@ -650,6 +700,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo piedra mármol, café cálido, acabado mate liso",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "valenzi-1.jpg"
         }
@@ -664,6 +715,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo piedra mármol, blanco, acabado mate liso",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "montecarlo-1.jpg"
         }
@@ -678,6 +730,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo piedra mármol, gris, acabado mate liso",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "zadar-1.jpg"
         }
@@ -693,6 +746,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared/Piso super gres tipo madera café / beige, café cálido, acabado mate liso",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "astor-1.jpg",
             "vari2": "astor-2.jpg"
@@ -709,6 +763,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo madera, café cálido, acabado mate liso",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "greensboro-1.jpg"
         }
@@ -724,6 +779,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo madera, café cálido, acabado mate liso",
+        "query": "Piso y pared",
         "variations": {
             "vari1": "roble-1.jpg"
         }
@@ -738,6 +794,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared cerámica liso, negro frío, blanco y azul, texturizado acabado mate com aspecto 3d (ondas)",
+        "query": "pared cerámica",
         "variations": {
             "vari1": "daytona-1.jpg",
             "vari2": "daytona-2.jpg",
@@ -754,6 +811,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared cerámica liso, Beige",
+        "query": "pared cerámica",
         "variations": {
             "vari1": "siore-1.jpg"
         }
@@ -768,6 +826,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared cerámica liso, acabado blanco mate",
+        "query": "pared cerámica",
         "variations": {
             "vari1": "andrea-1.jpg"
         }
@@ -782,6 +841,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared y Piso cerámico tipo mármol, blanco cálido acabado brillante liso",
+        "query": "Piso y pared cerámica marmol",
         "variations": {
             "vari1": "bardi-1.jpg"
         }
@@ -796,6 +856,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared cerámica tipo mármol blanco frío, acabado brillante liso",
+        "query": "Pared y piso cerámica marmol",
         "variations": {
             "vari1": "artic-1.jpg"
         }
@@ -811,6 +872,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso cerámica tipo mármol blanco frío, acabado brillante liso",
+        "query": "Pared y piso cerámica, marmol",
         "variations": {
             "vari1": "zendo-1.png"
         }
@@ -826,6 +888,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso gres decorado, gris cálido, acabado mate liso",
+        "query": "Piso super gres",
         "variations": {
             "vari1": "kitch-1.jpg"
         }
@@ -841,6 +904,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y Muro con elegantes colores",
+        "query": "Colores elegantes",
         "variations": {
             "vari1": "portosanto-1.jpg",
             "vari2": "portosanto-2.jpg",
@@ -859,6 +923,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y Muro con elegantes colores",
+        "query": "Colores elegantes",
         "variations": {
             "vari1": "portoalegre-1.jpg",
             "vari2": "portoalegre-2.jpg",
@@ -876,7 +941,8 @@
             "baños": "<i class='fas fa-toilet'></i>",
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
-        "type": "Piso y Muro Pircelánico",
+        "type": "Piso y Muro Porcelánico",
+        "query": "Piso y Muro porcelánico",
         "variations": {
             "vari1": "portofino-1.jpg",
             "vari2": "portofino-2.jpg",
@@ -894,7 +960,8 @@
             "baños": "<i class='fas fa-toilet'></i>",
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
-        "type": "Piso y Muro Pircelánico",
+        "type": "Piso y Muro Porcelánico",
+        "query": "Piso y Muro porcelánico",
         "variations": {
             "vari1": "blendwood-1.jpg",
             "vari2": "blendwood-2.jpg"
@@ -911,6 +978,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared porcelánica tipo madera, gris frío, acabado mate texturizado",
+        "query": "Piso y Muro porcelánico",
         "variations": {
             "vari1": "calajan-1.jpg"
         }
@@ -925,6 +993,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared porcelánico tipo madera, café frío, acabado mate liso",
+        "query": "Piso y Muro porcelánico",
         "variations": {
             "vari1": "kant-1.jpg"
         }
@@ -939,6 +1008,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared/Piso porcelánico tipo madera café cálido acabado mate texturizado",
+        "query": "Piso y Muro porcelánico",
         "variations": {
             "vari1": "banff-1.jpg"
         }
@@ -954,6 +1024,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared/Piso porcelánico tipo madera café cálido acabado mate texturizado",
+        "query": "Piso y Muro porcelánico",
         "variations": {
             "vari1": "vali-1.jpg",
             "vari2": "vali-2.jpg"
@@ -970,6 +1041,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso porcelánico tipo madera, café cálido, blanco y rojo acabado mate texturizado",
+        "query": "Piso porcelánico Tipo madera",
         "variations": {
             "vari1": "balau-1.jpg",
             "vari2": "balau-2.jpg",
@@ -984,6 +1056,7 @@
             "interiores": "<i class='fas fa-couch'></i>"
             },
         "type": "Piso gres tipo madera, café cálido y rojo, acabado brillante liso",
+        "query": "Piso super gres Tipo madera",
         "variations": {
             "vari1": "carioca-1.jpg",
             "vari2": "carioca-2.jpg"
@@ -997,6 +1070,7 @@
             "interiores": "<i class='fas fa-couch'></i>"
             },
         "type": "Piso gres tipo madera, café cálido y rojo, acabado brillante liso",
+        "query": "Piso super gres Tipo madera",
         "variations": {
             "vari1": "murcia-1.jpg",
             "vari2": "murcia-2.jpg"
@@ -1012,6 +1086,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso gres decorado verde cálido, acabado brillante liso",
+        "query": "Piso super gres",
         "variations": {
             "vari1": "fresno-1.jpg"
         }
@@ -1026,6 +1101,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso gres decorado blanco cálido, acabado brillante liso",
+        "query": "Piso super gres",
         "variations": {
             "vari1": "veleta-1.jpg"
         }
@@ -1040,6 +1116,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Malla decorativa",
+        "query": "Malla decorativa",
         "variations": {
             "vari1": "solari-1.jpg",
             "vari2": "solari-2.jpg"
@@ -1056,6 +1133,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Malla mármol natural",
+        "query": "Malla decorativa",
         "variations": {
             "vari1": "marant-1.jpg",
             "vari2": "marant-2.jpg"
@@ -1071,6 +1149,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared malla tipo texturizado negro frío, acabado brillante",
+        "query": "Malla decorativa",
         "variations": {
             "vari1": "baltico-1.jpg"
         }
@@ -1085,6 +1164,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared malla tipo piedra café cálido, acabado mate rugoso",
+        "query": "Malla decorativa",
         "variations": {
             "vari1": "bronzo-1.png"
         }
@@ -1099,6 +1179,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Malla decorativa Phoenix",
+        "query": "Malla decorativa",
         "variations": {
             "vari1": "phoenix-1.png"
         }
@@ -1113,6 +1194,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Malla decorativa Piuter",
+        "query": "Malla decorativa",
         "variations": {
             "vari1": "piuter-1.jpg"
         }
@@ -1127,6 +1209,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Malla decorativa Ámbar",
+        "query": "Malla decorativa",
         "variations": {
             "vari1": "ambar-1.png"
         }
@@ -1141,6 +1224,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Malla decorativa Fermont",
+        "query": "Malla decorativa",
         "variations": {
             "vari1": "fermont-1.jpg"
         }
@@ -1155,6 +1239,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Malla decorativa Louisiana",
+        "query": "Malla decorativa",
         "variations": {
             "vari1": "louisiana-1.png"
         }
@@ -1169,6 +1254,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Malla decorativa Floyd",
+        "query": "Malla decorativa",
         "variations": {
             "vari1": "floyd-1.png"
         }
@@ -1184,6 +1270,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso porcelanico, apariencia madera, color café mate,",
+        "query": "Piso porcelánico",
         "variations": {
             "vari1": "alabama-1.jpg"
         }
@@ -1199,6 +1286,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso cerámico Arcosia, acabado Marfil, arena mate.",
+        "query": "Piso cerámico",
         "variations": {
             "vari1": "arcosia-1.jpg",
             "vari2": "arcosia-2.jpg",
@@ -1216,6 +1304,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso ideal para interiores, baño y cocina, monocolor",
+        "query": "Piso",
         "variations": {
             "vari1": "ardem-1.jpg"
         }
@@ -1231,6 +1320,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared/Piso super gres tipo piedra café / beige cálido y gris frío, acabado mate liso",
+        "query": "Piso y pared super gres",
         "variations": {
             "vari1": "atis-1.jpg",
             "vari2": "atis-2.jpg"
@@ -1247,6 +1337,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo piedra, blanco, café y gris cálido, acabado mate liso",
+        "query": "Piso y pared super gres",
         "variations": {
             "vari1": "bovet-1.jpg",
             "vari2": "bovet-2.jpg",
@@ -1263,6 +1354,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared cerámica tipo piedra café/beige cálido, acabado mate rugoso",
+        "query": "Pared cerámica tipo piedra",
         "variations": {
             "vari1": "burconi-1.jpg"
         }
@@ -1277,6 +1369,7 @@
             "Comercial": "<i class='fas fa-store'></i>"
             },
         "type": "Piso gres tipo madera, gris cálido, acabado mate texturizado",
+        "query": "Piso super gres Tipo madera",
         "variations": {
             "vari1": "cannonwood-1.jpg"
         }
@@ -1291,6 +1384,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared cerámica texturizada, blanco frío, café/beige, gris y negro, acabado mate",
+        "query": "Pared cerámica texturizada",
         "variations": {
             "vari1": "cascata-1.jpg",
             "vari2": "cascata-2.jpg",
@@ -1308,6 +1402,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared cerámica tipo piedra gris frío, acabado mate texturizado",
+        "query": "Pared cerámica tipo piedra",
         "variations": {
             "vari1": "cuori-1.jpg"
         }
@@ -1322,6 +1417,7 @@
             "Comercial": "<i class='fas fa-store'></i>"
             },
         "type": "Piso gres tipo madera café cálido, acabado mate texturizado",
+        "query": "Piso super gres Tipo madera",
         "variations": {
             "vari1": "decker-1.jpg"
         }
@@ -1337,6 +1433,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared porcelánico tipo madera café / beige cálido, acabado mate texturizado",
+        "query": "Piso y pared porcelánico",
         "variations": {
             "vari1": "denver-1.jpg"
         }
@@ -1351,6 +1448,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared cerámica en varios colores",
+        "query": "Pared cerámica en varios colores",
         "variations": {
             "vari1": "edimburgo-1.jpg",
             "vari2": "edimburgo-2.jpg",
@@ -1368,6 +1466,7 @@
             "Comercial": "<i class='fas fa-store'></i>"
             },
         "type": "Piso gres tipo madera café / beige cálido, acabado mate texturizado",
+        "query": "Piso super gres Tipo madera",
         "variations": {
             "vari1": "elkwood-1.jpg"
         }
@@ -1382,6 +1481,7 @@
             "Comercial": "<i class='fas fa-store'></i>"
             },
         "type": "Piso gres tipo madera, café cálido, acabado mate liso",
+        "query": "Piso super gres Tipo madera",
         "variations": {
             "vari1": "hanover-1.jpg"
         }
@@ -1397,6 +1497,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo piedra, blanco cálido, acabado mate rugoso",
+        "query": "Piso y pared super gres tipo piedra",
         "variations": {
             "vari1": "Helsinki-1.jpg"
         }
@@ -1412,6 +1513,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared porcelánico tipo madera, café cálido, acabado mate liso",
+        "query": "Piso y pared porcelánico Tipo madera",
         "variations": {
             "vari1": "hubbert-1.jpg"
         }
@@ -1427,6 +1529,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo piedra, gris frío y beig, acabado mate rugoso",
+        "query": "Piso y pared super gres tipo piedra",
         "variations": {
             "vari1": "kiel-1.jpg",
             "vari2": "kiel-2.jpg",
@@ -1444,6 +1547,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared super gres tipo cemento, negro frío, negro gris y beig, acabado mate liso",
+        "query": "pared super gres tipo cemento",
         "variations": {
             "vari1": "leighton-1.jpg",
             "vari2": "leighton-2.jpg",
@@ -1461,6 +1565,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared porcelánica tipo mármol, gris frío, acabado mate liso",
+        "query": "Piso y pared porcelánico tipo marmol",
         "variations": {
             "vari1": "levicato-1.jpg"
         }
@@ -1476,6 +1581,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared porcelánica tipo madera, café cálido, acabado mate liso",
+        "query": "Piso y pared porcelánico Tipo madera",
         "variations": {
             "vari1": "lubeck-1.jpg",
             "vari2": "lubeck-2.jpg"
@@ -1492,6 +1598,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared porcelánico en varios colores: gris cálido, beige,azul,café; acabado mate texturizado",
+        "query": "Piso y pared porcelánico en varios colores",
         "variations": {
             "vari1": "maier-1.jpg",
             "vari2": "maier-2.jpg",
@@ -1510,6 +1617,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo piedra, gris frío, acabado mate liso",
+        "query": "Piso y pared super gres tipo piedra",
         "variations": {
             "vari1": "martelgray-1.jpg"
         }
@@ -1524,6 +1632,7 @@
             "Comercial": "<i class='fas fa-store'></i>"
             },
         "type": "Piso gres tipo madera, café cálido, acabado mate texturizado",
+        "query": "Piso super gres Tipo madera",
         "variations": {
             "vari1": "memphis-1.jpg"
         }
@@ -1538,6 +1647,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo textil, gris frío, acabado brillante liso",
+        "query": "Piso y pared super gres tipo texturizada",
         "variations": {
             "vari1": "milano-1.jpg"
         }
@@ -1552,6 +1662,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared cerámica tipo mármol, café / beige cálido, acabado mate liso ",
+        "query": "Pared cerámica tipo marmol",
         "variations": {
             "vari1": "milena-1.jpg"
         }
@@ -1566,6 +1677,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo mármol, blanco cálido, acabado brillante liso",
+        "query": "Piso y pared super gres tipo marmol",
         "variations": {
             "vari1": "moncler-1.jpg"
         }
@@ -1581,6 +1693,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared super gres tipo mármol, blanco frío, acabado mate liso",
+        "query": "Piso y pared super gres tipo marmol",
         "variations": {
             "vari1": "murano-1.jpg"
         }
@@ -1595,6 +1708,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Pared cerámica tipo mármol, blanco frío, acabado mate texturizado",
+        "query": "Pared cerámica tipo marmol",
         "variations": {
             "vari1": "mylo-1.jpg"
         }
@@ -1609,6 +1723,7 @@
             "Comercial": "<i class='fas fa-store'></i>"
             },
         "type": "Piso gres tipo madera, café cálido, acabado mate texturizado",
+        "query": "Piso super gres tipo madera",
         "variations": {
             "vari1": "nebraska-1.jpg"
         }
@@ -1624,6 +1739,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso y pared porcelánico tipo madera, negro frío, acabado mate texturizado",
+        "query": "Piso y pared porcelánico tipo madera",
         "variations": {
             "vari1": "nekk-1.jpg"
         }
@@ -1639,6 +1755,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso porcelánico tipo madera, café cálido, acabado mate liso",
+        "query": "Piso porcelánico tipo madera",
         "variations": {
             "vari1": "parquet-1.jpg"
         }
@@ -1653,6 +1770,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso porcelánico tipo madera, café cálido, acabado mate liso",
+        "query": "Piso porcelánico Tipo madera",
         "variations": {
             "vari1": "percal-1.jpg",
             "vari2": "percal-2.jpg",
@@ -1671,6 +1789,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso porcelánico tipo madera, café cálido, acabado mate liso",
+        "query": "Piso porcelánico Tipo madera",
         "variations": {
             "vari1": "riverwood-1.jpg"
         }
@@ -1685,6 +1804,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso porcelánico tipo madera, café cálido, acabado mate liso",
+        "query": "Piso porcelánico Tipo madera",
         "variations": {
             "vari1": "rochelle-1.jpg"
         }
@@ -1700,6 +1820,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso porcelánico Arena, Margil, Taupé, Terracota",
+        "query": "Piso porcelánico",
         "variations": {
             "vari1": "sanmiguel-1.jpg"
         }
@@ -1715,6 +1836,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso porcelánico Monocolor",
+        "query": "Piso porcelánico Monocolor",
         "variations": {
             "vari1": "santorini-1.jpg"
         }
@@ -1729,6 +1851,7 @@
             "Comercial": "<i class='fas fa-store'></i>"
             },
         "type": "Piso porcelánico Monocolor",
+        "query": "Piso porcelánico Monocolor",
         "variations": {
             "vari1": "stockton-1.jpg"
         }
@@ -1744,6 +1867,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso porcelánico Silver, Light Gray, Sand",
+        "query": "Piso porcelánico",
         "variations": {
             "vari1": "trenton-1.jpg",
             "vari2": "trenton-2.jpg",
@@ -1761,6 +1885,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso porcelánico Monocolor",
+        "query": "Piso porcelánico",
         "variations": {
             "vari1": "vermont-1.jpg"
         }
@@ -1775,6 +1900,7 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso porcelánico café cálido",
+        "query": "Piso porcelánico",
         "variations": {
             "vari1": "volterra-1.jpg"
         }
