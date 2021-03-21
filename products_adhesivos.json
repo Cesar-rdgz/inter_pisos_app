@@ -1,69 +1,67 @@
 [
     {
         "id": 1,
-        "img": "adhesivo-1.png",
-        "name": "Pegazulejo",
+        "img": "fijapiso.jpg",
+        "name": "Fijapiso",
         "uses": {
-                    "Muro": "<i class='far fa-square'></i>",
-                    "Piso": "<i class='fas fa-square'></i>"
+                    "Fijapiso": ""
                 },
-        "type": "Adhesivo para instalar cerámica de media y alta absorción en pisos y muros",
+        "type": "Ideal para colocaciones que requieran espesores de adhesivo de hasta 2 cm, Fácil preparación y aplicación, Resistente a la humedad.",
         "variations": {
         }
     },
     {
         "id": 2,
-        "img": "adhesivo-2.jpg",
-        "name": "Porcelanico",
+        "img": "pegazulejo.png",
+        "name": "Pegazulejo",
         "uses": {
-            "Porcelanico": "<i class='fas fa-square'></i>"
+            "Pegazulejo": ""
             },
-        "type": "Especial para pisos porcelánicos en interior y trávico ligero",
+        "type": "Ideal para recámaras, cocinas y baños, Resistencia a la humedad, Excelentes valores de Ajustabilidad, Tiempo Abierto y Tiempo de Vida, pisos y muros",
         "variations": {
         }
     },
     {
         "id": 3,
-        "img": "adhesivo-3.png",
-        "name": "cemix",
+        "img": "fijaporcelanico.jpg",
+        "name": "Fijaporcelanico",
         "uses": {
-            "Cerámico": "<i class='fas fa-square'></i>",
-            "Mármol": "<i class='far fa-square'></i>"
+            "Fijapercelanico": ""
             },
-        "type": "Adhesivo para revestimiento cerámico y mármol",
+        "type": "Para colocación de porcelánicos hasta 90 cm x 90 cm, Para colocación de recubrimientos cerámicos en cualquier formato, Permite instalaciones PISO sobre PISO de uso residencial",
         "variations": {
         }
     },
     {
         "id": 4,
-        "img": "adhesivo-4.webp",
-        "name": "Perdura Stone",
+        "img": "pegavitro.jpg",
+        "name": "Pegavitro",
         "uses": {
-            "Piedra natural": "<i class='fas fa-boxes'></i>"
+            "Pegavitro": ""
             },
-        "type": "Adhesivo especial para pegar piedra",
+        "type": "Ideal para estancias, pasillos y recámaras, Evita demoliciones, Ideal para colocaciones sobre paneles de yeso o cemento.",
         "variations": {
         }
     },
     {
         "id": 5,
-        "img": "adhesivo-5.png",
-        "name": "Durentto",
+        "img": "adhesivoalbercas.jpg",
+        "name": "Adhesivo albercas",
         "uses": {
-                "Juntas": "<i class='fas fa-th'></i>"
+                "Adhesivo para albercas": ""
             },
-        "type": "Junteador sin Arena",
+        "type": "Resistente a vibraciones, flexiones y cambios de temperatura, Resistente a la humedad, Adherencia química superior,Soporta la inmersión permanente",
         "variations": {
         }
     },
     {
         "id": 6,
-        "img": "adhesivo-6.png",
-        "name": "Durentto",
+        "img": "polimor.jpg",
+        "name": "Polimor",
         "uses": {
-                "Juntas": "<i class='fas fa-th'></i>"
+                "Polimor": ""
             },
-        "type": "Junteador con Arena",
+        "type": "Soporta vibraciones, flexiones y cambios de temperatura, Permite colocar recubrimientos en cocheras, albercas, centros comerciales, estacionamientos, agencias automotrices, etc. puede soportar el peso de montacarga",
         "variations": {
         }
     },

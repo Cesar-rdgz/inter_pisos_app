@@ -34,8 +34,6 @@ const getProducts =  (resource) => {
 
 getProducts('products_pisos.json').then(data => {
     renderContent(data);
-}).then(() => {
-    owlInit();
 }).catch(err => {
     console.log('promise rejected:', err);
 });
@@ -44,7 +42,7 @@ getProducts('products_pisos.json').then(data => {
 function renderContent(data){
 
     return new Promise((resolve, reject) => {
-        let div = document.getElementById('product-slider');
+        let div = document.querySelector('#product-slider .wrapper');
         const filtersCon =  document.querySelector('.filters .wrapper');
 
         data.forEach(item => {
@@ -61,7 +59,7 @@ function renderContent(data){
                 });
             }else{
                 const html = `
-                    <a value="${item.id}" data-query="${item.type}" href="#"><div class="item" style="background-image: url('${item.img}');background-size: cover;background-position: center;">
+                    <a value="${item.id}" data-query="${item.query}" href="#"><div class="item" style="background-image: url('${item.img}');background-size: cover;background-position: center;">
                         <div value="${item.id}" class="item-img">
                             <p>${item.name}</p>
                         </div>
@@ -76,7 +74,7 @@ function renderContent(data){
 function renderLastContent(data){
 
     return new Promise((resolve, reject) => {
-        let div = document.querySelector('#product-slider .owl-wrapper');
+        let div = document.querySelector('#product-slider .wrapper');
         const filtersCon =  document.querySelector('.filters .wrapper');
 
         filtersCon.innerHTML = '';
@@ -95,12 +93,11 @@ function renderLastContent(data){
                 });
             }else{
                 const html = `
-                <div class="owl-item" style="width: 171px;"><a value="${item.id}" href="#"><div class="item" style="background-image: url('${item.img}');background-size: cover;background-position: center;">
+                <a value="${item.id}" data-query="${item.query}" href="#"><div class="item" style="background-image: url('${item.img}');background-size: cover;background-position: center;">
                         <div value="${item.id}" class="item-img">
                             <p>${item.name}</p>
                         </div>
                     </div></a>
-                </div>
                 `;
                 div.innerHTML += html;
             }
@@ -127,7 +124,7 @@ function restartOwl(){
 }
 
 function cleanDiv(){
-    let div = document.querySelector('#product-slider .owl-wrapper');
+    let div = document.querySelector('#product-slider .wrapper');
 
     div.innerHTML = '';
 }
@@ -143,7 +140,7 @@ function selectProduct(){
         getProducts(`products_${typeOfProduct}.json`).then(data => {
             renderLastContent(data);
         }).then(() => {
-            restartOwl();
+            filterproducts();
         }).catch(err => {
             console.log('promise rejected:', err);
         });
@@ -266,16 +263,26 @@ function filterproducts(){
 
     fil.addEventListener('click', e => {
         e.preventDefault();
-        if(e.target.nodeName === 'A' || e.target.nodeName === 'SPAN'){
-            let queryFil = e.target.getAttribute('data-query');
-            let items = document.querySelectorAll('#product-slider .owl-wrapper .owl-item');
+
+        let queryFil = e.target.getAttribute('data-query');
+
+        if(e.target.nodeName === 'A' || e.target.nodeName === 'SPAN' && queryFil === 'Todo'){
+            let items = document.querySelectorAll('#product-slider .wrapper a');
+            
+            if(queryFil === 'Todo'){
+                items.forEach(item => {
+                    item.style.display = 'block';
+                });
+            }
+        }else if(e.target.nodeName === 'A' || e.target.nodeName === 'SPAN'){
+
+            let items = document.querySelectorAll('#product-slider .wrapper a');
 
             items.forEach(item => {
-                const query = item.firstChild.getAttribute('data-query');
+                const query = item.getAttribute('data-query');
                 if(query.includes(queryFil) !== true){
                     item.style.display = 'none';
-                    restartOwl();
-                } else {
+                } else if(query.includes(queryFil) === true) {
                     item.style.display = 'block';
                 }
             });
