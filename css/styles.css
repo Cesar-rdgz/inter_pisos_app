@@ -190,7 +190,7 @@
 .container.products #product-slider{
     width: 100%;
     position: relative;
-    height: 250px;
+    height: 270px;
     overflow-y: scroll;
 }
 
@@ -212,6 +212,7 @@
     display: flex;
     align-items: center;
     column-gap: 1rem;
+    height: max-content;
 }
 
 .container.products .toggle-content{
@@ -269,7 +270,7 @@
     padding-top: 1rem;
     margin: 15px auto 70px auto;
     width: 130px;
-    min-height: 150px;
+    min-height: 170px;
     border-radius: 12px 12px 0 0;
     background-color: white;
     box-shadow: 3px 8px 15px -3px #000;
@@ -290,6 +291,10 @@
 .container.products .items-container .item > .item-img p{
     color: #000;
     font-family: 'Poppins', sans-serif;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container.products .items-container .item .item-img img{

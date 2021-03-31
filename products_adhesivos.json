@@ -67,46 +67,45 @@
     },
     {
         "id": 7,
-        "img": "adhesivo-7.webp",
-        "name": "Durentto",
+        "img": "SelladorProfesional.jpg",
+        "name": "Sellador Profesional para boquilla",
         "uses": {
-            "Juntas": "<i class='fas fa-th'></i>"
+                "Sellador Boquilla": ""
             },
-        "type":"Adhesivo Ceramico Blanco",
+        "type": "No crea película sobre la superficie, No cambia la apariencia original de las superficies, Perdura por más tiempo el color original de las boquillas, Retarda la penetración de líquidos, Se puede aplicar sobre piedra natural.",
         "variations": {
         }
     },
     {
         "id": 8,
-        "img": "adhesivo-8.png",
-        "name": "AMU",
+        "img": "Boquichamp-1.jpg",
+        "name": "Boquichamp Fluido y Sellado",
         "uses": {
-            "Multiusos": "<i class='fas fa-infinity'></i>"
+                "Sellador Boquilla": ""
             },
-        "type": "Adhesivo multiusos de alto desempeño",
+        "type": "Emboquillador con propiedades de fluidez y manejabilidad para juntas de 3 mm a 20 mm, retarda la absorción de líquidos así como el desarrollo de hongos y bacterias en las juntas o boquillas.",
         "variations": {
         }
     },
     {
         "id": 9,
-        "img": "adhesivo-9.png",
-        "name": "cemix",
+        "img": "Boquichamp-ultrafino.jpg",
+        "name": "Boquichamp Ultrafino Porcelánico",
         "uses": {
-            "Muro": "<i class='far fa-square'></i>",
-            "Piso": "<i class='fas fa-square'></i>"
+                "Sellador Boquilla": ""
             },
-        "type": "Adhesico para instalar cerámica de media y alta absorción en pisos y muros",
+        "type": "Emboquillador sin arena y propiedades anti-hongos para rellenar las juntas de 1 a 3 mm de ancho, ideal para colocarse con piezas de Porcelánico y Porcelanato y recubrimientos rectificados. Formulado con Micro Protección Antibacteriana.",
         "variations": {
         }
     },
     {
         "id": 10,
-        "img": "adhesivo-10.webp",
-        "name": "Perdura",
+        "img": "Niasabond.jpg",
+        "name": "Niasabond",
         "uses": {
-            "Piso": "<i class='fas fa-square'></i>"
+                "Sellador Boquilla": ""
             },
-        "type":"Adhesivo diseñado para cualquier recubrimeinto vítreo",
+        "type": "Niasabond se utiliza para evitar las “juntas frías” uniendo concreto nuevo a viejo. Como aditivo integrado al agua de mezcla, para aumentar las propiedades de adherencia e impermeabilidad de los concretos y morteros.",
         "variations": {
         }
     }
