@@ -518,431 +518,332 @@
     },
     {
         "id": 35,
-        "img": "BRM02.jpg",
-        "name": "Brazo a muro",
+        "img": "love.png",
+        "name": "Love",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "182.5 x 122 x 50 cm 240lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado cromo espejo, Perfil circular, chapetón cuadrado incluido, Conexión de 1/2\", 32.5cm de largo",
-        "query": "Duchas efecto lluvia",
+        "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
+        "query": "",
         "variations": {
-            "var1": "BRM02.jpg"
+            "var1": "love-1.png",
+            "var2": "love-2.png",
+            "var3": "love-3.png"
         }
     },
     {
         "id": 36,
-        "img": "BRM02-S.jpg",
-        "name": "Brazo a muro",
+        "img": "malaga.png",
+        "name": "Málaga",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "180 x 91 x 44.5 cm 170lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado satín, Perfil circular, chapetón redondo incluido, Conexión de 1/2\", 32.5cm de largo",
-        "query": "Duchas efecto lluvia",
+        "type":"Con ó sin hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
+        "query": "",
         "variations": {
-            "var1": "BRM02-S.jpg"
+            "var1": "malaga-1.png",
+            "var2": "malaga-2.png",
+            "var3": "malaga-3.png"
         }
     },
     {
         "id": 37,
-        "img": "BRM03.jpg",
-        "name": "brazo a muro",
+        "img": "marajo.png",
+        "name": "Marajó",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "121 x 81 x 36.5 cm 90lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado cromo espejo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 32.5cm de largo",
-        "query": "Duchas efecto lluvia",
+        "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
+        "query": "",
         "variations": {
-            "var1": "BRM03.jpg"
+            "var1": "marajo-1.png",
+            "var2": "marajo-2.png",
+            "var3": "marajo-3.png"
         }
     },
     {
         "id": 38,
-        "img": "BRM03-S.jpg",
-        "name": "Brazo a muro",
+        "img": "miss.png",
+        "name": "Miss",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "147 x 122.5 x 42.5 cm 190lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado satín, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 32.5cm de largo",
-        "query": "Duchas efecto lluvia",
+        "type":"Con hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 4 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
+        "query": "",
         "variations": {
-            "var1": "BRM03-S.jpg"
+            "var1": "miss-1.png",
+            "var2": "miss-2.png",
+            "var3": "miss-3.png"
         }
     },
     {
         "id": 39,
-        "img": "BRP01-S.jpg",
-        "name": "Brazo a muro",
+        "img": "nik.png",
+        "name": "Nik",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "165.5 x 71.5 x 37 cm 140lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado satín, Conexión para techo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 30cm de largo",
-        "query": "Duchas efecto lluvia",
+        "type":"Con Hidromasaje, Accesorios: 1 Botón neumático, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
+        "query": "",
         "variations": {
-            "var1": "BRP01-S.jpg"
+            "var1": "nik-1.png",
+            "var2": "nik-2.png",
+            "var3": "nik-3.png"
         }
     },
     {
         "id": 40,
-        "img": "BRP02-S.jpg",
-        "name": "Brazo a muro",
+        "img": "odessa.png",
+        "name": "Odessa",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "173.5 x 144.5 x 48 cm 240 lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado satín, Conexión para techo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 20cm de largo",
-        "query": "Duchas efecto lluvia",
+        "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 13.5 amps.",
+        "query": "",
         "variations": {
-            "var1": "BRP02-S.jpg"
+            "var1": "odessa-1.png",
+            "var2": "odessa-2.png",
+            "var3": "odessa-3.png"
         }
     },
     {
         "id": 41,
-        "img": "BRP03.jpg",
-        "name": "Brazo a muro",
+        "img": "olimpia.png",
+        "name": "Olimpia",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "156.5 Ø x 45 cm": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado cromo espejo, Conexión para techo, Perfil cuadrado, chapetón redondo incluido, Conexión de 1/2\", 27cm de largo",
-        "query": "Duchas efecto lluvia",
+        "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 4 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
+        "query": "",
         "variations": {
-            "var1": "BRP03.jpg"
+            "var1": "olimpia-1.png",
+            "var2": "olimpia-2.png",
+            "var3": "olimpia-3.png"
         }
     },
     {
         "id": 42,
-        "img": "BRP03-S.jpg",
-        "name": "Brazo a muro",
+        "img": "praktica.png",
+        "name": "Práktica",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "115 x 76 x 41 cm 130 lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado satín, Conexión para techo, Perfil circular, chapetón redondo incluido, Conexión de 1/2\", 27cm de largo",
+        "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps, 1 Sistema de sostén perimetral",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "BRP03-S.jpg"
+            "var1": "praktica-1.png",
+            "var2": "praktica-2.png",
+            "var3": "praktica-3.png"
         }
     },
     {
         "id": 43,
-        "img": "mon-01.png",
-        "name": "Monomando",
+        "img": "single.png",
+        "name": "Single",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "150 x 84.5 x 43 cm 130lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado cromo, Activa el paso del agua al levantarse el maneral, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
-        "query": "Duchas efecto lluvia",
+        "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 5 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
+        "query": "",
         "variations": {
-            "var1": "mon-01.png"
+            "var1": "single-1.png",
+            "var2": "single-2.png",
+            "var3": "single-3.png"
         }
     },
     {
         "id": 44,
-        "img": "nom-01s.png",
-        "name": "Monomando",
+        "img": "son.png",
+        "name": "Son",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "170 x 80 x 42 cm 160lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado satín, Activa el paso del agua al levantarse el maneral, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
-        "query": "Duchas efecto lluvia",
+        "type":"Con ó sin Hidromasajes, Accesorios: 1 Botón neumático, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
+        "query": "",
         "variations": {
-            "var1": "nom-01s.png"
+            "var1": "son-1.png",
+            "var2": "son-2.png",
+            "var3": "son-3.png"
         }
     },
     {
         "id": 45,
-        "img": "mon02.jpg",
-        "name": "Monomando",
+        "img": "sophie.png",
+        "name": "Sophie",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "181 x 81 x 42.5 cm 120lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado cromo, Activa el paso del agua al levantarse el maneral, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
-        "query": "Duchas efecto lluvia",
+        "type":"Con ó sin hidromasaje, Accesorios: 1 Botón neumático, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
+        "query": "",
         "variations": {
-            "var1": "mon02.jpg"
+            "var1": "sophie-1.png",
+            "var2": "sophie-2.png",
+            "var3": "sophie-3.png"
         }
     },
     {
         "id": 46,
-        "img": "mon02s.jpg",
-        "name": "Monomando",
+        "img": "space.png",
+        "name": "Space",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "153 x 107 x 52 cm 210lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado satín, Activa el paso del agua al levantarse el maneral, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
-        "query": "Duchas efecto lluvia",
+        "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Tomas de aire, 4 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps.",
+        "query": "",
         "variations": {
-            "var1": "mon02s.jpg"
+            "var1": "space-1.png",
+            "var2": "space-2.png",
+            "var3": "space-3.png"
         }
     },
     {
         "id": 47,
-        "img": "mon-03.png",
-        "name": "Monomando",
+        "img": "spinning.png",
+        "name": "Spinning",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "151.5 x 78.5 x 47 cm 130 lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado cromo, Activa el paso del agua al levantarse el maneral, Realiza el cambio de salida a través del desviador, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
-        "query": "Duchas efecto lluvia",
+        "type":"Con Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 4 Sensajets, 13 Jets rotatorios, 1 Desagüe, 1 Rebosadero, Faldón frontal, 1 Motobomba de 13.5 amps",
+        "query": "",
         "variations": {
-            "var1": "mon-03.png"
+            "var1": "spinning-1.png",
+            "var2": "spinning-2.png",
+            "var3": "spinning-3.png"
         }
     },
     {
         "id": 48,
-        "img": "mon-03s.png",
-        "name": "Monomando",
+        "img": "star.png",
+        "name": "Star",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "180 x 120 x 41.5 cm 240lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado satín, Activa el paso del agua al levantarse el maneral, Realiza el cambio de salida a través del desviador, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
-        "query": "Duchas efecto lluvia",
+        "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire cuadrados, 6 Sensajets cuadrados, 6 Jets rotatorios cuadrados, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps.",
+        "query": "",
         "variations": {
-            "var1": "mon-03s.png"
+            "var1": "star-1.png",
+            "var2": "star-2.png",
+            "var3": "star-3.png"
         }
     },
     {
         "id": 49,
-        "img": "mon04.jpg",
-        "name": "Monomando",
+        "img": "tibet.png",
+        "name": "Tibet",
         "uses": {
-            "Ducha efecto lluvia": ""
+            "158 x 110 x 45 cm 160lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado cromo, Activa el paso del agua al levantarse el maneral, Realiza el cambio de salida a través del desviador, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
-        "query": "Duchas efecto lluvia",
+        "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 4 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps.",
+        "query": "",
         "variations": {
-            "var1": "mon04.jpg"
+            "var1": "tibet-1.png",
+            "var2": "tibet-2.png",
+            "var3": "tibet-3.png"
         }
     },
     {
         "id": 50,
-        "img": "KS01.jpg",
-        "name": "Kit regadera de mano",
+        "img": "volga.png",
+        "name": "Volga",
         "uses": {
-            "Ducha de mano": ""
+            "201 x 169 x 50.5 cm 220lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado satín, Regadera de mano perfil cúbico, 45 puntos de salida de agua, Manguera reforzada de 1.50mts de aluminio, Base a muro Conexión de 1/2\"",
-        "query": "Duchas efecto lluvia",
+        "type":"Fon ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 13.5 amps",
+        "query": "",
         "variations": {
-            "var1": "KS01.jpg"
+            "var1": "volga-1.png",
+            "var2": "volga-2.png",
+            "var3": "volga-3.png"
         }
     },
     {
         "id": 51,
-        "img": "KC01.jpg",
+        "img": "volga-lujo.png",
         "name": "Kit regadera de mano",
         "uses": {
-            "Ducha de mano": ""
+            "201 x 169 x 50.5 cm 220lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"Acabado satín, Regadera de mano perfil cúbico, 45 puntos de salida de agua, Manguera reforzada de 1.50mts de aluminio, Base a muro Conexión de 1/2\"",
-        "query": "Duchas efecto lluvia",
+        "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 2 Manijas tipo alberca, 1 Cascada de lujo, 1 Mescladora con manerales cromados, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 13.5 amps",
+        "query": "lujo",
         "variations": {
-            "var1": "KC01.jpg"
+            "var1": "volga-lujo-1.png",
+            "var2": "volga-lujo-2.png",
+            "var3": "volga-lujo-3.png"
         }
     },
     {
         "id": 52,
-        "img": "troquelredondo.jpg",
-        "name": "Coladera troquel redondo",
+        "img": "volley.png",
+        "name": "Volley",
         "uses": {
-            "Coladeras lineales": ""
+            "167.5 x 91 x 45 cm 160lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa con troquelado redondo, cespol antiolores incluido",
-        "query": "Coladeras lineales",
+        "type":"Con Hidromasaje, Accesorios: 1 Botón neumático, 11 Jets rotatorios, 20 Microinyectorres de aire, 1 Control digital Air Massage, 1 Blower, 1 Luz Acuairis, 1 Botón neumático de luz Acuairis, 2 Manijas rectangulares, 1 Faldón frontal, 1 Desagüe, 1 Rebosadero, 1 Motobomba.",
+        "query": "",
         "variations": {
-            "var1": "troquelredondo.jpg"
+            "var1": "volley-1.png",
+            "var2": "volley-2.png",
+            "var3": "volley-3.png"
         }
     },
     {
         "id": 53,
-        "img": "troquelcuadrado.jpg",
-        "name": "Coladera troquel cuadrado",
+        "img": "yes.png",
+        "name": "Yes!",
         "uses": {
-            "Coladeras lineales": ""
+            "151 x 78 x 47.5 cm 130lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa con troquelado cuadrado, cespol antiolores incluido",
-        "query": "Coladeras lineales",
+        "type":"Con o sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
+        "query": "",
         "variations": {
-            "var1": "troquelcuadrado.jpg"
+            "var1": "yes-1.png",
+            "var2": "yes-2.png",
+            "var3": "yes-3.png"
         }
     },
     {
         "id": 54,
-        "img": "troquelrejilla.jpg",
-        "name": "Coladera de rejilla",
+        "img": "yukon.png",
+        "name": "Yukón",
         "uses": {
-            "Coladeras lineales": ""
+            "169.5 x 85 x 42.5 cm 160lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa tipo rejilla, cespol antiolores incluido",
-        "query": "Coladeras lineales",
+        "type":"Con ó sin Hidromasaje, Accesorio: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Robosadero, 1 Motobomba de 7.5 amps",
+        "query": "",
         "variations": {
-            "var1": "troquelrejilla.jpg"
+            "var1": "yukon-1.png",
+            "var2": "yukon-2.png",
+            "var3": "yukon-3.png"
         }
     },
     {
         "id": 55,
-        "img": "coladeradesalojo.jpg",
-        "name": "Coladera desalojo perimetral",
+        "img": "zen.png",
+        "name": "Zen",
         "uses": {
-            "Coladeras lineales": ""
+            "182 x 105.5 x 46 cm 150lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa acero liso para desalojo perimetral, cespol antiolores incluido",
+        "type":"Con inyectores de aire / sin blower, Accesorios: 1 Botón neumático, 1 Control digital Air Massage, 20 Microinyectores de aire, 1 Superjet, 1 Minajia de acrílico, 1 Blower, 1 Desagüe, 1 Rebosadero, 1 Faldón perimetral, 1 Sistema de recirculación y calentamiento de agua.",
         "query": "Coladeras lineales",
         "variations": {
-            "var1": "coladeradesalojo.jpg"
+            "var1": "zen-1.png",
+            "var2": "zen-2.png",
+            "var3": "zen-3.png"
         }
     },
     {
         "id": 56,
-        "img": "coladeradeinserto.jpg",
-        "name": "Coladera para inserto",
+        "img": "zen-lujo.png",
+        "name": "Zen de lujo",
         "uses": {
-            "Coladeras lineales": ""
+            "182 x 105.5 x 46 cm 150lts": "<i class='fas fa-hot-tub'></i>"
             },
-        "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa con charola para inserto de recubrimiento, cespol antiolores incluido",
-        "query": "Coladeras lineales",
+        "type":"Con inyectores de aire / sin blower, Accesorios: 1 Botón neumático, 6 Sensajets, 2 Controles de aire, 6 Jets rotatorios, 1 Cascada cromada, 1 Mezcladora con manerales cromados, 1 Manija de acrílico, 1 Coladera de succión, 1 Faldón perimetral, 1 Desagüe.",
+        "query": "",
         "variations": {
-            "var1": "coladeradeinserto.jpg"
-        }
-    },
-    {
-        "id": 57,
-        "img": "modelo400.jpg",
-        "name": "Céspol antiolores",
-        "uses": {
-            "Coladeras lineales": ""
-            },
-        "type":"Fabricado en ABS, Sistema de contrapeso, antiolores y anti-insectos, Compatible con PVC, Salida a desalojo lateral de 2\"",
-        "query": "Coladeras lineales",
-        "variations": {
-            "var1": "modelo400.jpg"
-        }
-    },
-    {
-        "id": 58,
-        "img": "TF01.jpg",
-        "name": "Tina trapezoidal cuva",
-        "uses": {
-            "Tinas Freestanding": ""
-            },
-        "type":"Diseño trapezoidal con bordes y esquinas curvas, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 290 litros aprox.",
-        "query": "Tinas Freestanding",
-        "variations": {
-            "var1": "TF01.jpg"
-        }
-    },
-    {
-        "id": 59,
-        "img": "TF02.jpg",
-        "name": "Tina trapezoidal recta",
-        "uses": {
-            "Tinas Freestanding": ""
-            },
-        "type":"Diseño trapezoidal con bordes y esquinas rectas, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 275 litros aprox.",
-        "query": "Tinas Freestanding",
-        "variations": {
-            "var1": "TF02.jpg"
-        }
-    },
-    {
-        "id": 60,
-        "img": "TF03.jpg",
-        "name": "Tina oval",
-        "uses": {
-            "Tinas Freestanding": ""
-            },
-        "type":"Diseño oval, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 290 litros aprox.",
-        "query": "Tinas Freestanding",
-        "variations": {
-            "var1": "TF03.jpg"
-        }
-    },
-    {
-        "id": 61,
-        "img": "TF04.jpg",
-        "name": "Tina ogánico",
-        "uses": {
-            "Tinas Freestanding": ""
-            },
-        "type":"Diseño orgánico, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 250 litros aprox.",
-        "query": "Tinas Freestanding",
-        "variations": {
-            "var1": "TF04.jpg"
-        }
-    },
-    {
-        "id": 62,
-        "img": "TF05.jpg",
-        "name": "Tina ogánico repisa",
-        "uses": {
-            "Tinas Freestanding": ""
-            },
-        "type":"Diseño orgánico con repisa, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 205 litros aprox.",
-        "query": "Tinas Freestanding",
-        "variations": {
-            "var1": "TF05.jpg"
-        }
-    },
-    {
-        "id": 63,
-        "img": "TF02-S-2.jpg",
-        "name": "Tina borde ancho",
-        "uses": {
-            "Tinas Freestanding": ""
-            },
-        "type":"Diseño trapezoidal con borde exterior ancho para aislamiento térmico, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 190 litros aprox.",
-        "query": "Tinas Freestanding",
-        "variations": {
-            "var1": "TF02-S-2.jpg"
-        }
-    },
-    {
-        "id": 64,
-        "img": "TF02-W.jpg",
-        "name": "Tina borde ancho",
-        "uses": {
-            "Tinas Freestanding": ""
-            },
-        "type":"Diseño trapezoidal con borde exterior ancho para aislamiento térmico, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 275 litros aprox.",
-        "query": "Tinas Freestanding",
-        "variations": {
-            "var1": "TF02-W.jpg"
-        }
-    },
-    {
-        "id": 65,
-        "img": "TF03-W.jpg",
-        "name": "Tina borde ancho",
-        "uses": {
-            "Tinas Freestanding": ""
-            },
-        "type":"Diseño trapezoidal con borde exterior ancho para aislamiento térmico, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 290 litros aprox.",
-        "query": "Tinas Freestanding",
-        "variations": {
-            "var1": "TF03-W.jpg"
-        }
-    },
-    {
-        "id": 66,
-        "img": "TF06.jpg",
-        "name": "Tina ovoide",
-        "uses": {
-            "Tinas Freestanding": ""
-            },
-        "type":"Diseño ovoide, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 290 litros aprox.",
-        "query": "Tinas Freestanding",
-        "variations": {
-            "var1": "TF06.jpg"
-        }
-    },
-    {
-        "id": 67,
-        "img": "deck.jpg",
-        "name": "Tapete de ducha",
-        "uses": {
-            "Tinas Freestanding": ""
-            },
-        "type":"Hecho en México, Elaborado de madera cumarú, Acabado mate, 2 capas de laca protectora waterproof, base de caucho antiderrapante, ideal para áreas húmedas",
-        "query": "Tinas Freestanding",
-        "variations": {
-            "var1": "deck.jpg"
+            "var1": "zen-lujo-1.png",
+            "var2": "zen-lujo-2.png",
+            "var3": "zen-lujo-3.png"
         }
     }
 ]
