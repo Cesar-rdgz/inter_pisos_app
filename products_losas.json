@@ -1,0 +1,64 @@
+[
+    {
+        "filters": {
+            "all": "Todo",
+            "filterOne": "30x40cm"
+        }
+    },
+    {
+        "id": 1,
+        "img": "barro-block.jpg",
+        "name": "Barro Block",
+        "uses": {
+                "": ""
+                },
+        "type": "<ul><li>Ancho: 20cm</li><li>Alto: 20cm</li><li>Largo: 30cm</li><li>Piezas por tarima: 120</li><li>Material: 100% Barro Natural</li></ul>",
+        "query": "",
+        "variations": {
+            "var1": "barro-bloque-1.jpeg",
+            "var2": "barro-bloque-2.jpeg"
+        }
+    },
+    {
+        "id": 2,
+        "img": "barro-kappa.jpg",
+        "name": "Barro Kappa",
+        "uses": {
+            "": ""
+            },
+        "type": "Elemento de Barro Natural que se sobrepone en su techo creando una capa térmica que le aísla del calor. Al no estar unido a la losa sino solo sobrepuesto provoca una interfase y rompe la transmisión del calor a la losa.",
+        "query": "",
+        "variations": {
+            "var1": "barro-kappa-1.jpg",
+            "var2": "barro-kappa-2.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "img": "barrotapa.jpg",
+        "name": "Barrotapa",
+        "uses": {
+            "Alto: 18.7 Ancho: 29": ""
+            },
+        "type": "Barrotapa es una pieza que está diseñada para facilitar el proceso de construcción de los techos aligerados. Funciona formando una barrera para evitar la entrada de concreto dentro de los barroblocks.",
+        "query": "",
+        "variations": {
+            "var1": "barrotapa-1.jpg",
+            "var2": "barrotapa-2.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "img": "bovedilla.jpg",
+        "name": "Sistema de vigueta y bovedilla",
+        "uses": {
+            "Ancho: 20cm Largo: 63.5cm": ""
+            },
+        "type": "Con el sistema VIBO Vigueta y Bovedilla se logra el más bajo consumo de concreto por metro cuadrado cualquiera que sea el claro a cubrir, disminuye hasta un 85% el costo de cimbra.",
+        "query": "",
+        "variations": {
+            "var1": "bovedilla-1.jpg",
+            "var2": "bovedilla-2.jpg"
+        }
+    }
+]

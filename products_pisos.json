@@ -2,6 +2,10 @@
     {
         "filters": {
             "all": "Todo",
+            "filterPreviousOne": "Baldosa Barro",
+            "filterPreviousTwo": "Piso Barro",
+            "filterPreviousThree": "Grava Barro",
+            "filterPreviousFour": "Ladrillo Solido",
             "filterOne": "Piso",
             "filterTwo": "Muro",
             "filterThree": "Piso y muro",
@@ -1903,6 +1907,64 @@
         "query": "Piso porcelánico",
         "variations": {
             "vari1": "volterra-1.jpg"
+        }
+    },
+    {
+        "id": 117,
+        "img": "baldosa-barro.jpg",
+        "name": "Baldosa de barro",
+        "uses": {
+            "Largo: 17cm Alto: 17cm Ancho: 1.2cm": ""
+            },
+        "type": "La baldosa de barro es utilizada desde tiempos inmemorables para la construcción. Los antiguos la consideraban un ornamento de lujo, con el paso del tiempo y el desarrollo de la tecnología hoy se ha logrado que las piezas tengan una belleza aun mayor.",
+        "query": "Baldosa Barro",
+        "variations": {
+            "vari1": "baldosa-barro-1.jpg",
+            "vari2": "baldosa-barro-2.jpg",
+            "vari3": "baldosa-barro-3.jpg"
+        }
+    },
+    {
+        "id": 118,
+        "img": "piso-barro.jpg",
+        "name": "Piso de barro",
+        "uses": {
+            "Largo: 29.5cm Alto: 29.5cm Ancho: 1.2cm": ""
+            },
+        "type": "La baldosa de barro es utilizada desde tiempos inmemorables para la construcción. Los antiguos la consideraban un ornamento de lujo, con el paso del tiempo y el desarrollo de la tecnología hoy se ha logrado que las piezas tengan una belleza aun mayor.",
+        "query": "Piso Barro",
+        "variations": {
+            "vari1": "piso-barro-1.jpg",
+            "vari2": "piso-barro-2.jpg",
+            "vari3": "piso-barro-3.jpg"
+        }
+    },
+    {
+        "id": 119,
+        "img": "grava-barro.jpg",
+        "name": "Grava de barro",
+        "uses": {
+            "Máximo: 15mm Mínimo: 3mm": ""
+            },
+        "type": "Atractiva alternativa para la decoración ya que brinda una estética y estilo único en su clase ya que integra el diseño del paisaje agregando profundidad y textura a su proyecto. La grava es de fácil manipulación y extendido. Ideal para acentuar jardine",
+        "query": "Grava Barro",
+        "variations": {
+            "vari1": ""
+        }
+    },
+    {
+        "id": 120,
+        "img": "ladrillo-solido.jpg",
+        "name": "Ladrillo sólido",
+        "uses": {
+            "Adoquín": "Ladrillo Sólido"
+            },
+        "type": "Ancho: 10cm, Alto: 5.7cm, Largo: 20cm",
+        "query": "Ladrillo Solido",
+        "variations": {
+            "vari1": "ladrillo-solido-1.jpg",
+            "vari2": "ladrillo-solido-2.jpg",
+            "vari3": "ladrillo-solido-3.jpg"
         }
     }
 ]
