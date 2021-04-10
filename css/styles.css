@@ -12,17 +12,80 @@
     --main-color: #c96b37;
 }
 
-.spinner-container{
+.grid-logos{
+    width: 100%;
+    height: 350px;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 1fr;
+    grid-column-gap: 7px;
+}
+
+.grid-logos .field{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-logos .field img{
+    width: 100%;
+
+}
+
+.window-loader{
     position: fixed;
     width: 100vw;
     height: 100vh;
     background-color: #fff;
+    transform: translateX(0%);
+    transition: all 0.5s linear;
+
+
     display: flex;
     justify-content: center;
     align-items: center;
-    transform: translateX(0%);
-    transition: all 0.5s linear;
+
+
     z-index: 5;
+}
+
+.window-loader .partners-logos{
+    float: right;
+}
+
+.window-loader .partners-logos img{
+    width: 45%;
+}
+
+.window-loader .animate__animated.animate__fadeIn {
+    --animate-duration: 2s;
+}
+
+.window-loader .animate__animated.animate__fadeIn.one {
+    animation-delay: .5s;
+}
+
+.window-loader .animate__animated.animate__fadeIn.two {
+    animation-delay: 1s;
+}
+
+.window-loader .animate__animated.animate__fadeIn.three {
+    animation-delay: 1.5s;
+}
+
+.window-loader .animate__animated.animate__fadeIn.Four {
+    animation-delay: 2s;
+}
+
+.window-loader .animate__animated.animate__fadeIn.five {
+    animation-delay: 2.5s;
+}
+
+.spinner-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .spinner-container .company-name{

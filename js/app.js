@@ -1,5 +1,5 @@
 setTimeout(() => {
-    const spinner = document.querySelector('.spinner-container');
+    const spinner = document.querySelector('.window-loader');
     
     spinner.style.transform = 'translateX(-100%)';
     filterproducts();
