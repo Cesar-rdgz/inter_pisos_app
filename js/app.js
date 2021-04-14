@@ -105,24 +105,6 @@ function renderLastContent(data){
     });
 }
 
-function owlInit(){
-    $("#product-slider").owlCarousel({
-        items: numOwlItems,
-        itemsDesktop:[1199,2],
-        itemsDesktopSmall:[980,2],
-        itemsMobile:[700,2],
-        pagination:false,
-        navigation:true,
-        navigationText:["",""],
-        autoPlay:false
-    });
-}
-
-function restartOwl(){
-    owl = $("#product-slider").data('owlCarousel');
-    owl.jumpTo(0);
-}
-
 function cleanDiv(){
     let div = document.querySelector('#product-slider .wrapper');
 
@@ -182,6 +164,19 @@ function drawingProductVar(item){
     });
 }
 
+function contactBtns(item){
+    return new Promise((resolve, reject) => {
+        const container = document.querySelector('#item-selected-specs .single-item-icons .whatsapp');
+
+        const html = `
+            <a href="https://wa.me/524371047297?text=Me%20podrían%20dar%20más%20infomación%20sobre%20el%20${item.query}%20${item.name}"><i class="fab fa-whatsapp"></i></a>
+        `;
+
+        container.innerHTML = '';
+        container.innerHTML = html;
+    });
+}
+
 function drawingIdeals(item){
     return new Promise((resolve, reject) => {
         let idealTexts = Object.keys(item.uses);
@@ -222,6 +217,8 @@ function renderDynamicItem(data, id){
         if(item.id === idNumber){
             drawingIdeals(item).then(() => {
                 drawingProductVar(item);
+            }).then(() => {
+                contactBtns(item);
             }).then(() => {
                 headerImg.innerHTML = `<img alt="" src="${item.img}">`;
                 specsContainer.style.transform = "translateY(0%)";
