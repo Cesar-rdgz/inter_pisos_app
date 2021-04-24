@@ -2,13 +2,7 @@
     {
         "filters": {
             "all": "Todo",
-            "filterPreviousOne": "Baldosa Barro",
-            "filterPreviousTwo": "Piso Barro",
-            "filterPreviousThree": "Grava Barro",
-            "filterPreviousFour": "Ladrillo Solido",
             "filterOne": "Piso",
-            "filterTwo": "Muro",
-            "filterThree": "Piso y muro",
             "filtetfourth": "Azulejo",
             "filterFive": "porcelánico",
             "filterSix": "super gres",
@@ -34,10 +28,8 @@
         "type": "Piso y muro cerámico",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "f-variation.png",
-            "vari2": "f-variation2.png",
-            "vari3": "f-variation3.png",
-            "vari4": "f-variation4.png"
+            "varImgs": ["f-variation.jpg", "f-variation2.jpg", "f-variation3.jpg", "f-variation4.jpg"],
+            "varTexts": ["Beige 29.5x58 cm", "Blanco 29.5x58 cm", "Café 29.5x58 cm", "Grafito 29.5x58 cm"]
         }
     },
     {
@@ -52,8 +44,8 @@
         "type": "Piso y muro cerámico",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "l-variations.png",
-            "vari2": "l-variations2.png"
+            "varImgs": ["l-variations.jpg", "l-variations2.jpg"],
+            "varTexts": ["Inox 29.5x58 cm", "Nacar 29.5x58 cm"]
         }
     },
     {
@@ -68,8 +60,8 @@
         "type": "Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "iris-1.jpg",
-            "vari2": "iris-2.jpg"
+            "varImgs": ["iris-1.jpg", "iris-2.jpg"],
+            "varTexts": ["Blanco 31x61 cm", "Cenefa Iris 15.3x61 cm"]
         }
     },
     {
@@ -83,10 +75,8 @@
         "type": "Azulejo",
         "query": "Azulejo",
         "variations": {
-            "vari1": "monet-1.jpg",
-            "vari2": "monet-2.jpg",
-            "vari3": "monet-3.jpg",
-            "vari4": "monet-4.jpg"
+            "varImgs": ["monet-1.jpg", "monet-2.jpg", "monet-3.jpg", "monet-4.jpg"],
+            "varTexts": ["Blanco 30x45 cm", "Complemento Cenefa Chef 30x8.4 cm", "Complemento Cenefa Citrus 30x8.4 cm", "Complemento Inserto Chef 30x45 cm"]
         }
     },
     {
@@ -102,7 +92,8 @@
         "type": "Piso",
         "query": "Azulejo",
         "variations": {
-            "vari1": "tonala-1.png"
+            "varImgs": ["tonala-1.png"],
+            "varTexts": ["Piso 43.2x43.2 cm"]
         }
     },
     {
@@ -116,14 +107,14 @@
         "type": "Piso",
         "query": "Piso",
         "variations": {
-            "vari1": "terranea-1.png",
-            "vari2": "terranea-2.png"
+            "varImgs": ["terranea-1.jpg", "terranea-2.jpg"],
+            "varTexts": ["Café 55x55 cm", "Multicolor 55x55 cm"]
         }
     },
     {
         "id": 7,
         "img": "etiopia.png",
-        "name": "Etipía",
+        "name": "Etiopía",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
             "exteriores": "<i class='fas fa-sun'></i>",
@@ -133,8 +124,8 @@
         "type":"Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "etiopia-1.jpg",
-            "vari2": "etiopia-2.jpg"
+            "varImgs": ["etiopia-1.jpg", "etiopia-2.jpg"],
+            "varTexts": ["Beige 29.5x58 cm", "Café 29.5x58cm"]
         }
     },
     {
@@ -150,7 +141,8 @@
         "type": "Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "clever-1.jpg"
+            "varImgs": ["clever-1.jpg"],
+            "varTexts": ["Blanco 29.5x58 cm"]
         }
     },
     {
@@ -166,7 +158,8 @@
         "type": "Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "noslow-1.jpg"
+            "varImgs": ["noslow-1.jpg"],
+            "varTexts": ["Piso y muro 29.5x58 cm"]
         }
     },
     {
@@ -181,9 +174,8 @@
         "type":"Azulejo",
         "query": "Azulejo",
         "variations": {
-            "vari1": "andrazzi-v.jpg",
-            "vari2": "andrazzi-2.jpg",
-            "vari3": "andrazzi-3.jpg"
+            "varImgs": ["andrazzi-v.jpg", "andrazzi-2.jpg", "andrazzi-3.jpg"],
+            "varTexts": ["Blanco 31x61 cm", "Negro 31x61 cm", "Rojo 31x61cm"]
         }
     },
     {
@@ -199,9 +191,8 @@
         "type": "Piso",
         "query": "Piso",
         "variations": {
-            "vari1": "riojana-1.png",
-            "vari2": "riojana-2.png",
-            "vari3": "riojana-3.png"
+            "varImgs": ["riojana-1.jpg", "riojana-2.jpg"],
+            "varTexts": ["Café 43.2x43.2 cm, 55x55 cm", "Rojo 43.2x4.23 cm, 55x55 cm"]
         }
     },
     {
@@ -217,7 +208,8 @@
         "type":"Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "gaskan-1.jpg"
+            "varImgs": ["gaskan-1.jpg"],
+            "varTexts": ["Piso y muro 29.5x58 cm"]
         }
     },
     {
@@ -231,10 +223,8 @@
         "type":"Azulejo",
         "query": "Azulejo",
         "variations": {
-            "vari1": "deseo-1.jpg",
-            "vari2": "deseo-3.jpg",
-            "vari3": "deseo-8.jpg",
-            "vari4": "deseo-10.jpg"
+            "varImgs": ["deseo-1.jpg", "deseo-3.jpg", "deseo-8.jpg", "deseo-10.jpg"],
+            "varTexts": ["Blanco 30x45 cm", "Complemento Fascia Lemons Blanco 30x45 cm", "Complemento Cenefa Cubiertos Blanco 30x6 cm", "Complemento Cenefa Frutero Blanco 30x8.4 cm"]
         }
     },
     {
@@ -249,10 +239,8 @@
         "type": "Muro",
         "query": "Muro",
         "variations": {
-            "vari1": "yuliani-1.jpg",
-            "vari2": "yuliani-2.jpg",
-            "vari3": "yuliani-3.jpg",
-            "vari4": "yuliani-4.jpg"
+            "varImgs": ["yuliani-1.jpg", "yuliani-2.jpg", "yuliani-3.jpg", "yuliani-4.jpg"],
+            "varTexts": ["Complemento Cenefa Novi 15.3x61 cm", "Complemento Fascia Kalahari 31x61 cm", "Complemento Fascia Martinic 31x61 cm", "Complemento Fascia Novi 31x61 cm"]
         }
     },
     {
@@ -267,10 +255,8 @@
         "type":"Muro",
         "query": "Muro",
         "variations": {
-            "vari1": "charlot-1.jpg",
-            "vari2": "charlot-3.jpg",
-            "vari3": "charlot-5.jpg",
-            "vari4": "charlot-6.jpg"
+            "varImgs": ["charlot-1.jpg", "charlot-3.jpg", "charlot-5.jpg", "charlot-6.jpg"],
+            "varTexts": ["Blanco Brillante 28.3x7.2 cm", "Negro Brillante 28.3x7.2 cm", "Graphite 28.3x7.2 cm", "Honey 28.3x7.2 cm"]
         }
     },
     {
@@ -285,7 +271,8 @@
         "type": "Piso",
         "query": "Piso",
         "variations": {
-            "vari1": "charlot-1.jpg"
+            "varImgs": ["charlot-1.jpg"],
+            "varTexts": ["Piso 61x61 cm"]
         }
     },
     {
@@ -300,7 +287,8 @@
         "type": "Piso",
         "query": "Piso",
         "variations": {
-            "vari1": "travali-1.jpg"
+            "varImgs": ["travali-1.jpg"],
+            "varTexts": ["Piso 61x61 cm"]
         }
     },
     {
@@ -315,10 +303,8 @@
         "type": "Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "lermitash-1.jpg",
-            "vari2": "lermitash-3.jpg",
-            "vari3": "lermitash-4.jpg",
-            "vari4": "lermitash-6.jpg"
+            "varImgs": ["lermitash-1.jpg", "lermitash-3.jpg", "lermitash-4.jpg", "lermitash-6.jpg"],
+            "varTexts": ["Beige 30x45 cm", "Taupé 30x45 cm", "Complemento Cenefa Lermitash 10x30 cm", "Complemento Malla Phoenix 29.8x29.8cm"]
         }
     },
     {
@@ -333,10 +319,8 @@
         "type":" Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "le-vit-4.jpg",
-            "vari2": "le-vit-6.jpg",
-            "vari3": "le-vit-9.jpg",
-            "vari4": "le-vit-11.jpg"
+            "varImgs": ["le-vit-4.jpg", "le-vit-6.jpg", "le-vit-9.jpg", "le-vit-11.jpg"],
+            "varTexts": ["Capuchino 55x55 cm", "Complemento Cenefa Le Vit Blanco 31x10 cm", "Complemento Fascia Mendhi Capuchino 31x61 cm", "Complemento Malla Lousiana 30x30 cm"]
         }
     },
     {
@@ -351,10 +335,8 @@
         "type": "Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "garnieri-1.jpg",
-            "vari2": "garnieri-4.jpg",
-            "vari3": "garnieri-6.jpg",
-            "vari4": "garnieri-13.jpg"
+            "varImgs": ["garnieri-1.jpg", "garnieri-4.jpg", "garnieri-6.jpg", "garnieri-13.jpg"],
+            "varTexts": ["Beige 55x55cm/31x61cm", "Café 55x55cm/31x61cm", "Complemento Cenefa Tisu Beige 8.4x31 cm", "Complemento Malla Fermont 28.8x38.3 cm"]
         }
     },
     {
@@ -369,10 +351,8 @@
         "type": "Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "ivory-1.jpg",
-            "vari2": "ivory-2.jpg",
-            "vari3": "ivory-3.jpg",
-            "vari4": "ivory-4.jpg"
+            "varImgs": ["ivory-1.jpg", "ivory-2.jpg", "ivory-3.jpg", "ivory-4.jpg"],
+            "varTexts": ["Capuchino 55x55 cm", "Complemento Cenefa Margot Beige 8.4x31 cm", "Complemento Inserto Margot Beige 31x61 cm", "Beige 31x61 cm"]
         }
     },
     {
@@ -387,10 +367,8 @@
         "type": "Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "beneatto-1.jpg",
-            "vari2": "beneatto-2.jpg",
-            "vari3": "beneatto-3.jpg",
-            "vari4": "beneatto-4.jpg"
+            "varImgs": ["beneatto-1.jpg", "beneatto-2.jpg", "beneatto-3.jpg", "beneatto-4.jpg"],
+            "varTexts": ["Beige 31x61 cm", "Café 31x61 cm", "Complemento Cenefa Tisu Café 4.8x31  cm", "Inserto Tisu Café 31x61 cm"]
         }
     },
     {
@@ -405,10 +383,8 @@
         "type": "Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "tamesis-1.jpg",
-            "vari2": "tamesis-2.jpg",
-            "vari3": "tamesis-3.jpg",
-            "vari4": "tamesis-4.jpg"
+            "varImgs": ["tamesis-1.jpg", "tamesis-2.jpg", "tamesis-3.jpg", "tamesis-4.jpg"],
+            "varTexts": ["Café 31x61 cm", "Beige 31x61 cm", "Complemento Cenefa Begonia 31x6 cm", "Complemento Inserto Begonia 31x61 cm"]
         }
     },
     {
@@ -423,10 +399,8 @@
         "type": "Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "chamonix-1.jpg",
-            "vari2": "chamonix-2.jpg",
-            "vari3": "chamonix-3.jpg",
-            "vari4": "chamonix-4.jpg"
+            "varImgs": ["chamonix-1.jpg", "chamonix-2.jpg", "chamonix-3.jpg", "chamonix-4.jpg"],
+            "varTexts": ["Beige 30x45 cm", "Café 30x45 cm", "Complemento Beige 30x8.4 cm", "Complementos Cenefa Modrían Beige"]
         }
     },
     {
@@ -442,7 +416,8 @@
         "type": "Piso",
         "query": "Piso",
         "variations": {
-            "vari1": "constantino-1.jpg"
+            "varImgs": ["constantino-1.jpg"],
+            "varTexts": ["Beige 55x55 cm"]
         }
     },
     {
@@ -457,9 +432,8 @@
         "type": "Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "leonardos-1.jpg",
-            "vari2": "leonardos-2.jpg",
-            "vari3": "leonardos-3.jpg"
+            "varImgs": ["leonardos-1.jpg", "leonardos-2.jpg", "leonardos-3.jpg"],
+            "varTexts": ["Beige 55x55 cm, 54x54 cm", "Blanco 55x55 cm, 54x54 cm", "Blanco 31x61 cm"]
         }
     },
     {
@@ -475,9 +449,8 @@
         "type": "Piso y muro",
         "query": "Piso y muro",
         "variations": {
-            "vari1": "ipanema-1.jpg",
-            "vari2": "ipanema-2.jpg",
-            "vari3": "ipanema-3.jpg"
+            "varImgs": ["ipanema-1.jpg", "ipanema-2.jpg", "ipanema-3.jpg"],
+            "varTexts": ["Blanco 29.5x58cm", "Gris 55x55 cm", "Gris 29.5x58 cm"]
         }
     },
     {
@@ -493,7 +466,8 @@
         "type": "Porcelánico",
         "query": "porcelánico",
         "variations": {
-            "vari1": "montebello-1.jpg"
+            "varImgs": ["montebello-1.jpg"],
+            "varTexts": ["Arena 60.5x60.5 cm"]
         }
     },
     {
@@ -509,10 +483,8 @@
         "type": "Porcelánico",
         "query": "porcelánico",
         "variations": {
-            "vari1": "piamont-1.jpg",
-            "vari2": "piamont-2.jpg",
-            "vari3": "piamont-3.jpg",
-            "vari4": "piamont-4.jpg"
+            "varImgs": ["piamont-1.jpg", "piamont-2.jpg", "piamont-3.jpg", "piamont-4.jpg"],
+            "varTexts": ["Beige 60x60 cm", "Blanco 60x60 cm", "Café 60x60 cm", "Café 45x90 cm"]
         }
     },
     {
@@ -528,8 +500,8 @@
         "type": "Super Gres/Porcelánico",
         "query": "porcelánico",
         "variations": {
-            "vari1": "padova-1.jpg",
-            "vari2": "padova-2.jpg"
+            "varImgs": ["padova-1.jpg", "padova-2.jpg"],
+            "varTexts": ["Oxford 45x90 cm, 60x60 cm", "Perla 45x90 cm, 60x60 cm"]
         }
     },
     {
@@ -545,7 +517,8 @@
         "type": "Super Gres",
         "query": "super gres",
         "variations": {
-            "vari1": "frau-1.jpg"
+            "varImgs": ["frau-1.jpg"],
+            "varTexts": ["Piso y muro 45x90 cm"] 
         }
     },
     {
@@ -561,7 +534,8 @@
         "type": "Piso y pared super gres tipo mármol, gris frío, acabado mate",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "napa-1.jpg"
+            "varImgs": ["napa-1.jpg"],
+            "varTexts": ["Piso y muro 45x90 cm"]
         }
     },
     {
@@ -577,7 +551,8 @@
         "type": "Piso y pared super gres tipo cemento, gris frío, acabado mate texturizado",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "nouvelle-1.jpg"
+            "varImgs": ["nouvelle-1.jpg"],
+            "varTexts": ["Piso y muro 45x90 cm"]
         }
     },
     {
@@ -593,7 +568,8 @@
         "type": "Piso y pared super gres tipo piedra, blanco cálido, acabado mate rugoso",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "lanz-1.jpg"
+            "varImgs": ["lanz-1.jpg"],
+            "varTexts": ["Piso y muro 45x90 cm"] 
         }
     },
     {
@@ -609,7 +585,8 @@
         "type": "Piso y pared super gres tipo cemento, gris frío, acabado mate",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "santotomas-1.jpg"
+            "varImgs": ["santotomas-1.jpg"],
+            "varTexts": ["Piso y muro 45x90 cm"]
         }
     },
     {
@@ -625,8 +602,8 @@
         "type": "Piso y pared super gres tipo piedra, blanco frío, acabado mate liso",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "lemek-1.jpg",
-            "vari2": "lemek-2.jpg"
+            "varImgs": ["lemek-1.jpg", "lemek-2.jpg"],
+            "varTexts": ["Blanco 45x90 cm", "Grafito 45x90 cm"]
         }
     },
     {
@@ -642,8 +619,8 @@
         "type": "Piso y pared super gres, textil blanco cálido, acabado mate liso y textil café",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "gabana-1.jpg",
-            "vari2": "gabana-2.jpg"
+            "varImgs": ["gabana-1.jpg", "gabana-2.jpg"],
+            "varTexts": ["Blanco 45x90 cm", "Camel 45x90 cm"]
         }
     },
     {
@@ -659,8 +636,8 @@
         "type": "Piso y pared super gres tipo piedra, café cálido y gris, acabado mate rugoso",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "gaudi-1.jpg",
-            "vari2": "gaudi-2.jpg"
+            "varImgs": ["gaudi-1.jpg", "gaudi-2.jpg"],
+            "varTexts": ["Café 45x90 cm", "Gris 45x90 cm"]
         }
     },
     {
@@ -675,8 +652,8 @@
         "type": "Piso y pared super gres tipo mármol, café cálido y blanco, acabado mate liso",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "genova-1.jpg",
-            "vari2": "genova-2.jpg"
+            "varImgs": ["genova-1.jpg", "genova-2.jpg"],
+            "varTexts": ["Perla 45x90 cm", "Tabaco 45x90 cm"]
         }
     },
     {
@@ -691,7 +668,8 @@
         "type": "Piso y pared super gres tipo piedra mármol, café cálido, acabado mate liso",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "lombardi-1.jpg"
+            "varImgs": ["lombardi-1.jpg"],
+            "varTexts": ["Taupé"]
         }
     },
     {
@@ -706,7 +684,8 @@
         "type": "Piso y pared super gres tipo piedra mármol, café cálido, acabado mate liso",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "valenzi-1.jpg"
+            "varImgs": ["valenzi-1.jpg"],
+            "varTexts": ["Piso y muro 45x90 cm"]
         }
     },
     {
@@ -721,7 +700,8 @@
         "type": "Piso y pared super gres tipo piedra mármol, blanco, acabado mate liso",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "montecarlo-1.jpg"
+            "varImgs": ["montecarlo-1.jpg"],
+            "varTexts": ["Piso y muro 45x90 cm"]
         }
     },
     {
@@ -736,7 +716,8 @@
         "type": "Piso y pared super gres tipo piedra mármol, gris, acabado mate liso",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "zadar-1.jpg"
+            "varImgs": ["zadar-1.jpg"],
+            "varTexts": ["Piso y muro 45x90 cm"]
         }
     },
     {
@@ -752,8 +733,8 @@
         "type": "Pared/Piso super gres tipo madera café / beige, café cálido, acabado mate liso",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "astor-1.jpg",
-            "vari2": "astor-2.jpg"
+            "varImgs": ["astor-1.jpg", "astor-2.jpg"],
+            "varTexts": ["Miel 45x90 cm", "Arena 45x90 cm"]
         }
     },
     {
@@ -769,7 +750,8 @@
         "type": "Piso y pared super gres tipo madera, café cálido, acabado mate liso",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "greensboro-1.jpg"
+            "varImgs": ["greensboro-1.jpg"],
+            "varTexts": ["Café cálido 45x90 cm"]
         }
     },
     {
@@ -785,7 +767,8 @@
         "type": "Piso y pared super gres tipo madera, café cálido, acabado mate liso",
         "query": "Piso y pared",
         "variations": {
-            "vari1": "roble-1.jpg"
+            "varImgs": ["roble-1.jpg"],
+            "varTexts": ["Café cálido 45x90 cm"]
         }
     },
     {
@@ -800,9 +783,8 @@
         "type": "Pared cerámica liso, negro frío, blanco y azul, texturizado acabado mate com aspecto 3d (ondas)",
         "query": "pared cerámica",
         "variations": {
-            "vari1": "daytona-1.jpg",
-            "vari2": "daytona-2.jpg",
-            "vari3": "daytona-3.jpg"
+            "varImgs": ["daytona-1.jpg", "daytona-2.jpg", "daytona-3.jpg"],
+            "varTexts": ["Azul 31x61 cm", "Blanco 31x61 cm", "Negro 31x61 cm"]
         }
     },
     {
@@ -817,7 +799,8 @@
         "type": "Pared cerámica liso, Beige",
         "query": "pared cerámica",
         "variations": {
-            "vari1": "siore-1.jpg"
+            "varImgs": ["siore-1.jpg"],
+            "varTexts": ["Multicolor 31x61 cm"]
         }
     },
     {
@@ -832,7 +815,8 @@
         "type": "Pared cerámica liso, acabado blanco mate",
         "query": "pared cerámica",
         "variations": {
-            "vari1": "andrea-1.jpg"
+            "varImgs": ["andrea-1.jpg"],
+            "varTexts": ["Café/Beige cálido 31x61 cm"]
         }
     },
     {
@@ -847,7 +831,8 @@
         "type": "Pared y Piso cerámico tipo mármol, blanco cálido acabado brillante liso",
         "query": "Piso y pared cerámica marmol",
         "variations": {
-            "vari1": "bardi-1.jpg"
+            "varImgs": ["bardi-1.jpg"],
+            "varTexts": ["Mármol blanco cálido 61x61cm, 31x61cm"]
         }
     },
     {
@@ -862,7 +847,8 @@
         "type": "Pared cerámica tipo mármol blanco frío, acabado brillante liso",
         "query": "Pared y piso cerámica marmol",
         "variations": {
-            "vari1": "artic-1.jpg"
+            "varImgs": ["artic-1.jpg"],
+            "varTexts": ["Mármo blanco frío 31x61cm"]
         }
     },
     {
@@ -878,7 +864,8 @@
         "type": "Piso cerámica tipo mármol blanco frío, acabado brillante liso",
         "query": "Pared y piso cerámica, marmol",
         "variations": {
-            "vari1": "zendo-1.png"
+            "varImgs": ["zendo-1.png", "zendo-2.png", "zendo-3.png", "zendo-4.png"],
+            "varTexts": ["Beige 43.2x43.2cm", "Blanco 43.2x43.2cm", "Oxford 43.2x43.2cm", "Negro 43.2x43.2cm"]
         }
     },
     {
@@ -894,7 +881,8 @@
         "type": "Piso gres decorado, gris cálido, acabado mate liso",
         "query": "Piso super gres",
         "variations": {
-            "vari1": "kitch-1.jpg"
+            "varImgs": ["kitch-1.jpg"],
+            "varTexts": ["Gris cálido 43.2x43.2cm"] 
         }
     },
     {
@@ -910,10 +898,8 @@
         "type": "Piso y Muro con elegantes colores",
         "query": "Colores elegantes",
         "variations": {
-            "vari1": "portosanto-1.jpg",
-            "vari2": "portosanto-2.jpg",
-            "vari3": "portosanto-3.jpg",
-            "vari4": "portosanto-4.jpg"
+            "varImgs": ["portosanto-1.jpg", "portosanto-2.jpg", "portosanto-3.jpg", "portosanto-4.jpg"],
+            "varTexts": ["Beige/Cara 1 17.8x17.8cm", "Beige/Cara 3 17.8x17.8xm", "Beige/Cara 8 17.8x17.8cm", "Beige/Cara 23 17.8x17.8cm"]
         }
     },
     {
@@ -929,10 +915,8 @@
         "type": "Piso y Muro con elegantes colores",
         "query": "Colores elegantes",
         "variations": {
-            "vari1": "portoalegre-1.jpg",
-            "vari2": "portoalegre-2.jpg",
-            "vari3": "portoalegre-3.jpg",
-            "vari4": "portoalegre-4.jpg"
+            "varImgs": ["portoalegre-1.jpg", "portoalegre-2.jpg", "portoalegre-3.jpg", "portoalegre-4.jpg"],
+            "varTexts": ["Cara 1/Multicolor 19.8x19.8cm", "Cara 4/Multicolor 19.8x19.8cm", "Cara 8/Multicolor 19.8x19.8cm", "Cara 18/Multicolor 19.8x19.8 cm"]
         }
     },
     {
@@ -948,10 +932,8 @@
         "type": "Piso y Muro Porcelánico",
         "query": "Piso y Muro porcelánico",
         "variations": {
-            "vari1": "portofino-1.jpg",
-            "vari2": "portofino-2.jpg",
-            "vari3": "portofino-3.jpg",
-            "vari4": "portofino-4.jpg"
+            "varImgs": ["portofino-1.jpg", "portofino-2.jpg", "portofino-3.jpg", "portofino-4.jpg"],
+            "varTexts": ["Cara 1/Negro 19.8x19.8cm, 15x15cm", "Cara 2/Negro 19.8x19.8cm, 15x15cm", "Cara 3/Negro 19.8x19.8cm, 15x15cm", "Cara 4/Negro 19.8x19.8cm, 15x15cm"]
         }
     },
     {
@@ -967,8 +949,8 @@
         "type": "Piso y Muro Porcelánico",
         "query": "Piso y Muro porcelánico",
         "variations": {
-            "vari1": "blendwood-1.jpg",
-            "vari2": "blendwood-2.jpg"
+            "varImgs": ["blendwood-1.jpg", "blendwood-2.jpg"],
+            "varTexts": ["Canela 20x120 cm, 15x90 cm", "Fumo 20x120 cm, 15x90 cm"]
         }
     },
     {
@@ -984,7 +966,8 @@
         "type": "Piso y pared porcelánica tipo madera, gris frío, acabado mate texturizado",
         "query": "Piso y Muro porcelánico",
         "variations": {
-            "vari1": "calajan-1.jpg"
+            "varImgs": ["calajan-1.jpg"],
+            "varTexts": ["Fumo 20x120 cm, 15x90 cm"]
         }
     },
     {
@@ -999,7 +982,8 @@
         "type": "Piso y pared porcelánico tipo madera, café frío, acabado mate liso",
         "query": "Piso y Muro porcelánico",
         "variations": {
-            "vari1": "kant-1.jpg"
+            "varImgs": ["kant-1.jpg"],
+            "varTexts": ["Moka 15x90 cm"]
         }
     },
     {
@@ -1014,7 +998,8 @@
         "type": "Pared/Piso porcelánico tipo madera café cálido acabado mate texturizado",
         "query": "Piso y Muro porcelánico",
         "variations": {
-            "vari1": "banff-1.jpg"
+            "varImgs": ["banff-1.jpg"],
+            "varTexts": ["Caoba 15x90 cm"]
         }
     },
     {
@@ -1030,8 +1015,8 @@
         "type": "Pared/Piso porcelánico tipo madera café cálido acabado mate texturizado",
         "query": "Piso y Muro porcelánico",
         "variations": {
-            "vari1": "vali-1.jpg",
-            "vari2": "vali-2.jpg"
+            "varImgs": ["vali-1.jpg", "vali-2.jpg"],
+            "varTexts": ["Fumo 20x120 cm", "Moka 20x120 cm"]
         }
     },
     {
@@ -1047,9 +1032,8 @@
         "type": "Piso porcelánico tipo madera, café cálido, blanco y rojo acabado mate texturizado",
         "query": "Piso porcelánico Tipo madera",
         "variations": {
-            "vari1": "balau-1.jpg",
-            "vari2": "balau-2.jpg",
-            "vari3": "balau-3.jpg"
+            "varImgs": ["balau-1.jpg", "balau-2.jpg", "balau-3.jpg"],
+            "varTexts": ["Blanco 15x90 cm", "Café 15x90 cm", "Rojo 15x90 cm"]
         }
     },
     {
@@ -1062,8 +1046,8 @@
         "type": "Piso gres tipo madera, café cálido y rojo, acabado brillante liso",
         "query": "Piso super gres Tipo madera",
         "variations": {
-            "vari1": "carioca-1.jpg",
-            "vari2": "carioca-2.jpg"
+            "varImgs": ["carioca-1.jpg", "carioca-2.jpg"],
+            "varTexts": ["Café 43.2x43.2 cm", "Rojo 43.2x43.2 cm"]
         }
     },
     {
@@ -1076,8 +1060,8 @@
         "type": "Piso gres tipo madera, café cálido y rojo, acabado brillante liso",
         "query": "Piso super gres Tipo madera",
         "variations": {
-            "vari1": "murcia-1.jpg",
-            "vari2": "murcia-2.jpg"
+            "varImgs": ["murcia-1.jpg", "murcia-2.jpg"],
+            "varTexts": ["Café 43.2x43.2 cm", "Rojo 43.2x43.2 cm"]
         }
     },
     {
@@ -1092,7 +1076,8 @@
         "type": "Piso gres decorado verde cálido, acabado brillante liso",
         "query": "Piso super gres",
         "variations": {
-            "vari1": "fresno-1.jpg"
+            "varImgs": ["fresno-1.jpg"],
+            "varTexts": ["Verde 43.2x43.2 cm"] 
         }
     },
     {
@@ -1107,7 +1092,8 @@
         "type": "Piso gres decorado blanco cálido, acabado brillante liso",
         "query": "Piso super gres",
         "variations": {
-            "vari1": "veleta-1.jpg"
+            "varImgs": ["veleta-1.jpg"],
+            "varTexts": ["Mármo blanco frío 45x90 cm"]
         }
     },
     {
@@ -1122,8 +1108,8 @@
         "type": "Malla decorativa",
         "query": "Malla decorativa",
         "variations": {
-            "vari1": "solari-1.jpg",
-            "vari2": "solari-2.jpg"
+            "varImgs": ["solari-1.jpg", "solari-2.jpg"],
+            "varTexts": ["Oro brillante 32.5x31cm", "Plata brillante 32.5x31cm"]
         }
     },
     {
@@ -1139,8 +1125,8 @@
         "type": "Malla mármol natural",
         "query": "Malla decorativa",
         "variations": {
-            "vari1": "marant-1.jpg",
-            "vari2": "marant-2.jpg"
+            "varImgs": ["marant-1.jpg", "marant-2.jpg"],
+            "varTexts": ["Malla decorativa Alfia 30x30 cm", "Malla decorativa Marant 30x30  cm"]
         }
     },
     {
@@ -1155,7 +1141,8 @@
         "type": "Pared malla tipo texturizado negro frío, acabado brillante",
         "query": "Malla decorativa",
         "variations": {
-            "vari1": "baltico-1.jpg"
+            "varImgs": ["baltico-1.jpg"],
+            "varTexts": ["Malla decorativa/Negro 30x30cm"]
         }
     },
     {
@@ -1170,7 +1157,8 @@
         "type": "Pared malla tipo piedra café cálido, acabado mate rugoso",
         "query": "Malla decorativa",
         "variations": {
-            "vari1": "bronzo-1.png"
+            "varImgs": ["bronzo-1.png"],
+            "varTexts": ["Malla decorativa 30x30 cm"] 
         }
     },
     {
@@ -1185,7 +1173,8 @@
         "type": "Malla decorativa Phoenix",
         "query": "Malla decorativa",
         "variations": {
-            "vari1": "phoenix-1.png"
+            "varImgs": ["phoenix-1.png"],
+            "varTexts": ["Malla decorativa Phoenix 29.8x29.8cm"]
         }
     },
     {
@@ -1200,7 +1189,8 @@
         "type": "Malla decorativa Piuter",
         "query": "Malla decorativa",
         "variations": {
-            "vari1": "piuter-1.jpg"
+            "varImgs": ["piuter-1.jpg"],
+            "varTexts": ["Malla Puiter 30x30cm"]
         }
     },
     {
@@ -1215,7 +1205,8 @@
         "type": "Malla decorativa Ámbar",
         "query": "Malla decorativa",
         "variations": {
-            "vari1": "ambar-1.png"
+            "varImgs": ["ambar-1.png"],
+            "varTexts": ["Malla decorativa Ámbar 30x30cm"]
         }
     },
     {
@@ -1230,7 +1221,8 @@
         "type": "Malla decorativa Fermont",
         "query": "Malla decorativa",
         "variations": {
-            "vari1": "fermont-1.jpg"
+            "varImgs": ["fermont-1.jpg"],
+            "varTexts": ["Malla decorativa Fermont 30x30cm"]
         }
     },
     {
@@ -1245,7 +1237,8 @@
         "type": "Malla decorativa Louisiana",
         "query": "Malla decorativa",
         "variations": {
-            "vari1": "louisiana-1.png"
+            "varImgs": ["louisiana-1.png"],
+            "varTexts": ["Malla decorativa Lousiana 30x30cm"]
         }
     },
     {
@@ -1260,7 +1253,8 @@
         "type": "Malla decorativa Floyd",
         "query": "Malla decorativa",
         "variations": {
-            "vari1": "floyd-1.png"
+            "varImgs": ["floyd-1.png"],
+            "varTexts": ["Malla decorativa Floyd 32x30.5cm"]
         }
     },
     {
@@ -1276,7 +1270,8 @@
         "type": "Piso porcelanico, apariencia madera, color café mate,",
         "query": "Piso porcelánico",
         "variations": {
-            "vari1": "alabama-1.jpg"
+            "varImgs": ["alabama-1.jpg"],
+            "varTexts": ["Monocolor 20x120cm"]
         }
     },
     {
@@ -1290,12 +1285,10 @@
             "cocinas": "<i class='fas fa-utensil-spoon'></i>"
             },
         "type": "Piso cerámico Arcosia, acabado Marfil, arena mate.",
-        "query": "Piso cerámico",
+        "query": "Piso cerámico Malla decorativa",
         "variations": {
-            "vari1": "arcosia-1.jpg",
-            "vari2": "arcosia-2.jpg",
-            "vari3": "arcosia-3.jpg",
-            "vari4": "arcosia-4.jpg"
+            "varImgs": ["arcosia-1.jpg", "arcosia-2.jpg", "arcosia-3.jpg", "arcosia-4.jpg"],
+            "varTexts": ["Malla decorativa Marfil 31x29.5cm", "Malla decorativa Oxford 31x29.5cm", "Malla decorativa Tabaco 31x29.5cm", "Malla decorativa Arena 31x29.5cm"]
         }
     },
     {
@@ -1310,7 +1303,8 @@
         "type": "Piso ideal para interiores, baño y cocina, monocolor",
         "query": "Piso",
         "variations": {
-            "vari1": "ardem-1.jpg"
+            "varImgs": ["ardem-1.jpg"],
+            "varTexts": ["Monocolor 30x60 cm"]
         }
     },
     {
@@ -1326,14 +1320,14 @@
         "type": "Pared/Piso super gres tipo piedra café / beige cálido y gris frío, acabado mate liso",
         "query": "Piso y pared super gres",
         "variations": {
-            "vari1": "atis-1.jpg",
-            "vari2": "atis-2.jpg"
+            "varImgs": ["atis-1.jpg", "atis-2.jpg"],
+            "varTexts": ["Grigio 60x120cm", "Marfil 60x120cm"]
         }
     },
     {
         "id": 81,
         "img": "botev.jpg",
-        "name": "Bovet",
+        "name": "Botev",
         "uses": {
             "interiores": "<i class='fas fa-couch'></i>",
             "exteriores": "<i class='fas fa-sun'></i>",
@@ -1343,9 +1337,8 @@
         "type": "Piso y pared super gres tipo piedra, blanco, café y gris cálido, acabado mate liso",
         "query": "Piso y pared super gres",
         "variations": {
-            "vari1": "bovet-1.jpg",
-            "vari2": "bovet-2.jpg",
-            "vari3": "bovet-3.jpg"
+            "varImgs": ["botev-1.jpg", "botev-2.jpg", "botev-3.jpg"],
+            "varTexts": ["Marfil 60x120cm", "Tabaco 60x120cm", "Taupe 60x120cm"]
         }
     },
     {
@@ -1360,7 +1353,8 @@
         "type": "Pared cerámica tipo piedra café/beige cálido, acabado mate rugoso",
         "query": "Pared cerámica tipo piedra",
         "variations": {
-            "vari1": "burconi-1.jpg"
+            "varImgs": ["burconi-1.jpg"],
+            "varTexts": ["Monocolor 30x60cm"]
         }
     },
     {
@@ -1375,7 +1369,8 @@
         "type": "Piso gres tipo madera, gris cálido, acabado mate texturizado",
         "query": "Piso super gres Tipo madera",
         "variations": {
-            "vari1": "cannonwood-1.jpg"
+            "varImgs": ["cannonwood-1.jpg"],
+            "varTexts": ["Monocolor 20x60cm"]
         }
     },
     {
@@ -1390,10 +1385,8 @@
         "type": "Pared cerámica texturizada, blanco frío, café/beige, gris y negro, acabado mate",
         "query": "Pared cerámica texturizada",
         "variations": {
-            "vari1": "cascata-1.jpg",
-            "vari2": "cascata-2.jpg",
-            "vari3": "cascata-3.jpg",
-            "vari4": "cascata-4.jpg"
+            "varImgs": ["cascata-1.jpg", "cascata-2.jpg", "cascata-3.jpg", "cascata-4.jpg"],
+            "varTexts": ["Snow 30x6cm", "Sand 30x6cm", "Mist 30x6cm", "Smoke 30x6cm"]
         }
     },
     {
@@ -1907,64 +1900,6 @@
         "query": "Piso porcelánico",
         "variations": {
             "vari1": "volterra-1.jpg"
-        }
-    },
-    {
-        "id": 117,
-        "img": "baldosa-barro.jpg",
-        "name": "Baldosa de barro",
-        "uses": {
-            "Largo: 17cm Alto: 17cm Ancho: 1.2cm": ""
-            },
-        "type": "La baldosa de barro es utilizada desde tiempos inmemorables para la construcción. Los antiguos la consideraban un ornamento de lujo, con el paso del tiempo y el desarrollo de la tecnología hoy se ha logrado que las piezas tengan una belleza aun mayor.",
-        "query": "Baldosa Barro",
-        "variations": {
-            "vari1": "baldosa-barro-1.jpg",
-            "vari2": "baldosa-barro-2.jpg",
-            "vari3": "baldosa-barro-3.jpg"
-        }
-    },
-    {
-        "id": 118,
-        "img": "piso-barro.jpg",
-        "name": "Piso de barro",
-        "uses": {
-            "Largo: 29.5cm Alto: 29.5cm Ancho: 1.2cm": ""
-            },
-        "type": "La baldosa de barro es utilizada desde tiempos inmemorables para la construcción. Los antiguos la consideraban un ornamento de lujo, con el paso del tiempo y el desarrollo de la tecnología hoy se ha logrado que las piezas tengan una belleza aun mayor.",
-        "query": "Piso Barro",
-        "variations": {
-            "vari1": "piso-barro-1.jpg",
-            "vari2": "piso-barro-2.jpg",
-            "vari3": "piso-barro-3.jpg"
-        }
-    },
-    {
-        "id": 119,
-        "img": "grava-barro.jpg",
-        "name": "Grava de barro",
-        "uses": {
-            "Máximo: 15mm Mínimo: 3mm": ""
-            },
-        "type": "Atractiva alternativa para la decoración ya que brinda una estética y estilo único en su clase ya que integra el diseño del paisaje agregando profundidad y textura a su proyecto. La grava es de fácil manipulación y extendido. Ideal para acentuar jardine",
-        "query": "Grava Barro",
-        "variations": {
-            "vari1": ""
-        }
-    },
-    {
-        "id": 120,
-        "img": "ladrillo-solido.jpg",
-        "name": "Ladrillo sólido",
-        "uses": {
-            "Adoquín": "Ladrillo Sólido"
-            },
-        "type": "Ancho: 10cm, Alto: 5.7cm, Largo: 20cm",
-        "query": "Ladrillo Solido",
-        "variations": {
-            "vari1": "ladrillo-solido-1.jpg",
-            "vari2": "ladrillo-solido-2.jpg",
-            "vari3": "ladrillo-solido-3.jpg"
         }
     }
 ]

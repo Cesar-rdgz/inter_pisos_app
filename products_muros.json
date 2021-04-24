@@ -185,90 +185,45 @@
     },
     {
         "id": 13,
-        "img": "teja-media-caña.jpg",
-        "name": "Tejas Media Caña",
+        "img": "baldosa-barro.jpg",
+        "name": "Baldosa de barro",
         "uses": {
-            "Alto: 16.5cm Largo: 30cm Alto: 1cm": "<i class='fab fa-microsoft'></i>"
+            "Largo: 17cm Alto: 17cm Ancho: 1.2cm": ""
             },
-        "type": "Teja con diseño tradicional y apariencia siempre armoniosa tanto para construcciones urbanas como rurales. Teja con el sabor milenario de la teja artesanal con el exclusivo tono rojizo que da una apariencia única que la distingue por su belleza.",
-        "query": "35x46cm Conica Contemporáneo",
+        "type": "La baldosa de barro es utilizada desde tiempos inmemorables para la construcción. Los antiguos la consideraban un ornamento de lujo, con el paso del tiempo y el desarrollo de la tecnología hoy se ha logrado que las piezas tengan una belleza aun mayor.",
+        "query": "Baldosa Barro",
         "variations": {
-            "var1": "teja-media-caña-1.jpg",
-            "var2": "teja-media-caña-2.jpg",
-            "var3": "teja-media-caña-3.jpg"
+            "vari1": "baldosa-barro-1.jpg",
+            "vari2": "baldosa-barro-2.jpg",
+            "vari3": "baldosa-barro-3.jpg"
         }
     },
     {
         "id": 14,
-        "img": "tejas-portuguesa.jpg",
-        "name": "Tejas Portuguesa",
+        "img": "grava-barro.jpg",
+        "name": "Grava de barro",
         "uses": {
-            "Alto: 24.5cm Largo: 40.5cm Alto: 1.3cm": "<i class='fab fa-microsoft'></i>"
+            "Máximo: 15mm Mínimo: 3mm": ""
             },
-        "type":"La teja más vendida en el mercado, teja de estilo clásico que combina con todo tipo de estilos arquitectónicos, gran variedad de tonalidades, belleza y durabilidad para su tejado.",
-        "query": "24.5x40.5cm Conica Contemporáneo",
+        "type": "Atractiva alternativa para la decoración ya que brinda una estética y estilo único en su clase ya que integra el diseño del paisaje agregando profundidad y textura a su proyecto. La grava es de fácil manipulación y extendido. Ideal para acentuar jardine",
+        "query": "Grava Barro",
         "variations": {
-            "var1": "tejas-portuguesa-1.jpg",
-            "var2": "tejas-portuguesa-2.jpg",
-            "var3": "tejas-portuguesa-3.jpg"
+            "vari1": ""
         }
     },
     {
         "id": 15,
-        "img": "tejas-romana.jpg",
-        "name": "Tejas Romana",
+        "img": "ladrillo-solido.jpg",
+        "name": "Ladrillo sólido",
         "uses": {
-            "Alto: 30cm Largo: 40cm Alto: 1.2cm": "<i class='fab fa-microsoft'></i>"
+            "Adoquín": "Ladrillo Sólido"
             },
-        "type":"Teja para clientes exigentes que gustan de la exclusividad de tonos en sus tejados, mezcla de colores al gusto y necesidad del cliente, 40 combinaciones de colores a seleccionar. Aquí el diseñador eres tu.",
-        "query": "30x40cm Conica Variedad de tonos",
+        "type": "Ancho: 10cm, Alto: 5.7cm, Largo: 20cm",
+        "query": "Ladrillo Solido",
         "variations": {
-            "var1": "tejas-romana-1.jpg",
-            "var2": "tejas-romana-2.jpg",
-            "var3": "tejas-romana-3.jpg"
-        }
-    },
-    {
-        "id": 16,
-        "img": "tejas-sahara.jpg",
-        "name": "Tejas Sahara",
-        "uses": {
-            "Alto: 15.6cm Largo: 50cm Alto: 1.5cm": "<i class='fab fa-microsoft'></i>"
-            },
-        "type":"Teja de forma cónica que consta de una teja cóncava y otra convexa para dar su apariencia tradicional, teja de tamaño mediano y acabado terso ideal para tejados medianos y grandes. Por su tamaño permite una instalación rápida en áreas grandes.",
-        "query": "15.6x50cm Conica",
-        "variations": {
-            "var1": "tejas-sahara-1.jpg",
-            "var2": "tejas-sahara-2.jpg",
-            "var3": "tejas-sahara-3.jpg"
-        }
-    },
-    {
-        "id": 17,
-        "img": "tejas-santorini.jpg",
-        "name": "Tejas Santorini",
-        "uses": {
-            "Alto: 16cm Largo: 30cm Alto: 1.1cm": "<i class='fab fa-microsoft'></i>"
-            },
-        "type":"Teja con dimensiones pequeñas con un acabado terso y gracias a su micro poro evita la absorción y paso del agua a tu losa, protegiendo tu impermeabilizante. Crea una capa protectora a tu techo contra el sol y la lluvia. Ideal para áreas pequeñas.",
-        "query": "16x30cm Conica",
-        "variations": {
-            "var1": "tejas-santorini-1.jpg"
-        }
-    },
-    {
-        "id": 18,
-        "img": "tejas-tipo-s.jpeg",
-        "name": "Tejas Tipo S",
-        "uses": {
-            "Alto: 35cm Largo: 50cm Alto: 0.9cm": "<i class='fab fa-microsoft'></i>"
-            },
-        "type": "Teja de suaves curvas, muy ligera que no agrega exceso de peso a tu losa ideal para tejados medianos a grandes.",
-        "query": "35x50cm Conica",
-        "variations": {
-            "var1": "tejas-tipo-s-1.jpg",
-            "var2": "tejas-tipo-s-1.jpg",
-            "var3": "tejas-tipo-s-1.jpg"
+            "vari1": "ladrillo-solido-1.jpg",
+            "vari2": "ladrillo-solido-2.jpg",
+            "vari3": "ladrillo-solido-3.jpg"
         }
     }
 ]

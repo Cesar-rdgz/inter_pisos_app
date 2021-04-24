@@ -1,3 +1,5 @@
+const slides = document.querySelectorAll('.container.top-fold');
+
 setTimeout(() => {
     const spinner = document.querySelector('.window-loader');
     
@@ -5,6 +7,8 @@ setTimeout(() => {
     filterproducts();
 }, 5000);
 
+sliderReset();
+sliderInit();
 selectProduct();
 responsiveMenu();
 responsiveItem();
@@ -144,18 +148,21 @@ function responsiveMenu(){
 
 function drawingProductVar(item){
     return new Promise((resolve, reject) => {
-        let imgVariations = Object.values(item.variations);
+        //let imgVariations = Object.values(item.variations);
+        //let imgKeys = Object.keys(item.variations);
 
         const varContainer = document.querySelector('#item-selected-specs .product-variation');
 
         varContainer.innerHTML = '';
+        let i = 0;
 
-        imgVariations.forEach(img => {
+        item.variations.varImgs.forEach(img => {
             const html = `
                 <div class="var">
-                    <img src="${img}" alt="">
+                    <img src="${img}" alt="" value="${item.variations.varTexts[i]}">
                 </div>
             `;
+            i++;
             varContainer.innerHTML += html;
         });
         
@@ -174,6 +181,52 @@ function contactBtns(item){
 
         container.innerHTML = '';
         container.innerHTML = html;
+    });
+}
+
+function injectionSecViewContent(item){
+    return new Promise((resolve, reject) => {
+        const keysfromVar = Object.keys(item.variations);
+
+        const btnsVariations = document.querySelectorAll('.item-selected .product-variation .var img');
+        const secView = document.querySelector('.secondary-view');
+
+        btnsVariations.forEach(btn => {
+            btn.addEventListener('click', e => {
+
+                const data = e.target.getAttribute('value');
+                const imgIndex = item.variations.varTexts.indexOf(data);
+
+                    const injectContainer = document.querySelector('.secondary-view .sec-content-view');
+
+                    const html = `
+            
+                    <div class="img-content">
+                        <img src="${item.variations.varImgs[imgIndex]}" alt="">
+                    </div>
+                    <div class="text-img">
+                        <p class="text-sec">${data}</p>
+                    </div>
+            
+                    `;
+            
+                    injectContainer.innerHTML = html;
+                    secView.style.left = '50%';
+                    closeSecondaryView();
+            });
+            
+        });
+    });
+}
+
+
+function closeSecondaryView() {
+    const btnForcloseView = document.querySelector('.secondary-view .closed-btn label');
+
+    btnForcloseView.addEventListener('click', () => {
+        const secView = document.querySelector('.secondary-view');
+
+        secView.style.left = '1000%';
     });
 }
 
@@ -219,6 +272,8 @@ function renderDynamicItem(data, id){
                 drawingProductVar(item);
             }).then(() => {
                 contactBtns(item);
+            }).then(() => {
+                injectionSecViewContent(item);
             }).then(() => {
                 headerImg.innerHTML = `<img alt="" src="${item.img}">`;
                 specsContainer.style.transform = "translateY(0%)";
@@ -286,3 +341,24 @@ function filterproducts(){
         }
     });
 }
+
+function sliderInit(){
+    slides[0].style.display = 'block';
+};
+
+function sliderReset(){
+    slides.forEach(slide => {
+        slide.style.display = 'none';
+    });
+}
+
+let counter = 1;
+
+setInterval(() => {
+    sliderReset();
+    slides[counter].style.display = 'block';
+    counter++;
+    if(counter >= slides.length){
+        counter = 0;
+    }
+}, 8000);

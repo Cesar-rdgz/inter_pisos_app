@@ -1,13 +1,5 @@
 [
     {
-        "filters": {
-            "filterOne": "Paneles de hidromasaje",
-            "filterTwo": "Duchas efecto lluvia",
-            "filterThree": "Coladeras lineales",
-            "filterFourth": "Tinas Freestanding"   
-        }
-    },
-    {
         "id": 1,
         "img": "aconcagua.png",
         "name": "Aconcagua",
