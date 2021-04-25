@@ -17,8 +17,8 @@
         "type": "Regadera superior con 50 puntos, 2 Regaderes frontales con 50 puntos, Manguera reforzada de 1.50mts",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "2301-1.jpg",
-            "var2": "2301-2.jpg"
+            "varImgs": ["2301-1.jpg", "2301-2.jpg"],
+            "varTexts": ["", ""]
         }
     },
     {

@@ -1401,7 +1401,8 @@
         "type": "Pared cerámica tipo piedra gris frío, acabado mate texturizado",
         "query": "Pared cerámica tipo piedra",
         "variations": {
-            "vari1": "cuori-1.jpg"
+            "varImgs": ["cuori-1.jpg"],
+            "varTexts": ["Tipo piedra gris frío mate 30x60 cm"]
         }
     },
     {
@@ -1416,7 +1417,8 @@
         "type": "Piso gres tipo madera café cálido, acabado mate texturizado",
         "query": "Piso super gres Tipo madera",
         "variations": {
-            "vari1": "decker-1.jpg"
+            "varImgs": ["decker-1.jpg"],
+            "varTexts": ["Café cálido 20x60 cm"]
         }
     },
     {
@@ -1432,7 +1434,8 @@
         "type": "Piso y pared porcelánico tipo madera café / beige cálido, acabado mate texturizado",
         "query": "Piso y pared porcelánico",
         "variations": {
-            "vari1": "denver-1.jpg"
+            "varImgs": ["denver-1.jpg"],
+            "varTexts": ["Café/Beige cálido"]
         }
     },
     {
@@ -1447,10 +1450,8 @@
         "type": "Pared cerámica en varios colores",
         "query": "Pared cerámica en varios colores",
         "variations": {
-            "vari1": "edimburgo-1.jpg",
-            "vari2": "edimburgo-2.jpg",
-            "vari3": "edimburgo-3.jpg",
-            "vari4": "edimburgo-4.jpg"
+            "varImgs": ["edimburgo-1.jpg", "edimburgo-2.jpg", "edimburgo-3.jpg", "edimburgo-4.jpg"],
+            "varTexts": ["Ambar 28.3x7.2cm", "Coral 28.3x7.2cm", "Obsidian 28.3x7.2cm", "Olive 28.3x7.2cm"]
         }
     },
     {
@@ -1465,7 +1466,8 @@
         "type": "Piso gres tipo madera café / beige cálido, acabado mate texturizado",
         "query": "Piso super gres Tipo madera",
         "variations": {
-            "vari1": "elkwood-1.jpg"
+            "varImgs": ["elkwood-1.jpg"],
+            "varTexts": ["Tipo madera Café/Beige cálido 20x60cm"]
         }
     },
     {
@@ -1480,7 +1482,8 @@
         "type": "Piso gres tipo madera, café cálido, acabado mate liso",
         "query": "Piso super gres Tipo madera",
         "variations": {
-            "vari1": "hanover-1.jpg"
+            "varImgs": ["hanover-1.jpg"],
+            "varTexts": ["Café cálid 20x60cm"]
         }
     },
     {
@@ -1496,7 +1499,8 @@
         "type": "Piso y pared super gres tipo piedra, blanco cálido, acabado mate rugoso",
         "query": "Piso y pared super gres tipo piedra",
         "variations": {
-            "vari1": "Helsinki-1.jpg"
+            "varImgs": ["Helsinki-1.jpg"],
+            "varTexts": ["Tipo piedra. Blanco Cálido 60x120cm"]
         }
     },
     {
@@ -1512,7 +1516,8 @@
         "type": "Piso y pared porcelánico tipo madera, café cálido, acabado mate liso",
         "query": "Piso y pared porcelánico Tipo madera",
         "variations": {
-            "vari1": "hubbert-1.jpg"
+            "varImgs": ["hubbert-1.jpg"],
+            "varTexts": ["Miel 15x90cm"]
         }
     },
     {
@@ -1528,9 +1533,8 @@
         "type": "Piso y pared super gres tipo piedra, gris frío y beig, acabado mate rugoso",
         "query": "Piso y pared super gres tipo piedra",
         "variations": {
-            "vari1": "kiel-1.jpg",
-            "vari2": "kiel-2.jpg",
-            "vari3": "kiel-3.jpg"
+            "varImgs": ["kiel-1.jpg", "kiel-2.jpg", "kiel-3.jpg"],
+            "varTexts": ["Gray 60x60cm0", "Sand 60x60cm", "Dark 60x60cm"]
         }
     },
     {
@@ -1546,9 +1550,8 @@
         "type": "Pared super gres tipo cemento, negro frío, negro gris y beig, acabado mate liso",
         "query": "pared super gres tipo cemento",
         "variations": {
-            "vari1": "leighton-1.jpg",
-            "vari2": "leighton-2.jpg",
-            "vari3": "leighton-3.jpg"
+            "varImgs": ["leighton-1.jpg", "leighton-2.jpg", "leighton-3.jpg"],
+            "varTexts": ["Dark 60x120cm", "Gray 60x120cm", "Light 60x120cm"]
         }
     },
     {
@@ -1564,7 +1567,8 @@
         "type": "Piso y pared porcelánica tipo mármol, gris frío, acabado mate liso",
         "query": "Piso y pared porcelánico tipo marmol",
         "variations": {
-            "vari1": "levicato-1.jpg"
+            "varImgs": ["levicato-1.jpg"],
+            "varTexts": ["Tipo mármo, gris frío 60x60cm"]
         }
     },
     {
@@ -1580,8 +1584,8 @@
         "type": "Piso y pared porcelánica tipo madera, café cálido, acabado mate liso",
         "query": "Piso y pared porcelánico Tipo madera",
         "variations": {
-            "vari1": "lubeck-1.jpg",
-            "vari2": "lubeck-2.jpg"
+            "varImgs": ["lubeck-1.jpg", "lubeck-2.jpg"],
+            "varTexts": ["Castaña 15x90cm", "Tabaco 15x90cm"]
         }
     },
     {
@@ -1597,10 +1601,8 @@
         "type": "Piso y pared porcelánico en varios colores: gris cálido, beige,azul,café; acabado mate texturizado",
         "query": "Piso y pared porcelánico en varios colores",
         "variations": {
-            "vari1": "maier-1.jpg",
-            "vari2": "maier-2.jpg",
-            "vari3": "maier-3.jpg",
-            "vari4": "maier-4.jpg"
+            "varImgs": ["maier-1.jpg", "maier-2.jpg", "maier-3.jpg", "maier-4.jpg"],
+            "varTexts": ["Blue 60x60cm", "Crema 60x60cm", "Oxford 60x60cm", "Tabaco 60x60cm"]
         }
     },
     {
@@ -1616,7 +1618,8 @@
         "type": "Piso y pared super gres tipo piedra, gris frío, acabado mate liso",
         "query": "Piso y pared super gres tipo piedra",
         "variations": {
-            "vari1": "martelgray-1.jpg"
+            "varImgs": ["martelgray-1.jpg"],
+            "varTexts": ["Tipo pieda, gris frío 60x120cm"]
         }
     },
     {
@@ -1631,7 +1634,8 @@
         "type": "Piso gres tipo madera, café cálido, acabado mate texturizado",
         "query": "Piso super gres Tipo madera",
         "variations": {
-            "vari1": "memphis-1.jpg"
+            "varImgs": ["memphis-1.jpg"],
+            "varTexts": ["Café cálido 20x60cm"]
         }
     },
     {
@@ -1646,7 +1650,8 @@
         "type": "Piso y pared super gres tipo textil, gris frío, acabado brillante liso",
         "query": "Piso y pared super gres tipo texturizada",
         "variations": {
-            "vari1": "milano-1.jpg"
+            "varImgs": ["milano-1.jpg"],
+            "varTexts": ["Tipo textil, gris frío 45x90cm"]
         }
     },
     {
@@ -1661,7 +1666,8 @@
         "type": "Pared cerámica tipo mármol, café / beige cálido, acabado mate liso ",
         "query": "Pared cerámica tipo marmol",
         "variations": {
-            "vari1": "milena-1.jpg"
+            "varImgs": ["milena-1.jpg"],
+            "varTexts": ["Tipo mármol Café/Beige cálido 30x60cm"]
         }
     },
     {
@@ -1676,7 +1682,8 @@
         "type": "Piso y pared super gres tipo mármol, blanco cálido, acabado brillante liso",
         "query": "Piso y pared super gres tipo marmol",
         "variations": {
-            "vari1": "moncler-1.jpg"
+            "varImgs": ["moncler-1.jpg"],
+            "varTexts": ["Tipo mármol, Blanco Cálido 45x90cm"]
         }
     },
     {
@@ -1692,7 +1699,8 @@
         "type": "Piso y pared super gres tipo mármol, blanco frío, acabado mate liso",
         "query": "Piso y pared super gres tipo marmol",
         "variations": {
-            "vari1": "murano-1.jpg"
+            "varImgs": ["murano-1.jpg"],
+            "varTexts": ["Tipo Mármol, Blanco frío 60x120cm"]
         }
     },
     {
@@ -1707,7 +1715,8 @@
         "type": "Pared cerámica tipo mármol, blanco frío, acabado mate texturizado",
         "query": "Pared cerámica tipo marmol",
         "variations": {
-            "vari1": "mylo-1.jpg"
+            "varImgs": ["mylo-1.jpg"],
+            "varTexts": ["Tipo mármol, Blanco frío 30x60cm"]
         }
     },
     {
@@ -1722,7 +1731,8 @@
         "type": "Piso gres tipo madera, café cálido, acabado mate texturizado",
         "query": "Piso super gres tipo madera",
         "variations": {
-            "vari1": "nebraska-1.jpg"
+            "varImgs": ["nebraska-1.jpg"],
+            "varTexts": ["Café cálido 20x60cm"] 
         }
     },
     {
@@ -1738,7 +1748,8 @@
         "type": "Piso y pared porcelánico tipo madera, negro frío, acabado mate texturizado",
         "query": "Piso y pared porcelánico tipo madera",
         "variations": {
-            "vari1": "nekk-1.jpg"
+            "varImgs": ["nekk-1.jpg"],
+            "varTexts": ["Tipo madera, negro frío 20x120cm"]
         }
     },
     {
@@ -1754,7 +1765,8 @@
         "type": "Piso porcelánico tipo madera, café cálido, acabado mate liso",
         "query": "Piso porcelánico tipo madera",
         "variations": {
-            "vari1": "parquet-1.jpg"
+            "varImgs": ["parquet-1.jpg", "parquet-2.jpg"],
+            "varTexts": ["Olmo Gris 60x60cm", "Habano 60x60cm"]
         }
     },
     {
@@ -1769,10 +1781,8 @@
         "type": "Piso porcelánico tipo madera, café cálido, acabado mate liso",
         "query": "Piso porcelánico Tipo madera",
         "variations": {
-            "vari1": "percal-1.jpg",
-            "vari2": "percal-2.jpg",
-            "vari3": "percal-3.jpg",
-            "vari4": "percal-4.jpg"
+            "varImgs": ["percal-1.jpg", "percal-2.jpg", "percal-3.jpg", "percal-4.jpg"],
+            "varTexts": ["Beige 30x45cm", "Blanco 30x45cm", "Complemento Beige 45x9cm", "Complemento Fascia Blume 30x45cm"] 
         }
     },
     {
@@ -1788,7 +1798,8 @@
         "type": "Piso porcelánico tipo madera, café cálido, acabado mate liso",
         "query": "Piso porcelánico Tipo madera",
         "variations": {
-            "vari1": "riverwood-1.jpg"
+            "varImgs": ["riverwood-1.jpg"],
+            "varTexts": ["Café Cálido 20x120cm"]
         }
     },
     {
@@ -1803,7 +1814,8 @@
         "type": "Piso porcelánico tipo madera, café cálido, acabado mate liso",
         "query": "Piso porcelánico Tipo madera",
         "variations": {
-            "vari1": "rochelle-1.jpg"
+            "varImgs": ["rochelle-1.jpg", "rochelle-2.jpg"],
+            "varTexts": ["Bruno 45x90cm", "Toscano 45x90cm"]
         }
     },
     {
@@ -1819,7 +1831,8 @@
         "type": "Piso porcelánico Arena, Margil, Taupé, Terracota",
         "query": "Piso porcelánico",
         "variations": {
-            "vari1": "sanmiguel-1.jpg"
+            "varImgs": ["sanmiguel-1.jpg", "sanmiguel-2.jpg", "sanmiguel-3.jpg"],
+            "varTexts": ["Arena 60x60cm", "Taupé 60x60cm", "Terracota 60x60cm"]
         }
     },
     {
@@ -1835,7 +1848,8 @@
         "type": "Piso porcelánico Monocolor",
         "query": "Piso porcelánico Monocolor",
         "variations": {
-            "vari1": "santorini-1.jpg"
+            "varImgs": ["santorini-1.jpg"],
+            "varTexts": ["Blanco frío mate 60x120cm/60x60cm"]
         }
     },
     {
@@ -1850,7 +1864,8 @@
         "type": "Piso porcelánico Monocolor",
         "query": "Piso porcelánico Monocolor",
         "variations": {
-            "vari1": "stockton-1.jpg"
+            "varImgs": ["stockton-1.jpg"],
+            "varTexts": ["Monocolor 20x60cm"]
         }
     },
     {
@@ -1866,9 +1881,8 @@
         "type": "Piso porcelánico Silver, Light Gray, Sand",
         "query": "Piso porcelánico",
         "variations": {
-            "vari1": "trenton-1.jpg",
-            "vari2": "trenton-2.jpg",
-            "vari3": "trenton-3.jpg"
+            "varImgs": ["trenton-1.jpg", "trenton-2.jpg", "trenton-3.jpg"],
+            "varTexts": ["Light Gray 45x90cm", "Silver 45x90cm", "Sand 45x90cm"]
         }
     },
     {
@@ -1884,7 +1898,8 @@
         "type": "Piso porcelánico Monocolor",
         "query": "Piso porcelánico",
         "variations": {
-            "vari1": "vermont-1.jpg"
+            "varImgs": ["vermont-1.jpg"],
+            "varTexts": ["Tipo madera, gris cálido 20x120cm"]
         }
     },
     {
@@ -1899,7 +1914,8 @@
         "type": "Piso porcelánico café cálido",
         "query": "Piso porcelánico",
         "variations": {
-            "vari1": "volterra-1.jpg"
+            "varImgs": ["volterra-1.jpg"],
+            "varTexts": ["Tipo piedra Café cálido 30x60cm"]
         }
     }
 ]
