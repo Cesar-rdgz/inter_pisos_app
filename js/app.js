@@ -154,15 +154,15 @@ function drawingProductVar(item){
         const varContainer = document.querySelector('#item-selected-specs .product-variation');
 
         varContainer.innerHTML = '';
-        let i = 0;
 
         item.variations.varImgs.forEach(img => {
+            const imgIndex = item.variations.varImgs.indexOf(img);
+
             const html = `
                 <div class="var">
-                    <img src="${img}" alt="" value="${item.variations.varTexts[i]}">
+                    <img src="${img}" alt="" value="${imgIndex}">
                 </div>
             `;
-            i++;
             varContainer.innerHTML += html;
         });
         
@@ -195,17 +195,16 @@ function injectionSecViewContent(item){
             btn.addEventListener('click', e => {
 
                 const data = e.target.getAttribute('value');
-                const imgIndex = item.variations.varTexts.indexOf(data);
-
+                
                     const injectContainer = document.querySelector('.secondary-view .sec-content-view');
 
                     const html = `
             
                     <div class="img-content">
-                        <img src="${item.variations.varImgs[imgIndex]}" alt="">
+                        <img src="${item.variations.varImgs[data]}" alt="">
                     </div>
                     <div class="text-img">
-                        <p class="text-sec">${data}</p>
+                        <p class="text-sec">${item.variations.varTexts[data]}</p>
                     </div>
             
                     `;

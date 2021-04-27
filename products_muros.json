@@ -2,7 +2,8 @@
     {
         "filters": {
             "all": "Todo",
-            "filterOne": "30x40cm"
+            "Losas": "Losas",
+            "Ladrillos": "Ladrillos"
         }
     },
     {
@@ -15,8 +16,8 @@
         "type": "Tres veces más resistente que cualquier sistema constructivo. El muro más eficiente, aprobado por el Centro de Prevención de desastres (CENAPRED).",
         "query": "",
         "variations": {
-            "var1": "block-multiperforado-1.jpg",
-            "var2": "block-multiperforado-2.jpg"
+            "varImgs": ["block-multiperforado-1.jpg", "block-multiperforado-2.jpg"],
+            "varTexts": ["", ""]
         }
     },
     {
@@ -29,9 +30,8 @@
         "type": "Celosía de arcilla natural ideal para instalarse en espacios abiertos con la finalidad de dar privacidad a ciertas areas , presenta gran durabilidad y ventilación en zonas donde se requieren estas cualidades y contribuyen a elevar la estética y diseño.",
         "query": "",
         "variations": {
-            "var1": "celosia-barro-1.jpg",
-            "var2": "celosia-barro-2.jpg",
-            "var3": "celosia-barro-3.jpg"
+            "varImgs": ["celosia-barro-1.jpg", "celosia-barro-2.jpg", "celosia-barro-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -42,11 +42,10 @@
             "Alto: 6.7cm Ancho: 1.6cm Largo: 24.4cm": "<i class='fab fa-microsoft'></i>"
             },
         "type": "La cara del ladrillo decorativo, la solución para dar un nuevo aspecto a los muros existentes, sin sacrificar el espacio.",
-        "query": "",
+        "query": "Ladrillos",
         "variations": {
-            "var1": "cintilla-ladrillo-1.jpeg",
-            "var2": "cintilla-ladrillo-2.jpg",
-            "var3": "cintilla-ladrillo-3.jpg"
+            "varImgs": ["cintilla-ladrillo-1.jpeg", "cintilla-ladrillo-2.jpg", "cintilla-ladrillo-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -59,9 +58,8 @@
         "type": "Ecomuro es un block de barro 100% natural extruido y horneado a 1000 C°. Gracias al proceso por el que está elaborado permite grandes beneficios en cualquier tipo de construcción. Es ligero y no impone cargas excesivas a la estructura, es térmico ya que se encarga de aislar el calor y frío y es más resistente que un block tradicional de concreto. ¡Conócelo!.",
         "query": "",
         "variations": {
-            "var1": "ecomuro-1.jpg",
-            "var2": "ecomuro-2.jpg",
-            "var3": "ecomuro-3.jpg"
+            "varImgs": ["ecomuro-1.jpg", "ecomuro-2.jpg", "ecomuro-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -72,11 +70,10 @@
                 "Ancho: 6.70cms Largo: 24.40cm Espesor: 1.2cm": ""
             },
         "type": "Dale a tus muros un estilo único con Fachaladrillos, fabricados con arcilla de la mejor calidad. Acabado liso y texturizado.",
-        "query": "",
+        "query": "Ladrillos",
         "variations": {
-            "var1": "fachaladrillo-1.jpg",
-            "var2": "fachaladrillo-2.jpg",
-            "var3": "fachaladrillo-3.jpg"
+            "varImgs": ["fachaladrillo-1.jpg", "fachaladrillo-2.jpg", "fachaladrillo-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -89,9 +86,8 @@
         "type": "La Fachaleta reproduce la belleza , originalidad y durabilidad natural del barro, combinando materiales extraídos de la misma naturaleza, con las ventajas de ser un producto más ligero, más económico, fácil de instalar y transportar.",
         "query": "24.5x40.2cm Conica Arquitectónicos",
         "variations": {
-            "var1": "fachaleta-1.jpg",
-            "var2": "fachaleta-2.jpg",
-            "var3": "fachaleta-3.jpg"
+            "varImgs": ["fachaleta-1.jpg", "fachaleta-2.jpg", "fachaleta-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -102,11 +98,10 @@
                 "Ancho: 6cm Alto: 12cm Largo: 24cm": "<i class='fab fa-microsoft'></i>"
             },
         "type":"Uso residencial, comercial e institucional. Aislante térmico; por las cámaras de aire en su diseño usted tendrá ahorros en climatización y aislamiento acústico.",
-        "query": "",
+        "query": "Ladrillos",
         "variations": {
-            "var1": "ladrillo-aislante-1.jpg",
-            "var2": "ladrillo-aislante-2.jpg",
-            "var3": "ladrillo-aislante-3.jpg"
+            "varImgs": ["ladrillo-aislante-1.jpg", "ladrillo-aislante-2.jpg", "ladrillo-aislante-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -117,10 +112,10 @@
                 "Ancho: 6.67cm Alto: 6.30cm Largo: 24.40cm": ""
             },
         "type": "Ladrillo con gran variedad de acabados en cuanto a tonos y apariencia, disponible en presentación anticado, liso, rustico. Para uso interior o exterior, residencial y comercial.",
+        "query": "Ladrillos",
         "variations": {
-            "var1": "ladrillo-decorativo-1.jpg",
-            "var2": "ladrillo-decorativo-2.jpg",
-            "var3": "ladrillo-decorativo-3.jpg"
+            "varImgs": ["ladrillo-decorativo-1.jpg", "ladrillo-decorativo-2.jpg", "ladrillo-decorativo-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -131,11 +126,10 @@
                 "Ancho: 9cm Alto: 5.70cm Largo: 19cm": ""
             },
         "type": "Elaborado con arcilla de primera calidad. Excelente amarre en construcción por estar diseñado con 21 huecos por pieza.",
-        "query": "",
+        "query": "Ladrillos",
         "variations": {
-            "var1": "ladrillo-modular-1.jpg",
-            "var2": "ladrillo-modular-2.jpg",
-            "var3": "ladrillo-modular-3.jpg"
+            "varImgs": ["ladrillo-modular-1.jpg", "ladrillo-modular-2.jpg", "ladrillo-modular-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -146,11 +140,10 @@
             "Acnho: 11.8cm Alto: 3.7cm Largo: 23.3cm": "<i class='fab fa-microsoft'></i>"
             },
         "type": "Ladrillo resistente al contacto directo del fuego, no se quiebra con el calor, no requiere boquilla, guarda el calor optimizando el combustible. Ideal para: chimeneas, hornos artesanales, asadores, parrillas y fogateros.",
-        "query": "",
+        "query": "Ladrillos",
         "variations": {
-            "var1": "ladrillo-asador-1.jpg",
-            "var2": "ladrillo-asador-2.jpg",
-            "var3": "ladrillo-asador-3.jpg"
+            "varImgs": ["ladrillo-asador-1.jpg", "ladrillo-asador-2.jpg", "ladrillo-asador-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -161,11 +154,10 @@
             "Largo: 90cm Alto: 30cm Espesor: 1.2cm": ""
             },
         "type":"Ladrimalla es una línea de fachaladrillos decorativos 100% de barro natural que están unidos a una malla de fibra de vidrio. ¡Conócelo!",
-        "query": "",
+        "query": "Ladrillos",
         "variations": {
-            "var1": "ladrimalla-1.jpg",
-            "var2": "ladrimalla-2.jpg",
-            "var3": "ladrimalla-3.jpg"
+            "varImgs": ["ladrimalla-1.jpg", "ladrimalla-2.jpg", "ladrimalla-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -178,9 +170,8 @@
         "type":"Sistema de muro de carga de alta eficiencia. Combina el confort del aislamiento térmico con la mayor resistencia mecánica, lo que reduce el costo de su obra.",
         "query": "",
         "variations": {
-            "var1": "porton-1.jpg",
-            "var2": "porton-2.jpg",
-            "var3": "porton-3.jpg"
+            "varImgs": ["porton-1.jpg", "porton-2.jpg", "porton-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -193,9 +184,8 @@
         "type": "La baldosa de barro es utilizada desde tiempos inmemorables para la construcción. Los antiguos la consideraban un ornamento de lujo, con el paso del tiempo y el desarrollo de la tecnología hoy se ha logrado que las piezas tengan una belleza aun mayor.",
         "query": "Baldosa Barro",
         "variations": {
-            "vari1": "baldosa-barro-1.jpg",
-            "vari2": "baldosa-barro-2.jpg",
-            "vari3": "baldosa-barro-3.jpg"
+            "varImgs": ["baldosa-barro-1.jpg", "baldosa-barro-2.jpg", "baldosa-barro-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -208,7 +198,8 @@
         "type": "Atractiva alternativa para la decoración ya que brinda una estética y estilo único en su clase ya que integra el diseño del paisaje agregando profundidad y textura a su proyecto. La grava es de fácil manipulación y extendido. Ideal para acentuar jardine",
         "query": "Grava Barro",
         "variations": {
-            "vari1": ""
+            "varImgs": ["grava-barro.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -221,9 +212,64 @@
         "type": "Ancho: 10cm, Alto: 5.7cm, Largo: 20cm",
         "query": "Ladrillo Solido",
         "variations": {
-            "vari1": "ladrillo-solido-1.jpg",
-            "vari2": "ladrillo-solido-2.jpg",
-            "vari3": "ladrillo-solido-3.jpg"
+            "varImgs": ["ladrillo-solido-1.jpg", "ladrillo-solido-2.jpg", "ladrillo-solido-3.jpg"],
+            "varTexts": ["", "", ""]
+        }
+    },
+    {
+        "id": 16,
+        "img": "barro-block.jpg",
+        "name": "Barro Block",
+        "uses": {
+                "": ""
+                },
+        "type": "<ul><li>Ancho: 20cm</li><li>Alto: 20cm</li><li>Largo: 30cm</li><li>Piezas por tarima: 120</li><li>Material: 100% Barro Natural</li></ul>",
+        "query": "Losas",
+        "variations": {
+            "varImgs": ["barro-bloque-1.jpeg", "barro-bloque-2.jpeg"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 17,
+        "img": "barro-kappa.jpg",
+        "name": "Barro Kappa",
+        "uses": {
+            "": ""
+            },
+        "type": "Elemento de Barro Natural que se sobrepone en su techo creando una capa térmica que le aísla del calor. Al no estar unido a la losa sino solo sobrepuesto provoca una interfase y rompe la transmisión del calor a la losa.",
+        "query": "Losas",
+        "variations": {
+            "varImgs": ["barro-kappa-1.jpg", "barro-kappa-2.jpg"],
+            "varTexts": ["", ""] 
+        }
+    },
+    {
+        "id": 18,
+        "img": "barrotapa.jpg",
+        "name": "Barrotapa",
+        "uses": {
+            "Alto: 18.7 Ancho: 29": ""
+            },
+        "type": "Barrotapa es una pieza que está diseñada para facilitar el proceso de construcción de los techos aligerados. Funciona formando una barrera para evitar la entrada de concreto dentro de los barroblocks.",
+        "query": "Losas",
+        "variations": {
+            "varImgs": ["barrotapa-1.jpg", "barrotapa-2.jpg"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 19,
+        "img": "bovedilla.jpg",
+        "name": "Sistema de vigueta y bovedilla",
+        "uses": {
+            "Ancho: 20cm Largo: 63.5cm": ""
+            },
+        "type": "Con el sistema VIBO Vigueta y Bovedilla se logra el más bajo consumo de concreto por metro cuadrado cualquiera que sea el claro a cubrir, disminuye hasta un 85% el costo de cimbra.",
+        "query": "Losas",
+        "variations": {
+            "varImgs": ["bovedilla-1.jpg", "bovedilla-2.jpg"],
+            "varTexts": ["", ""]
         }
     }
 ]

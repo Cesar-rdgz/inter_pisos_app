@@ -9,9 +9,8 @@
         "type": "Disponible con y sin hidromasaje, Accesorios: 1 Boton neumatico, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 desagüe, 1 Rebosadero, 1 Motobomba de 13.5amps",
         "query": "",
         "variations": {
-            "var1": "aconcagua-1.png",
-            "var2": "aconcagua-2.png",
-            "var3": "aconcagua-3.png"
+            "varImgs": ["aconcagua-1.png", "aconcagua-2.png", "aconcagua-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -24,9 +23,8 @@
         "type": "Disponible con y sin hidromasaje, Accesorios: 1 Boton neumatico, 2 Controles de aire, 6 Sensajets, cascada cromada, 6 jets rotatorios, 1 Mezcladora con manerales, 1 Desagüe, 1 rebosadero, 1 motobomba de 13.5amps",
         "query": "lujo",
         "variations": {
-            "var1": "aconcagua-lujo-1.png",
-            "var2": "aconcagua-lujo-2.png",
-            "var3": "aconcagua-lujo-3.png"
+            "varImgs": ["aconcagua-lujo-1.png", "aconcagua-lujo-2.png", "aconcagua-lujo-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -39,9 +37,8 @@
         "type": "Disponible con y sin hidromasaje, Accesorios: 1 Boton neumatico, 2 Controles de aire, 6 Sensajets, 6 MicroJets rotatorios, 2 Manijas cromadas, 1 desagüe, 1 Rebosadero, 1 Motobomba de 7.5amps",
         "query": "",
         "variations": {
-            "var1": "anemona-1.png",
-            "var2": "anemona-2.png",
-            "var3": "anemona-3.png"
+            "varImgs": ["anemona-1.png", "anemona-2.png", "anemona-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -54,9 +51,8 @@
         "type": "Disponible con y sin hidromasaje, Accesorios: 1 Boton neumatico, 2 Controles de aire, 6 Sensajets, 6 MicroJets rotatorios, 2 Manijas acrílico, 1 desagüe, 1 Rebosadero, 1 Motobomba de 7.5amps",
         "query": "",
         "variations": {
-            "var1": "art-deco-1.png",
-            "var2": "art-deco-2.png",
-            "var3": "art-deco-3.png"
+            "varImgs": ["art-deco-1.png", "art-deco-2.png","art-deco-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -69,9 +65,8 @@
         "type": "Disponible con y sin hidromasaje, Accesorios: 2 Botones neumático, 2 Controles de aire, 6 Sensajets, 6 MicroJets rotatorios, 1 Cascada de llenado de acrílico, Mezcladora con manerales cromados, 2 Manijas de acrílico, 1 Desagüe de lujo, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "lujo",
         "variations": {
-            "var1": "art-deco-lujo-1.png",
-            "var2": "art-deco-lujo-2.png",
-            "var3": "art-deco-lujo-3.png"
+            "varImgs": ["art-deco-lujo-1.png", "art-deco-lujo-2.png", "art-deco-lujo-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -84,9 +79,8 @@
         "type": "Bañera Art Déco con Air Massage, Con faldón, Accesorios: 1 Boton neumático cuadrado, 20 Microinyectores de aire, 1 Control digital Air Massage, 1 Blower, 2 Manijas de acrílico, 1 Desagüe de lujo, 1 Rebosadero.",
         "query": "air massage",
         "variations": {
-            "var1": "art-deco-massage-1.png",
-            "var2": "art-deco-massage-2.png",
-            "var3": "art-deco-massage-3.png"
+            "varImgs": ["art-deco-massage-1.png", "art-deco-massage-2.png", "art-deco-massage-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -99,9 +93,8 @@
         "type":"Con ó sin faldón, con ó sin hidromasaje. Accesorios: 1 Boton neumático, 2 Tomas de aire, 6 Superjets, 6 Microjets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "bahia-1.png",
-            "var2": "bahia-2.png",
-            "var3": "bahia-3.png"
+            "varImgs": ["bahia-1.png", "bahia-2.png", "bahia-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -114,9 +107,8 @@
         "type": "Con ó sin hidromasaje / con faldón, Accesorios: 1 Botón neumatico, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps.",
         "query": "",
         "variations": {
-            "var1": "barcelona-1.png",
-            "var2": "barcelona-2.png",
-            "var3": "barcelona-3.png"
+            "varImgs": ["barcelona-1.png", "barcelona-2.png", "barcelona-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -129,9 +121,8 @@
         "type": "Con o sin hidromasaje / con faldón, Acccesorios: 1 Boton neumático, 2 Controles de aire, 4 Sensajets, 8 Jets rotatorios, 1 Cascada de acrílico de recirculación, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps.",
         "query": "",
         "variations": {
-            "var1": "cadiz-1.png",
-            "var2": "cadiz-2.png",
-            "var3": "cadiz-3.png"
+            "varImgs": ["cadiz-1.png", "cadiz-2.png", "cadiz-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -144,9 +135,8 @@
         "type":"Con o sin hidromasaje / con faldón, Accesorios: 1 Botón neumático, 2 Controles de aire, 8 Sensajets, 6 Jets retarorios, 1 Manija curva, 1 Nariz de llenado, 1 Mezcladora con manerales cromados, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 13.5amps",
         "query": "",
         "variations": {
-            "var1": "caspio-1.png",
-            "var2": "caspio-2.png",
-            "var3": "caspio-3.png"
+            "varImgs": ["caspio-1.png", "caspio-2.png", "caspio-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -159,9 +149,8 @@
         "type":"Con ó sin hidromasaje / con o sin faldón, Accesorios: 1 Botón neumático, 2 Controles de aire, 8 Sensajets, 6 Jets rotatorios, 2 Manijas tipo alberca, 1 Nariz de llenado, 6 Jets rotatorios, 1 Mezcladora con manerales de cromados, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 13.5amps",
         "query": "lujo",
         "variations": {
-            "var1": "caspio-lujo-1.png",
-            "var2": "caspio-lujo-2.png",
-            "var3": "caspio-lujo-3.png"
+            "varImgs": ["caspio-lujo-1.png", "caspio-lujo-2.png", "caspio-lujo-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -174,9 +163,8 @@
         "type":"Con ó sin hidromasaje / con ó sin faldón, Accesorios: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5amps",
         "query": "",
         "variations": {
-            "var1": "cebeles-1.png",
-            "var2": "cebeles-2.png",
-            "var3": "cebeles-3.png"
+            "varImgs": ["cebeles-1.png", "cebeles-2.png", "cebeles-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -189,9 +177,8 @@
         "type": "Con hidromasaje, Accesorios: 1 Boton neumático, 1 Control Digital Air Massage, 2 Controles de aire, 4 Sensajets, 6 jets rotatorios, 20 Microinyectores de aire, 1 Blower, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 13.5 amps",
         "query": "",
         "variations": {
-            "var1": "chic-1.png",
-            "var2": "chic-2.png",
-            "var3": "chic-3.png"
+            "varImgs": ["chic-1.png", "chic-2.png", "chic-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -204,9 +191,8 @@
         "type":"Con hidromasaje, Accesorios: 1 Boton neumático, 1 Botón neumático Luz Acuairis, 1 Control digital Air Massage, 4 Sensajet, 6 Jets rotatorios, 2 Controles de aire, 20 Microinyectories de aire, Cascada de lujo, Mezclacora con manerales de cromados, Fuente de Viena, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 13.5amps, 1 Blower.",
         "query": "lujo",
         "variations": {
-            "var1": "chic-lujo-1.png",
-            "var2": "chic-lujo-2.png",
-            "var3": "chic-lujo-3.png"
+            "varImgs": ["chic-lujo-1.png", "chic-lujo-2.png", "chic-lujo-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -219,9 +205,8 @@
         "type":"Con ó sin hidromasaje, Accesorios: 1 Boton neumático, 2 Controles de aire, 4 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "city-1.png",
-            "var2": "city-2.png",
-            "var3": "city-3.png"
+            "varImgs": ["city-1.png", "city-2.png", "city-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -234,9 +219,8 @@
         "type":"Con ó sin hidromasaje, Accesorios: 1 Boton neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 75amps",
         "query": "",
         "variations": {
-            "var1": "clasica-1.png",
-            "var2": "clasica-2.png",
-            "var3": "clasica-3.png"
+            "varImgs": ["clasica-1.png", "clasica-2.png", "clasica-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -249,9 +233,8 @@
         "type":"Con o sin hidromasaje / con manija, Accesorios: 1 Boton neumático, 2 Controles de aire, 6 Sensajets, 6 jets rotatorios, 1 Manija curva, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5amps",
         "query": "",
         "variations": {
-            "var1": "corner-1.png",
-            "var2": "corner-2.png",
-            "var3": "corner-3.png"
+            "varImgs": ["corner-1.png", "corner-2.png", "corner-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -264,9 +247,8 @@
         "type":"Con ó sin hidromasaje, Accesorios: 1 Boton neumático, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps.",
         "query": "",
         "variations": {
-            "var1": "darien-1.png",
-            "var2": "darien-2.png",
-            "var3": "darien-3.png"
+            "varImgs": ["darien-1.png", "darien-2.png", "darien-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -279,9 +261,8 @@
         "type":"Con o sin hidromasaje, Accesorios: 1 Boton neumático, 2 Controles de aire, 8 Sensajets, 6 jets rotatorios, 2 Manijas rectangulares, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 13.5 amps",
         "query": "",
         "variations": {
-            "var1": "deluxe-1.png",
-            "var2": "deluxe-2.png",
-            "var3": "deluxe-3.png"
+            "varImgs": ["deluxe-1.png", "deluxe-2.png", "deluxe-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -294,9 +275,8 @@
         "type":"Con o sin hidromasaje, Accesorios: 1 Boton neumático, 2 Controles de aire, 6 Sensajets, 8 Jets rotatorios, 2 Manijas curvas, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "double-1.png",
-            "var2": "double-2.png",
-            "var3": "double-3.png"
+            "varImgs": ["double-1.png", "double-2.png", "double-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -309,9 +289,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Boton neumático, 2 controles de aire, 6 Sensajets, 8 Jets rotatorios, 2 Manijas curvas, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "double-lujo-1.png",
-            "var2": "double-lujo-2.png",
-            "var3": "double-lujo-3.png"
+            "varImgs": ["double-lujo-1.png", "double-lujo-2.png", "double-lujo-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -324,9 +303,8 @@
         "type":"Con Hidromasaje y con faldón, Accesorios: 1 Botṕn neumático, 2 Controles de aire, 6 Sensajets, 8 Jets rotatorios, 1 Cascada de acrílico de recirculación, 2 Manijas curvas, Faldón perimetral, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps.",
         "query": "",
         "variations": {
-            "var1": "double-isla-1.png",
-            "var2": "double-isla-2.png",
-            "var3": "double-isla-3.png"
+            "varImgs": ["double-isla-1.png", "double-isla-2.png", "double-isla-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -339,9 +317,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Bonto neumatico, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5amps",
         "query": "",
         "variations": {
-            "var1": "duina-1.png",
-            "var2": "duina-2.png",
-            "var3": "duina-3.png"
+            "varImgs": ["duina-1.png", "duina-2.png", "duina-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -354,9 +331,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Boton neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 2 Manijas rectangulares, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 13.5 amps.",
         "query": "",
         "variations": {
-            "var1": "exquisite-1.png",
-            "var2": "exquisite-2.png",
-            "var3": "exquisite-3.png"
+            "varImgs": ["exquisite-1.png", "exquisite-2.png", "exquisite-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -369,9 +345,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Boton neumático, 2 Controles de aire, 4 Sensajets, 8 Jets rotatorios, 2 Manijas curvas, 1 Cascada de acrílico de recirculación, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5amps.",
         "query": "",
         "variations": {
-            "var1": "gaeta-1.png",
-            "var2": "gaeta-2.png",
-            "var3": "gaeta-3.png"
+            "varImgs": ["gaeta-1.png", "gaeta-2.png", "gaeta-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -384,9 +359,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5amps",
         "query": "",
         "variations": {
-            "var1": "galaxy-1.png",
-            "var2": "galaxy-2.png",
-            "var3": "galaxy-3.png"
+            "varImgs": ["galaxy-1.png", "galaxy-2.png", "galaxy-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -399,9 +373,8 @@
         "type":"Con hidromasaje, Accesorios: 1 Boton neumático, 1 Control digital, 1 Control digital Air massage, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 20 Microinyectores de aire, 1 Cascada de lujo, 1 Desviadora con manerales cromados con regadera de teléfono, 1 Regadera de teléfono, 1 Manija curva, 1 Coladera de scucción, 1 Desagüe, 1 Rebosadero, 1 Blower, 1 Motobomba de 13.5amps, 1 Calentador de 1500 W, 1 Caja de control electrónico, 1 sensor de temperatura, 1 Ozonificador, 1 Faldón frontal.",
         "query": "",
         "variations": {
-            "var1": "golf-1.png",
-            "var2": "golf-2.png",
-            "var3": "golf-3.png"
+            "varImgs": ["golf-1.png", "golf-2.png", "golf-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -413,9 +386,8 @@
             },
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 4 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5amps",
         "variations": {
-            "var1": "guinea-1.png",
-            "var2": "guinea-2.png",
-            "var3": "guinea-3.png"
+            "varImgs": ["guinea-1.png", "guinea-2.png", "guinea-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -428,9 +400,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Tomas de aire, 6 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps.",
         "query": "",
         "variations": {
-            "var1": "hockey-1.png",
-            "var2": "hockey-2.png",
-            "var3": "hockey-3.png"
+            "varImgs": ["hockey-1.png", "hockey-2.png", "hockey-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -443,9 +414,8 @@
         "type":"Con Hidromasaje, Accesorios: 1 Botón neumático, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 75amps",
         "query": "",
         "variations": {
-            "var1": "i-1.png",
-            "var2": "i-2.png",
-            "var3": "i-3.png"
+            "varImgs": ["i-1.png", "i-2.png", "i-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -458,9 +428,8 @@
         "type":"Accesorios: 1 Boton digital de encendido, 1 Controles digital, 4 Lámparas de Luz Acuairis, 1 Salidad del Sistema Beauty Skin, 80 Salidas de agua del Sistema Relax, 2 Coladeras de succión, 1 Desagüe, 1 Rebosadero, Faldón perimetral, 1 Motor del Sistema Relax (115 V), 1 Motor del Sistema Beuty Skin (115 V)",
         "query": "",
         "variations": {
-            "var1": "iceberg-1.png",
-            "var2": "iceberg-2.png",
-            "var3": "iceberg-3.png"
+            "varImgs": ["iceberg-1.png", "iceberg-2.png", "iceberg-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -473,9 +442,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 8 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 13.5amps",
         "query": "",
         "variations": {
-            "var1": "lena-1.png",
-            "var2": "lena-2.png",
-            "var3": "lena-3.png"
+            "varImgs": ["lena-1.png", "lena-2.png", "lena-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -488,9 +456,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 botón, neumatico, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.4 amps",
         "query": "",
         "variations": {
-            "var1": "leyte-1.png",
-            "var2": "leyte-2.png",
-            "var3": "leyte-3.png"
+            "varImgs": ["leyte-1.png", "leyte-2.png", "leyte-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -503,9 +470,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Control digital Air Massage, 20 Microinyectores de aire, 1 Blower, 1 Desagüe, 1 Rebosadero, 1 Faldón perimetral con iluminación LED",
         "query": "",
         "variations": {
-            "var1": "lighting-1.png",
-            "var2": "lighting-2.png",
-            "var3": "lighting-3.png"
+            "varImgs": ["lighting-1.png", "lighting-2.png", "lighting-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -518,9 +484,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "love-1.png",
-            "var2": "love-2.png",
-            "var3": "love-3.png"
+            "varImgs": ["love-1.png", "love-2.png", "love-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -533,9 +498,8 @@
         "type":"Con ó sin hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "malaga-1.png",
-            "var2": "malaga-2.png",
-            "var3": "malaga-3.png"
+            "varImgs": ["malaga-1.png", "malaga-2.png", "malaga-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -548,9 +512,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "marajo-1.png",
-            "var2": "marajo-2.png",
-            "var3": "marajo-3.png"
+            "varImgs": ["marajo-1.png", "marajo-2.png", "marajo-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -563,9 +526,8 @@
         "type":"Con hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 4 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "miss-1.png",
-            "var2": "miss-2.png",
-            "var3": "miss-3.png"
+            "varImgs": ["miss-1.png", "miss-2.png", "miss-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -578,9 +540,8 @@
         "type":"Con Hidromasaje, Accesorios: 1 Botón neumático, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "nik-1.png",
-            "var2": "nik-2.png",
-            "var3": "nik-3.png"
+            "varImgs": ["nik-1.png", "nik-2.png", "nik-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -593,9 +554,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 13.5 amps.",
         "query": "",
         "variations": {
-            "var1": "odessa-1.png",
-            "var2": "odessa-2.png",
-            "var3": "odessa-3.png"
+            "varImgs": ["odessa-1.png", "odessa-2.png", "odessa-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -608,9 +568,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 4 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "olimpia-1.png",
-            "var2": "olimpia-2.png",
-            "var3": "olimpia-3.png"
+            "varImgs": ["olimpia-1.png", "olimpia-2.png", "olimpia-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -623,9 +582,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps, 1 Sistema de sostén perimetral",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "praktica-1.png",
-            "var2": "praktica-2.png",
-            "var3": "praktica-3.png"
+            "varImgs": ["praktica-1.png", "praktica-2.png", "praktica-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -638,9 +596,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 5 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "single-1.png",
-            "var2": "single-2.png",
-            "var3": "single-3.png"
+            "varImgs": ["single-1.png", "single-2.png", "single-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -653,9 +610,8 @@
         "type":"Con ó sin Hidromasajes, Accesorios: 1 Botón neumático, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "son-1.png",
-            "var2": "son-2.png",
-            "var3": "son-3.png"
+            "varImgs": ["son-1.png", "son-2.png", "son-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -668,9 +624,8 @@
         "type":"Con ó sin hidromasaje, Accesorios: 1 Botón neumático, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "sophie-1.png",
-            "var2": "sophie-2.png",
-            "var3": "sophie-3.png"
+            "varImgs": ["sophie-1.png", "sophie-2.png", "sophie-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -683,9 +638,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Tomas de aire, 4 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps.",
         "query": "",
         "variations": {
-            "var1": "space-1.png",
-            "var2": "space-2.png",
-            "var3": "space-3.png"
+            "varImgs": ["space-1.png", "space-2.png", "space-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -698,9 +652,8 @@
         "type":"Con Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 4 Sensajets, 13 Jets rotatorios, 1 Desagüe, 1 Rebosadero, Faldón frontal, 1 Motobomba de 13.5 amps",
         "query": "",
         "variations": {
-            "var1": "spinning-1.png",
-            "var2": "spinning-2.png",
-            "var3": "spinning-3.png"
+            "varImgs": ["spinning-1.png", "spinning-2.png", "spinning-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -713,9 +666,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire cuadrados, 6 Sensajets cuadrados, 6 Jets rotatorios cuadrados, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps.",
         "query": "",
         "variations": {
-            "var1": "star-1.png",
-            "var2": "star-2.png",
-            "var3": "star-3.png"
+            "varImgs": ["star-1.png", "star-2.png", "star-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -728,9 +680,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 4 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps.",
         "query": "",
         "variations": {
-            "var1": "tibet-1.png",
-            "var2": "tibet-2.png",
-            "var3": "tibet-3.png"
+            "varImgs": ["tibet-1.png", "tibet-2.png", "tibet-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -743,9 +694,8 @@
         "type":"Fon ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 13.5 amps",
         "query": "",
         "variations": {
-            "var1": "volga-1.png",
-            "var2": "volga-2.png",
-            "var3": "volga-3.png"
+            "varImgs": ["volga-1.png", "volga-2.png", "volga-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -758,9 +708,8 @@
         "type":"Con ó sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 2 Manijas tipo alberca, 1 Cascada de lujo, 1 Mescladora con manerales cromados, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 13.5 amps",
         "query": "lujo",
         "variations": {
-            "var1": "volga-lujo-1.png",
-            "var2": "volga-lujo-2.png",
-            "var3": "volga-lujo-3.png"
+            "varImgs": ["volga-lujo-1.png", "volga-lujo-2.png", "volga-lujo-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -773,9 +722,8 @@
         "type":"Con Hidromasaje, Accesorios: 1 Botón neumático, 11 Jets rotatorios, 20 Microinyectorres de aire, 1 Control digital Air Massage, 1 Blower, 1 Luz Acuairis, 1 Botón neumático de luz Acuairis, 2 Manijas rectangulares, 1 Faldón frontal, 1 Desagüe, 1 Rebosadero, 1 Motobomba.",
         "query": "",
         "variations": {
-            "var1": "volley-1.png",
-            "var2": "volley-2.png",
-            "var3": "volley-3.png"
+            "varImgs": ["volley-1.png", "volley-2.png", "volley-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -788,9 +736,8 @@
         "type":"Con o sin Hidromasaje, Accesorios: 1 Botón neumático, 2 Tomas de aire, 4 Superjets, 6 Jets rotatorios, 1 Desagüe, 1 Rebosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "yes-1.png",
-            "var2": "yes-2.png",
-            "var3": "yes-3.png"
+            "varImgs": ["yes-1.png", "yes-2.png", "yes-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -803,9 +750,8 @@
         "type":"Con ó sin Hidromasaje, Accesorio: 1 Botón neumático, 2 Controles de aire, 6 Sensajets, 6 Jets rotatorios, 1 Desagüe, 1 Robosadero, 1 Motobomba de 7.5 amps",
         "query": "",
         "variations": {
-            "var1": "yukon-1.png",
-            "var2": "yukon-2.png",
-            "var3": "yukon-3.png"
+            "varImgs": ["yukon-1.png", "yukon-2.png", "yukon-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -818,9 +764,8 @@
         "type":"Con inyectores de aire / sin blower, Accesorios: 1 Botón neumático, 1 Control digital Air Massage, 20 Microinyectores de aire, 1 Superjet, 1 Minajia de acrílico, 1 Blower, 1 Desagüe, 1 Rebosadero, 1 Faldón perimetral, 1 Sistema de recirculación y calentamiento de agua.",
         "query": "Coladeras lineales",
         "variations": {
-            "var1": "zen-1.png",
-            "var2": "zen-2.png",
-            "var3": "zen-3.png"
+            "varImgs": ["zen-1.png", "zen-2.png", "zen-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -833,9 +778,8 @@
         "type":"Con inyectores de aire / sin blower, Accesorios: 1 Botón neumático, 6 Sensajets, 2 Controles de aire, 6 Jets rotatorios, 1 Cascada cromada, 1 Mezcladora con manerales cromados, 1 Manija de acrílico, 1 Coladera de succión, 1 Faldón perimetral, 1 Desagüe.",
         "query": "",
         "variations": {
-            "var1": "zen-lujo-1.png",
-            "var2": "zen-lujo-2.png",
-            "var3": "zen-lujo-3.png"
+            "varImgs": ["zen-lujo-1.png", "zen-lujo-2.png", "zen-lujo-3.png"],
+            "varTexts": ["", "", ""]
         }
     }
 ]

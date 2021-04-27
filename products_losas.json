@@ -1,8 +1,7 @@
 [
     {
         "filters": {
-            "all": "Todo",
-            "filterOne": "30x40cm"
+            "all": "Todo"
         }
     },
     {
@@ -15,8 +14,8 @@
         "type": "<ul><li>Ancho: 20cm</li><li>Alto: 20cm</li><li>Largo: 30cm</li><li>Piezas por tarima: 120</li><li>Material: 100% Barro Natural</li></ul>",
         "query": "",
         "variations": {
-            "var1": "barro-bloque-1.jpeg",
-            "var2": "barro-bloque-2.jpeg"
+            "varImgs": ["barro-bloque-1.jpeg", "barro-bloque-2.jpeg"],
+            "varTexts": ["", ""]
         }
     },
     {

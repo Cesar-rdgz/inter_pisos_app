@@ -33,9 +33,8 @@
         "type": "Teja no requiere mantenimiento. paletizada para un mejor manejo.",
         "query": "30x40cm Plana",
         "variations": {
-            "var1": "nuevo-vallarta-1.jpg",
-            "var2": "nuevo-vallarta-2.jpg",
-            "var3": "nuevo-vallarta-3.jpg"
+            "varImgs": ["nuevo-vallarta-1.jpg", "nuevo-vallarta-2.jpg", "nuevo-vallarta-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -48,8 +47,8 @@
         "type": "Esmaltada Teja de estilo clásico con Colores Brillantes gracias a su acabado esmaltado que brinda mayor intensidad a los tonos con la ventaja de cero absorción de humedad.",
         "query": "24.5x40.5cm Conica Colores Brillantes",
         "variations": {
-            "var1": "portuguesa-esmaltada-1.jpg",
-            "var2": "portuguesa-esmaltada-2.jpg"
+            "varImgs": ["portuguesa-esmaltada-1.jpg", "portuguesa-esmaltada-2.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -62,9 +61,8 @@
         "type": "Nuestras tejas de la colección \"Pueblos Mexicanos\" son tradicionales y de apariencia siempre armoniosa para construcciones rurales como urbanas. Conservan ese sabor milenario de la teja artesanal con la variedad de nuestros exclusivos tonos.",
         "query": "24.5x40.2cm Conica Urbanas",
         "variations": {
-            "var1": "pueblos-de-mexico-1.jpg",
-            "var2": "pueblos-de-mexico-2.jpg",
-            "var3": "pueblos-de-mexico-3.jpg"
+            "varImgs": ["pueblos-de-mexico-1.jpg", "pueblos-de-mexico-2.jpg", "pueblos-de-mexico-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -77,9 +75,8 @@
         "type": "Teja con acabado terso ideal para tejados medianos a grandes, teja con una gran variedad de tonos con énfasis a tonos claros, terracota y tierra.",
         "query": "30x46xcm Conica Variedad de tonos",
         "variations": {
-            "var1": "art-deco-1.png",
-            "var2": "art-deco-2.png",
-            "var3": "art-deco-3.png"
+            "varImgs": ["art-deco-1.png", "art-deco-2.png", "art-deco-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -92,9 +89,8 @@
         "type": "Teja de diseño tradicional de forma cónica y apariencia armoniosa con todo tipo de estilo arquitectónico. Una de nuestras tejas con gran variedad de colores: de los intensos a los tenues.",
         "query": "19.90x40cm Conica Variedad de tonos",
         "variations": {
-            "var1": "tejas-arabe-1.jpg",
-            "var2": "tejas-arabe-2.jpg",
-            "var3": "tejas-arabe-3.jpg"
+            "varImgs": ["tejas-arabe-1.jpg", "tejas-arabe-2.jpg", "tejas-arabe-3.jpg"],
+            "varTexts": []
         }
     },
     {
@@ -107,9 +103,8 @@
         "type": "Teja con diseño tradicional ideal para todo tipo de estilos arquitectónicos, ideal para proyectos en serie donde se busca precio y calidad.",
         "query": "24.5x40.2cm Conica Arquitectónicos",
         "variations": {
-            "var1": "art-deco-massage-1.png",
-            "var2": "art-deco-massage-2.png",
-            "var3": "art-deco-massage-3.png"
+            "varImgs": ["art-deco-massage-1.png", "art-deco-massage-2.png", "art-deco-massage-3.png"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -122,8 +117,8 @@
         "type":"Escocesa Teja Plana con acabado rayado y color engobado que asemeja dos tipos de tejas: madera en sus tonos cafés o teja de piedra.",
         "query": "18x41cm Plana Variedad de tonos",
         "variations": {
-            "var1": "tejas-escocesa-1.jpg",
-            "var2": "tejas-escocesa-2.jpg"
+            "varImgs": ["tejas-escocesa-1.jpg", "tejas-escocesa-2.jpg"],
+            "varTexts": ["", ""]
         }
     },
     {
@@ -136,7 +131,8 @@
         "type": "Teja con diseño tradicional de suaves curvas para todo tipo de estilos arquitectónicos, ideal para proyectos en serie donde se busca precio y calidad.",
         "query": "26x40cm Conica Arquitectónicos",
         "variations": {
-            "var1": "tejas-esparta-1.jpg"
+            "varImgs": ["tejas-esparta-1.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -149,8 +145,8 @@
         "type": "Teja Plana con líneas rectas y tamaño mediano para tejados pequeños de casas contemporáneas. Tonos neutros e intensos que remarcan tu obra.",
         "query": "20x30cm Plana",
         "variations": {
-            "var1": "tejas-gales-1.jpg",
-            "var2": "tejas-gales-2.jpg"
+            "varImgs": ["tejas-gales-1.jpg", "tejas-gales-2.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -163,7 +159,8 @@
         "type": "Teja semi Plana con sutil curvatura en uno de sus extremos, teja de apariencia gruesa pero no pesada, cuenta con soportes que despegan la teja de la losa disminuyendo la transferencia del calor y aumentando el aislamiento térmico.",
         "query": "24.5x40.5cm SemiPlana",
         "variations": {
-            "var1": "tejas-holandesa-1.jpg"
+            "varImgs": ["tejas-holandesa-1.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -176,9 +173,8 @@
         "type":"Teja Plana de líneas rectas con acabado rayado y color engobado de sutíl espesor que no agrega exceso de carga a tu losa. Estilo 100% contemporáneo.",
         "query": "35x46cm Plana Contemporáneo",
         "variations": {
-            "var1": "tejas-inglesa-1.jpg",
-            "var2": "tejas-inglesa-2.jpg",
-            "var3": "tejas-inglesa-3.jpg"
+            "varImgs": ["tejas-inglesa-1.jpg", "tejas-inglesa-2.jpg", "tejas-inglesa-3.jpg"],
+            "varTexts": ["", "", ""] 
         }
     },
     {
@@ -191,7 +187,8 @@
         "type":"Teja semi Plana con sutil curvatura en uno de sus extremos, teja de apariencia gruesa pero no pesada, cuenta con soportes que despegan la teja de la losa disminuyendo la transferencia del calor y aumentando el aislamiento térmico.",
         "query": "35x46cm SemiPlana",
         "variations": {
-            "var1": "tejas-marsellesa-1.jpg"
+            "varImgs": ["tejas-marsellesa-1.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -204,9 +201,8 @@
         "type": "Teja con diseño tradicional y apariencia siempre armoniosa tanto para construcciones urbanas como rurales. Teja con el sabor milenario de la teja artesanal con el exclusivo tono rojizo que da una apariencia única que la distingue por su belleza.",
         "query": "35x46cm Conica Contemporáneo",
         "variations": {
-            "var1": "teja-media-caña-1.jpg",
-            "var2": "teja-media-caña-2.jpg",
-            "var3": "teja-media-caña-3.jpg"
+            "varImgs": ["teja-media-caña-1.jpg", "teja-media-caña-2.jpg", "teja-media-caña-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -219,9 +215,8 @@
         "type":"La teja más vendida en el mercado, teja de estilo clásico que combina con todo tipo de estilos arquitectónicos, gran variedad de tonalidades, belleza y durabilidad para su tejado.",
         "query": "24.5x40.5cm Conica Contemporáneo",
         "variations": {
-            "var1": "tejas-portuguesa-1.jpg",
-            "var2": "tejas-portuguesa-2.jpg",
-            "var3": "tejas-portuguesa-3.jpg"
+            "varImgs": ["tejas-portuguesa-1.jpg", "tejas-portuguesa-2.jpg", "tejas-portuguesa-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -234,9 +229,8 @@
         "type":"Teja para clientes exigentes que gustan de la exclusividad de tonos en sus tejados, mezcla de colores al gusto y necesidad del cliente, 40 combinaciones de colores a seleccionar. Aquí el diseñador eres tu.",
         "query": "30x40cm Conica Variedad de tonos",
         "variations": {
-            "var1": "tejas-romana-1.jpg",
-            "var2": "tejas-romana-2.jpg",
-            "var3": "tejas-romana-3.jpg"
+            "varImgs": ["tejas-romana-1.jpg", "tejas-romana-2.jpg", "tejas-romana-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -249,9 +243,8 @@
         "type":"Teja de forma cónica que consta de una teja cóncava y otra convexa para dar su apariencia tradicional, teja de tamaño mediano y acabado terso ideal para tejados medianos y grandes. Por su tamaño permite una instalación rápida en áreas grandes.",
         "query": "15.6x50cm Conica",
         "variations": {
-            "var1": "tejas-sahara-1.jpg",
-            "var2": "tejas-sahara-2.jpg",
-            "var3": "tejas-sahara-3.jpg"
+            "varImgs": ["tejas-sahara-1.jpg", "tejas-sahara-2.jpg", "tejas-sahara-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -264,7 +257,8 @@
         "type":"Teja con dimensiones pequeñas con un acabado terso y gracias a su micro poro evita la absorción y paso del agua a tu losa, protegiendo tu impermeabilizante. Crea una capa protectora a tu techo contra el sol y la lluvia. Ideal para áreas pequeñas.",
         "query": "16x30cm Conica",
         "variations": {
-            "var1": "tejas-santorini-1.jpg"
+            "varImgs": ["tejas-santorini-1.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -277,9 +271,8 @@
         "type": "Teja de suaves curvas, muy ligera que no agrega exceso de peso a tu losa ideal para tejados medianos a grandes.",
         "query": "35x50cm Conica",
         "variations": {
-            "var1": "tejas-tipo-s-1.jpg",
-            "var2": "tejas-tipo-s-1.jpg",
-            "var3": "tejas-tipo-s-1.jpg"
+            "varImgs": ["tejas-tipo-s-1.jpg", "tejas-tipo-s-1.jpg", "tejas-tipo-s-1.jpg"],
+            "varTexts": ["", "", ""]
         }
     }
 ]

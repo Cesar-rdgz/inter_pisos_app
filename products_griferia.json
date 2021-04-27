@@ -31,6 +31,8 @@
         "type": "Regadera superior con 50 puntos, 3 regaderas frontales con 16 puntos minijet de silicona c/u,Monomando diseño circular acabado cromo",
         "query": "Paneles de hidromasaje",
         "variations": {
+            "varImgs": [],
+            "varTexts": []
         }
     },
     {
@@ -43,9 +45,8 @@
         "type": "Regadera superior con 22 puntos, 2 regaderas frontales con 22 puntos, Monomando diseño circular acabado cromo",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2331-B-1.jpg",
-            "var2": "panel2331-B-2.jpg",
-            "var3": "panel2331-B-3.jpg"
+            "varImgs": ["panel2331-B-1.jpg", "panel2331-B-2.jpg", "panel2331-B-3.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -58,9 +59,8 @@
         "type": "Chasis diseño one piece, Regadera superior con 22 puntos,  2 regaderas frontales con 22 puntos",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2331-S-1.jpg",
-            "var2": "panel2331-S-3.jpg",
-            "var3": "panel2331-S-2.jpg"
+            "varImgs": ["panel2331-S-1.jpg", "panel2331-S-3.jpg", "panel2331-S-2.jpg"],
+            "varTexts": ["", "", ""]
         }
     },
     {
@@ -73,6 +73,8 @@
         "type": "Chasis diseño one piece, Regadera superior con 50 puntos, 2 regaderas frontales con 50 puntos, Monomando diseño circular acabado cromo",
         "query": "Paneles de hidromasaje",
         "variations": {
+            "varImgs": [],
+            "varTexts": []
         }
     },
     {
@@ -85,7 +87,8 @@
         "type": "Chasis diseño compuesto, Regadera superior con 50 puntos, 2 regaderas frontales con 50 puntos, Regadera de mano en latón acabado cromo",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2113-1.jpg"
+            "varImgs": ["panel2113-1.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -98,7 +101,8 @@
         "type":"Modelo 2123, Chasis diseño one piece,Salida superior efecto cascada, Regadera de mano en latón acabado cromo",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2123-1.jpg"
+            "varImgs": ["panel2123-1.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -111,7 +115,8 @@
         "type": "Chasis diseño compuesto, Regadera superior con 50 puntos, 4 miniregaderas frontales direccionales con 9 puntos",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2169-1.jpg"
+            "varImgs": ["panel2169-1.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -124,7 +129,8 @@
         "type": "Chasis diseño one piece, Regadera superior con 50 puntos, Manguera reforzada de 1.50mts de aluminio",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2175-1.jpg"
+            "varImgs": ["panel2175-1.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -137,7 +143,8 @@
         "type":"Regadera superior de acero inoxidable circular de 20cm con brazo de latón circular",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2195.jpg"
+            "varImgs": ["panel2195.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -150,7 +157,8 @@
         "type":"Salida superior efecto cascada, Regadera superior con 50 puntos, 2 regaderas frontales con 50 puntos",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2123-T.jpg"
+            "varImgs": ["panel2123-T.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -163,7 +171,8 @@
         "type":"Acabado color negro brillante, Regadera superior de acero inoxidable circular de 15cm",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2757-N.jpg"
+            "varImgs": ["panel2757-N.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -176,7 +185,8 @@
         "type":"Acabado color blanco brillante, Regadera superior de ABS circular de 20cm, 6 mini regaderas direccionales de ABS, Regadera de mano multimodal en ABS acabado cromo",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel27607.jpg"
+            "varImgs": ["panel27607.jpg"],
+            "varTexts": [""] 
         }
     },
     {
@@ -189,7 +199,8 @@
         "type":"Acabado color negro brillante, Regadera superior de ABS circular de 20cm, 6 mini regaderas direccionales de ABS, Regadera de mano multimodal en ABS acabado cromo",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel27608.jpg"
+            "varImgs": ["panel27608.jpg"],
+            "varTexts": [""] 
         }
     },
     {
@@ -202,7 +213,8 @@
         "type":"Acabado color rojo brillante, Regadera superior de acero inoxidable circular de 15cm, Monomando diseño circular acabado cromo",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2757-R.jpg"
+            "varImgs": ["panel2757-R.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -215,7 +227,8 @@
         "type":"Acabado color blanco brillante, Panel diseño one piece, Regadera superior de acero inoxidable circular de 20cm, 2 mini regaderas frontales direccionales de acero inoxidable",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2779-b.jpg"
+            "varImgs": ["panel2779-b.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -228,7 +241,8 @@
         "type":"Acabado color negro brillante, Regadera superior de acero inoxidable circular de 20cm, 2 mini regaderas frontales direccionales de acero inoxidable",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2779-N.jpg"
+            "varImgs": ["panel2779-N.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -241,7 +255,8 @@
         "type":"Acabado color blanco brillante, Chasis posterior en aluminio color plata, Regadera superior de acero inoxidable circular de 20cm,  mini regaderas frontales direccionales de acero inoxidable",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2782-B.jpg"
+            "varImgs": ["panel2782-B.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -254,7 +269,8 @@
         "type":"Acabado color negro brillante, Regadera superior de acero inoxidable cuadrada de 20cm con brazo cuadrado acabado cromo, 2 mini regaderas frontales direccionales de acero inoxidable acabado satín",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2785-N.jpg"
+            "varImgs": ["panel2785-N.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -267,7 +283,8 @@
         "type":"Acabado color rojo brillante, Regadera superior de acero inoxidable cuadrada de 20cm con brazo cuadrado acabado cromo, 2 mini regaderas frontales direccionales de acero inoxidable acabado satín",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2785-R.jpg"
+            "varImgs": ["panel2785-R.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -280,7 +297,8 @@
         "type":"Acabado color negro brillante, Regadera superior de acero inoxidable circular de 20cm, 2 mini regaderas frontales direccionales de acero inoxidable",
         "query": "Paneles de hidromasaje",
         "variations": {
-            "var1": "panel2782-W.jpg"
+            "varImgs": ["panel2782-W.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -293,8 +311,8 @@
         "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "satinlluvia-1.jpg",
-            "var2": "satinlluvia-2.jpg"
+            "varImgs": ["satinlluvia-1.jpg", "satinlluvia-2.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -307,7 +325,8 @@
         "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "cromolluvia-1.jpg"
+            "varImgs": ["cromolluvia-1.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -320,7 +339,8 @@
         "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "cuadradasatin.jpg"
+            "varImgs": ["cuadradasatin.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -333,7 +353,8 @@
         "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "cuadradacromo.jpg"
+            "varImgs": ["cuadradacromo.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -346,7 +367,8 @@
         "type":"Elaborada con dos láminas de acero inoxidable, Sistema aireador, Rotula direccional a 1/2\" con filtro",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "rectangular.jpg"
+            "varImgs": ["rectangular.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -359,7 +381,8 @@
         "type":"Acero Inoxidable, Sistema generador de energía, el flujo de agua activa mini leds que cambian de color acorde a la temperatura del agua, NO requiere conexión eléctrica",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "led.jpg"
+            "varImgs": ["led.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -372,7 +395,8 @@
         "type":"Acero Inoxidable, 4 lámparas perimetrales de luz LED blanca, Incluye regulador de voltaje para su funcionamiento, Requiere acometida eléctrica",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "led2.jpg"
+            "varImgs": ["led2.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -385,7 +409,8 @@
         "type":"Salida efecto cascada, Salida efecto lluvia redonda de siliconas anticalcarie desmontables, Soporte a muro",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "cascada-circular-cromo.jpg"
+            "varImgs": ["cascada-circular-cromo.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -398,7 +423,8 @@
         "type":"Acabado satín, Salida efecto cascada, Salida efecto lluvia redonda de siliconas anticalcarie desmontables, Soporte a muro",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "cascada-circular-satin.jpg"
+            "varImgs": ["cascada-circular-satin.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -411,7 +437,8 @@
         "type":"Acabado satín, Salida efecto cascada, Salida efecto lluvia redonda de siliconas anticalcarie desmontables, Soporte a muro",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "cascada-cuadrada-cromo.jpg"
+            "varImgs": ["cascada-cuadrada-cromo.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -424,7 +451,8 @@
         "type":"Acabado satín, Salida efecto cascada, Salida efecto lluvia redonda de siliconas anticalcarie desmontables, Soporte a muro",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "cascada-cuadrada-satin.jpg"
+            "varImgs": ["cascada-cuadrada-satin.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -437,7 +465,8 @@
         "type":"Acabado cromo espejo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 40cm de largo",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "brazo1.jpg"
+            "varImgs": ["brazo1.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -450,7 +479,8 @@
         "type":"Acabado cromo espejo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 40cm de largo",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "BRM01-S.jpg"
+            "varImgs": ["BRM01-S.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -463,7 +493,8 @@
         "type":"Acabado cromo espejo, Perfil circular, chapetón cuadrado incluido, Conexión de 1/2\", 32.5cm de largo",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "BRM02.jpg"
+            "varImgs": ["BRM02.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -476,7 +507,8 @@
         "type":"Acabado satín, Perfil circular, chapetón redondo incluido, Conexión de 1/2\", 32.5cm de largo",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "BRM02-S.jpg"
+            "varImgs": ["BRM02-S.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -489,7 +521,8 @@
         "type":"Acabado cromo espejo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 32.5cm de largo",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "BRM03.jpg"
+            "varImgs": ["BRM03.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -502,7 +535,8 @@
         "type":"Acabado satín, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 32.5cm de largo",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "BRM03-S.jpg"
+            "varImgs": ["BRM03-S.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -515,7 +549,8 @@
         "type":"Acabado satín, Conexión para techo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 30cm de largo",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "BRP01-S.jpg"
+            "varImgs": ["BRP01-S.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -528,7 +563,8 @@
         "type":"Acabado satín, Conexión para techo, Perfil cuadrado, chapetón cuadrado incluido, Conexión de 1/2\", 20cm de largo",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "BRP02-S.jpg"
+            "varImgs": ["BRP02-S.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -541,7 +577,8 @@
         "type":"Acabado cromo espejo, Conexión para techo, Perfil cuadrado, chapetón redondo incluido, Conexión de 1/2\", 27cm de largo",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "BRP03.jpg"
+            "varImgs": ["BRP03.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -554,7 +591,8 @@
         "type":"Acabado satín, Conexión para techo, Perfil circular, chapetón redondo incluido, Conexión de 1/2\", 27cm de largo",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "BRP03-S.jpg"
+            "varImgs": ["BRP03-S.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -567,7 +605,8 @@
         "type":"Acabado cromo, Activa el paso del agua al levantarse el maneral, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "mon-01.png"
+            "varImgs": ["mon-01.png"],
+            "varTexts": [""]
         }
     },
     {
@@ -580,7 +619,8 @@
         "type":"Acabado satín, Activa el paso del agua al levantarse el maneral, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "nom-01s.png"
+            "varImgs": ["nom-01s.png"],
+            "varTexts": [""]
         }
     },
     {
@@ -593,7 +633,8 @@
         "type":"Acabado cromo, Activa el paso del agua al levantarse el maneral, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "mon02.jpg"
+            "varImgs": ["mon02.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -606,7 +647,8 @@
         "type":"Acabado satín, Activa el paso del agua al levantarse el maneral, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "mon02s.jpg"
+            "varImgs": ["mon02s.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -619,7 +661,8 @@
         "type":"Acabado cromo, Activa el paso del agua al levantarse el maneral, Realiza el cambio de salida a través del desviador, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "mon-03.png"
+            "varImgs": ["mon-03.png"],
+            "varTexts": [""]
         }
     },
     {
@@ -632,7 +675,8 @@
         "type":"Acabado satín, Activa el paso del agua al levantarse el maneral, Realiza el cambio de salida a través del desviador, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "mon-03s.png"
+            "varImgs": ["mon-03s.png"],
+            "varTexts": [""] 
         }
     },
     {
@@ -645,7 +689,8 @@
         "type":"Acabado cromo, Activa el paso del agua al levantarse el maneral, Realiza el cambio de salida a través del desviador, Instalar agua caliente en lado izquierdo y agua fría en lado derecho",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "mon04.jpg"
+            "varImgs": ["mon04.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -658,7 +703,8 @@
         "type":"Acabado satín, Regadera de mano perfil cúbico, 45 puntos de salida de agua, Manguera reforzada de 1.50mts de aluminio, Base a muro Conexión de 1/2\"",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "KS01.jpg"
+            "varImgs": ["KS01.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -671,7 +717,8 @@
         "type":"Acabado satín, Regadera de mano perfil cúbico, 45 puntos de salida de agua, Manguera reforzada de 1.50mts de aluminio, Base a muro Conexión de 1/2\"",
         "query": "Duchas efecto lluvia",
         "variations": {
-            "var1": "KC01.jpg"
+            "varImgs": ["KC01.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -684,7 +731,8 @@
         "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa con troquelado redondo, cespol antiolores incluido",
         "query": "Coladeras lineales",
         "variations": {
-            "var1": "troquelredondo.jpg"
+            "varImgs": ["troquelredondo.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -697,7 +745,8 @@
         "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa con troquelado cuadrado, cespol antiolores incluido",
         "query": "Coladeras lineales",
         "variations": {
-            "var1": "troquelcuadrado.jpg"
+            "varImgs": ["troquelcuadrado.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -710,7 +759,8 @@
         "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa tipo rejilla, cespol antiolores incluido",
         "query": "Coladeras lineales",
         "variations": {
-            "var1": "troquelrejilla.jpg"
+            "varImgs": ["troquelrejilla.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -723,7 +773,8 @@
         "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa acero liso para desalojo perimetral, cespol antiolores incluido",
         "query": "Coladeras lineales",
         "variations": {
-            "var1": "coladeradesalojo.jpg"
+            "varImgs": ["coladeradesalojo.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -736,7 +787,8 @@
         "type":"ancho 8.5cm, Bandeja para empotrar a piso, Tapa con charola para inserto de recubrimiento, cespol antiolores incluido",
         "query": "Coladeras lineales",
         "variations": {
-            "var1": "coladeradeinserto.jpg"
+            "varImgs": ["coladeradeinserto.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -749,7 +801,8 @@
         "type":"Fabricado en ABS, Sistema de contrapeso, antiolores y anti-insectos, Compatible con PVC, Salida a desalojo lateral de 2\"",
         "query": "Coladeras lineales",
         "variations": {
-            "var1": "modelo400.jpg"
+            "varImgs": ["modelo400.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -762,7 +815,8 @@
         "type":"Diseño trapezoidal con bordes y esquinas curvas, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 290 litros aprox.",
         "query": "Tinas Freestanding",
         "variations": {
-            "var1": "TF01.jpg"
+            "varImgs": ["TF01.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -775,7 +829,8 @@
         "type":"Diseño trapezoidal con bordes y esquinas rectas, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 275 litros aprox.",
         "query": "Tinas Freestanding",
         "variations": {
-            "var1": "TF02.jpg"
+            "varImgs": ["TF02.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -788,7 +843,8 @@
         "type":"Diseño oval, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 290 litros aprox.",
         "query": "Tinas Freestanding",
         "variations": {
-            "var1": "TF03.jpg"
+            "varImgs": ["TF03.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -801,7 +857,8 @@
         "type":"Diseño orgánico, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 250 litros aprox.",
         "query": "Tinas Freestanding",
         "variations": {
-            "var1": "TF04.jpg"
+            "varImgs": ["TF04.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -814,7 +871,8 @@
         "type":"Diseño orgánico con repisa, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 205 litros aprox.",
         "query": "Tinas Freestanding",
         "variations": {
-            "var1": "TF05.jpg"
+            "varImgs": ["TF05.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -827,7 +885,8 @@
         "type":"Diseño trapezoidal con borde exterior ancho para aislamiento térmico, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 190 litros aprox.",
         "query": "Tinas Freestanding",
         "variations": {
-            "var1": "TF02-S-2.jpg"
+            "varImgs": ["TF02-S-2.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -840,7 +899,8 @@
         "type":"Diseño trapezoidal con borde exterior ancho para aislamiento térmico, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 275 litros aprox.",
         "query": "Tinas Freestanding",
         "variations": {
-            "var1": "TF02-W.jpg"
+            "varImgs": ["TF02-W.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -853,7 +913,8 @@
         "type":"Diseño trapezoidal con borde exterior ancho para aislamiento térmico, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 290 litros aprox.",
         "query": "Tinas Freestanding",
         "variations": {
-            "var1": "TF03-W.jpg"
+            "varImgs": ["TF03-W.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -866,7 +927,8 @@
         "type":"Diseño ovoide, Elaborada en acrílico antihongos de 4mm de espesor, Desalojo sistema push acabado cromo, Capacidad 290 litros aprox.",
         "query": "Tinas Freestanding",
         "variations": {
-            "var1": "TF06.jpg"
+            "varImgs": ["TF06.jpg"],
+            "varTexts": [""]
         }
     },
     {
@@ -879,7 +941,8 @@
         "type":"Hecho en México, Elaborado de madera cumarú, Acabado mate, 2 capas de laca protectora waterproof, base de caucho antiderrapante, ideal para áreas húmedas",
         "query": "Tinas Freestanding",
         "variations": {
-            "var1": "deck.jpg"
+            "varImgs": ["deck.jpg"],
+            "varTexts": [""]
         }
     }
 ]
