@@ -1,0 +1,49 @@
+[
+    {
+        "filters": {
+            "all": "Todo"
+        }
+    },
+    {
+        "id": 1,
+        "img": "Teka-kitchen.jpg",
+        "name": "Cocina Europa",
+        "uses": {
+                "": ""
+                },
+        "type": "",
+        "query": "Losas",
+        "variations": {
+            "varImgs": ["Teka-kitchen.jpg"],
+            "varTexts": ["Inspiración para tu cocina"]
+        }
+    },
+    {
+        "id": 2,
+        "img": "cocina-europea-2.jpg",
+        "name": "Cocina Europa",
+        "uses": {
+                "": ""
+                },
+        "type": "",
+        "query": "Losas",
+        "variations": {
+            "varImgs": ["cocina-europea-2.jpg"],
+            "varTexts": ["Inspiración para tu cocina"]
+        }
+    },
+    {
+        "id": 3,
+        "img": "cocina-europea-3.jpg",
+        "name": "Cocina Europa",
+        "uses": {
+                "": ""
+                },
+        "type": "",
+        "query": "Losas",
+        "variations": {
+            "varImgs": ["cocina-europea-3.jpg"],
+            "varTexts": ["Inspiración para tu cocina"]
+        }
+    }
+]

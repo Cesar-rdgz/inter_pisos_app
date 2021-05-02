@@ -1,0 +1,905 @@
+[
+    {
+        "filters": {
+            "all": "Todo", 
+            "One": "Cocina",
+            "two": "Hornos",
+            "three": "Microondas",
+            "Four": "Cafeteras encastrables",
+            "five": "Parrillas"
+        }
+    },
+    {
+        "id": 1,
+        "img": "horno-1.png",
+        "name": "Horno a gas mutifunción con convección",
+        "uses": {
+                "Grey": ""
+                },
+        "type": "Cristal Stone Grey, Esmalte interior Crystal Clean, Multifinción - 5 funciones de cocinado, Grill eléctrico: 1,576 W, Seguridad por termopar, Puerta de doble cristal, Energía eléctrica 127v/50-60Hz",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-1-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 2,
+        "img": "horno-2.png",
+        "name": "Horno eléctrico multifunción SurroundTemp",
+        "uses": {
+                "Grey": ""
+                },
+        "type": "Sistema de limpieza Hydroclean® Pro, Display TFT de 4\" (touch control), Multifunción - 12 funciones de cocinado, Clase energética: A+",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-2-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 3,
+        "img": "horno-3.png",
+        "name": "Horno eléctrico multifunción SurroundTemp",
+        "uses": {
+                "Brown": ""
+                },
+        "type": "Sistema de limpieza Hydroclean® Pro, Display TFT de 4\" (touch control), Multifunción - 12 funciones de cocinado, Clase energética: A+",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-3-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 4,
+        "img": "horno-4.jpg",
+        "name": "Horno Pirolítico multifunción",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Con función especial para carnes a la barbacoa y 20 recetas, Tecnología exclusiva SteakGrill (700°) para preparar carne como en una barbacoa, Ccina chuletón, solomillo, entrecot o hamburguesas a la parrilla en solo unos minutos, 20 Promgramas automáticos especiales para carne",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-4-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 5,
+        "img": "horno-5.jpg",
+        "name": "Horno eléctrico multifunción",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "SurroundTemp con pantalla táctil y 50 recetas, Sistema de limpieza Hydroclean® Pro, Display TFT 5\" F True color (Touch control), Multifunción - 18 funciones de cocinado + Función Sabbath, Asesor personal de cocinado (50 recetas pre programadas)",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-5-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 6,
+        "img": "horno-6.png",
+        "name": "Horno eléctrico y a gas multifunción",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Esmalte interior CrystalClean®, Multifunción - 5 funciones de cocinado + Steambox, Bandeja Steambox para cocinar al vapor, Grill eléctrico: 1,567 W, Seguridad por termopar, Energía eléctrica 110V/60Hz",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-6-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 7,
+        "img": "horno-7.jpg",
+        "name": "Horno eléctrico y a gas estático",
+        "uses": {
+                "Acero inoxidable": ""
+                },
+        "type": "Esmalte interior CrystalClean®, 2 funciones de cocinado, Grill eléctrico: 1,900 W, Seguridad por termopar, Energía eléctrica 110v/60Hz",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-7-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 8,
+        "img": "horno-8.png",
+        "name": "Horno eléctrico y a gas estático",
+        "uses": {
+                "Acero inoxidable": ""
+                },
+        "type": "Esmalte interior CrystalClean®, 2 funciones de cocinado, Grill eléctrico: 1,567 W, Seguridad por termopar, Energía eléctrica 110v/60Hz",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-8-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 9,
+        "img": "horno-9.jpg",
+        "name": "Horno eléctrico y a gas estático",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Esmalte interior CrystalClean®, 2 funciones de cocinado, Grill eléctrico: 1,567 W, Seguridad por termopar, Energía eléctrica 110v/60Hz",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-9-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 10,
+        "img": "horno-10.png",
+        "name": "Horno eléctrico Estático",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Sistema de limpieza Hydroclean® Eco, 3 funciones de cocinado, Clase energética: A (bajo cosumo de energía)",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-10.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 11,
+        "img": "horno-11.png",
+        "name": "Horno Multifunción turbo WISH",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Sistema de limpieza Hydroclean® PRO, Clasificación energética A+, 70 litros de capacidad, Función calentamiento rápido, Bloque de seguridad para niños",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-11-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 12,
+        "img": "horno-12.jpg",
+        "name": "Horno Eléctrico Multifunción SurroundTemp",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Sistema de limpieza Hydroclean® PRO, Display TFT de 4\" (touch control), Multifunción - 12 funciones de cocinado + Sabbath, Asesor personal de cocinado (20 recetas pre programadas), Clase energética: A+ (Ahorro de hasta un 20%)",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-12-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 13,
+        "img": "horno-13.png",
+        "name": "Horno Eléctrico y Gas Multifunción",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Esmalte interior CrystalClean®, Multifunción - 5 funciones de cocinado, Grill eléctrico: 1567 W, Seguridad por termopar, Energía eléctrica 110v/60Hz",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-13-1.png", "horno-13-2.png"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 14,
+        "img": "horno-14.png",
+        "name": "Horno Eléctrico y a Gas Multifunción",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Esmalte interior CrystalClean®, Multifunción - 5 funciones de cocinado, Grill eléctrico: 1567 W, Seguridad por termopar, Energía eléctrica 110v/60Hz",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-14-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 15,
+        "img": "horno-15.png",
+        "name": "Horno Eléctrico Multifunción",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Sistema de limpieza Hydroclean® Eco, Multifunción - 6 funciones de cocinado, Clase energética: A (Bajo consumo de enrgía)",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-15.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 16,
+        "img": "horno-16.jpg",
+        "name": "Horno Eléctrico y a Gas Multifunción",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Esmalte interior CrystalClean®, Multifunción - 5 funciones de cocinado, Grill eléctrico: 1,900 W, Seguridad por termopar, Energía eléctrica 110v/60Hz",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-16-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 17,
+        "img": "horno-17.jpg",
+        "name": "Horno Eléctrico y a Gas Multifunción",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Esmalte interior CrystalClean®, Multifunción - 5 funciones de cocinado, Grill eléctrico: 1,900 W, Seguridad por termopar, Energía eléctrica 110v/60Hz",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-17.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 18,
+        "img": "horno-18.png",
+        "name": "Horno Multifunción",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "80 cm en acero inoxidable antihuella con sistema de limpieza HydroClean, 9 funciones de cocinado, Capacidad: 87 Litros (Neta), Programador Touch Control.",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-18.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 19,
+        "img": "horno-19.jpg",
+        "name": "Horno Multifunción y a Gas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Esmalte interior CrystalClean®, Multifunción - 5 funciones de cocinado, Frill eléctrico: 1,900 W, Seguridad por termopar, puerta de triple cristal, Energía eléctrica 110v/60Hz",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-19.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 20,
+        "img": "horno-20.png",
+        "name": "Horno eléctrico SurroundTemp + microondas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Sistema de limpieza Hydroclean® Eco, Display con touch control, Capacidad: 40/41L (net/bruto, 11 funciones de cocinado, 5 niveles de potencia de microondas, Maxi Grill: 2,500 w, Puerta de triple cristal",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-20-1.png", "horno-20-2.png"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 21,
+        "img": "horno-21.png",
+        "name": "Horno eléctrico SurroundTemp + microondas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Sistema de limpieza Hydroclean® Eco, Display con touch control, Capacidad: 40/41L (net/bruto, 11 funciones de cocinado, 5 niveles de potencia de microondas, Maxi Grill: 2,500 w, Puerta de triple cristal",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-21-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 22,
+        "img": "horno-22.png",
+        "name": "Horno Compacto Multifunción",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Horno + Microondas (combi), Sistema de limpieza Teka Hydroclean® ECO, Multifunción SurroundTemp + Microondas - 11 funciones de cocinado, Touch Control con programación de inicio y para de cocción, Cinco alturas de cocinado, Puertas tres cristales",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-22-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 23,
+        "img": "horno-23.png",
+        "name": "Horno Compacto Multifunción",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Sistema de apertura push-pull, Piloto indicativo de funcionamiento, Tapete antiderrapante, Regulador de temperatura: 30 a 80°C",
+        "query": "Cocina Hornos",
+        "variations": {
+            "varImgs": ["horno-23-1.png", "horno-23-2.jpg"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 24,
+        "img": "micro-1.jpg",
+        "name": "Horno de Microondas Grill",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Capacidad: 1.4 p³, Display figital con 6 menús pre-programdos, 11 nivel de potencia grill, 2 nivel de potencia combi, Microondas: 1,100 W, Grill: 1,150 W",
+        "query": "Cocina Microondas",
+        "variations": {
+            "varImgs": ["micro-1-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 25,
+        "img": "micro-2.jpg",
+        "name": "Horno de Microondas Grill",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Capacidad: 1.1 p³, Display figital con 6 menús pre-programdos, 1 nivel de potencia grill, 2 nivel de potencia combi, Microondas: 1,100 W, Grill: 1,150 W",
+        "query": "Cocina Microondas",
+        "variations": {
+            "varImgs": ["micro-2-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 26,
+        "img": "micro-3.jpg",
+        "name": "Horno de Microondas + Grill",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Capacidad: 21.5/22 L (Neto/Bruto), 3 funciones de cocinado, 5 niveles de potencia, Grill: 1,200 W",
+        "query": "Cocina Microondas",
+        "variations": {
+            "varImgs": ["micro-3-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 27,
+        "img": "micro-4.jpg",
+        "name": "Microondas de base cerámica",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Panel de mando Touch Control y display TFT, 3 menús de acceso directo Grill, 1 Memoria, 3 Funciones de cocción",
+        "query": "Cocina Microondas",
+        "variations": {
+            "varImgs": ["micro-4.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 28,
+        "img": "cafetera-1.png",
+        "name": "Cafetera Empotrable",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Cafetera empotrable de 3 funciones: café vapor y agua caliente, Capacidad para preparar 2 tazas a la vez, 5 niveles de intensidad del café, 3 niveles de temperatura, Depósito de granos de café: 200 gr, Depósito para café premolido, Tanque de agua 1.8 L",
+        "query": "Cocina Cafeteras encastrables",
+        "variations": {
+            "varImgs": ["cafetera-1-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 29,
+        "img": "parrilla-1.png",
+        "name": "Parrilla vitrocerámica",
+        "uses": {
+                "Cristal Grey": ""
+                },
+        "type": "Parrilla vitrocerámica de inducción de 4 zonas con Touch Control Multislider Pro, Touch Control Multislider Pro con sensores acútsticos, 4 Zonas de cocinado 8,800 W, Funciones especiales de cocinado iCooking: Grilling, Deep frying, Pan Frying,",
+        "query": "Cocina Parrillas",
+        "variations": {
+            "varImgs": ["parrilla-1-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 30,
+        "img": "parrilla-2.png",
+        "name": "Parrilla vitrocerámica",
+        "uses": {
+                "Cristal Grey": ""
+                },
+        "type": "Parrilla vitrocerámica de inducción de 7 zonas con Touch Control Multislider Pro, Touch Control Multislider Pro con sensores acútsticos, 7 Zonas de cocinado 7,400 W, Funciones especiales de cocinado iCooking: Poaching, Confit, Rice Cooking, Grilling, Deep frying, Pan frying...",
+        "query": "Cocina Parrillas",
+        "variations": {
+            "varImgs": ["parrilla-2-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 31,
+        "img": "parrilla-3.png",
+        "name": "Parrilla vitrocerámica",
+        "uses": {
+                "Cristal Grey": ""
+                },
+        "type": "Parrilla vitrocerámica de inducción de 4 zonas con Touch Control Multislider Pro con sensores acútsticos, 4 Zonas de cocinado 8,800 W, Funciones especiales de cocinado iCooking: Grilling, Deep frying, Pan frying, keepWarm...",
+        "query": "Cocina Parrillas",
+        "variations": {
+            "varImgs": ["parrilla-3-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 32,
+        "img": "parrilla-4.png",
+        "name": "Parrilla vitrocerámica",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla vitrocerámica de inducción de 4 zonas con Touch Control Multislider Pro con sensores acútsticos, 7 Zonas de cocinado 7,400 W, Funciones especiales de cocinado iCooking: Grilling, Deep frying, Pan frying, keepWarm...",
+        "query": "Cocina Parrillas",
+        "variations": {
+            "varImgs": ["parrilla-4-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 32,
+        "img": "parrilla-5.png",
+        "name": "Parrilla vitrocerámica",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla vitrocerámica de inducción de 5 zonas con Touch Control Multislider Pro, 5 Zonas de cocinado 7,400 W, Funciones especiales de cocinado iCooking: Hervir rápidamente, hervir, derretir y mantener caliente.",
+        "query": "Cocina Parrillas",
+        "variations": {
+            "varImgs": ["parrilla-5-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 33,
+        "img": "parrilla-6.png",
+        "name": "Parrilla vitrocerámica",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla vitrocerámica de gas de 6 zonas de gas butano, Touch Control Multislider, 6 Zonas de cocinado 13,150 W, Funciones especiales de cocinado Simmering, melting y keepwarm",
+        "query": "Cocina Parrillas",
+        "variations": {
+            "varImgs": ["parrilla-6-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 34,
+        "img": "parrilla-7.png",
+        "name": "Parrilla vitrocerámica",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla vitrocerámica de gas e inducción de 5 zonas de gas butano, Touch Control Multislider, 5 Zonas de cocinado 11,400 W, Programación del tiempo de cocción, Función STOP & GO y POWER PLUS",
+        "query": "Cocina Parrillas",
+        "variations": {
+            "varImgs": ["parrilla-7-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 35,
+        "img": "parrilla-8.png",
+        "name": "Placa Cristal Gas",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Placa Cristal Gas con función ExactFlame en 90 cm de gas butano, mandos frontales de diseño ergonómico, Superficie de vidrio cerámico, 9 niveles de potencia con un control exacto de la llama, 6 quemadores de gas.",
+        "variations": {
+            "varImgs": ["parrilla-8-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 36,
+        "img": "parrilla-9.png",
+        "name": "Placa Cristal Gas",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Placa Cristal Gas con función ExactFlame en 90 cm de gas butano, mandos frontales de diseño ergonómico, Superficie de vidrio cerámico, 9 niveles de potencia con un control exacto de la llama, 5 quemadores de gas.",
+        "variations": {
+            "varImgs": ["parrilla-9-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 37,
+        "img": "parrilla-10.png",
+        "name": "Placa Cristal Gas",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Placa Cristal Gas con función ExactFlame en 75 cm, mandos frontales de diseño ergonómico, Superficie de vidrio cerámico, 9 niveles de potencia con un control exacto de la llama, 5 quemadores de gas.",
+        "variations": {
+            "varImgs": ["parrilla-10-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 38,
+        "img": "parrilla-11.png",
+        "name": "Placa Cristal Gas",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Placa Cristal Gas con función ExactFlame en 60 cm de gas butano, mandos frontales de diseño ergonómico, Superficie de vidrio cerámico, 9 niveles de potencia con un control exacto de la llama, 4 quemadores de gas.",
+        "variations": {
+            "varImgs": ["parrilla-11-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 39,
+        "img": "parrilla-12.png",
+        "name": "Placa Cristal Gas",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Placa Cristal Gas con función ExactFlame en 60 cm de gas butano, mandos frontales de diseño ergonómico, Superficie de vidrio cerámico, 9 niveles de potencia con un control exacto de la llama, 1 quemadores auxiliar 1,00 kW, 1 quemador rápido, 2,80 kW.",
+        "variations": {
+            "varImgs": ["parrilla-12-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 40,
+        "img": "parrilla-13.jpg",
+        "name": "Vitrocerámica",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Vitrocerámica de 60 cm con Slim metal frame y 4 zonas con Touch Control, Programador del tiempo de cocción, 4 zonas (Ø145 mm + Ø145 mm + Ø180 mm + Ø180/210 mm), Función golpe de cocción, Función cronómetro con avisador acústico",
+        "variations": {
+            "varImgs": ["parrilla-13.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 41,
+        "img": "parrilla-14.jpg",
+        "name": "Parrilla vitrocerámica",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla Vitrocerámica eléctrica de 5 zonas con Touch Control, 5 zonas de cocción 7,400 W, Programación del tiempo de cocción, Función cronometro con alarma acústica.",
+        "variations": {
+            "varImgs": ["parrilla-14.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 42,
+        "img": "parrilla-15.jpg",
+        "name": "Parrilla vitrocerámica",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla Vitrocerámica eléctrica de 2 zonas con TouchControl, 2 zonas de cocción 2,900 W, Bloqueo de seguridad",
+        "variations": {
+            "varImgs": ["parrilla-15.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 43,
+        "img": "parrilla-16.jpg",
+        "name": "Parrilla vitrocerámica",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla Vitrocerámica de inducción de 5 zonas con Touch control Multislider Pro, 4 Zonas de cocinado 7,400 W, Programación del tiempo de cocción, Funciones especiales de cocinado iCooking: Hervir rápidamente, hervir derretir y mantener caliente.",
+        "variations": {
+            "varImgs": ["parrilla-16-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 44,
+        "img": "parrilla-17.jpg",
+        "name": "Parrilla de cocción eléctrica",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla de cocción eléctrica de 4 zonas con Mandos de perillas laterales, Acero inoxidable, 4 zonas de cocción 5,500 W 6 niveles de potencia, Placas blindadas, Piloto de funcionamiento.",
+        "variations": {
+            "varImgs": ["parrilla-17-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 45,
+        "img": "parrilla-18.png",
+        "name": "Parrilla de cocción a gas",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla de cocción a gas con 2 quemadores de lata eficiencia en 30 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 2 Quemadores 4,000 W Seguridad de termopar integrada en cada quemador, Encendido electronico integrado en cada perilla.",
+        "variations": {
+            "varImgs": ["parrilla-18.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 46,
+        "img": "parrilla-19.png",
+        "name": "Parrilla vitrocerámica eléctrica",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla vitrocerámica eléctrica de 2 zonas con Perillas ergonómicas frontales WISH, Acero inoxidable y cristal vitrocerámico biselado frontal SchottCeran, Perillas ergonómicas frontales WISH, 2 zonas de cocción 3,000 W",
+        "variations": {
+            "varImgs": ["parrilla-19.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 47,
+        "img": "parrilla-20.png",
+        "name": "Parrilla eléctrica",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla eléctrica de 2 zonas con Perillas ergonómicas frontales WISH, Acero inoxidable, Perillas ergonómicas frontales WISH, 2 zonas de cocción 3,450 W, Perillas de seguridad, Placas blindadas",
+        "variations": {
+            "varImgs": ["parrilla-20.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 48,
+        "img": "parrilla-21.jpg",
+        "name": "Parrilla grill",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla rill con Piedra volcánica incluida, Acero Inoxidable, Parrilla de hierro fundido, Piedra volcánica incluida, Perilla ergonómica frontal Wish, Sistema de desconexión de seguridad por sobrecalentamiento.",
+        "variations": {
+            "varImgs": ["parrilla-21.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 49,
+        "img": "parrilla-22.jpg",
+        "name": "Parrilla de Teppanyaki",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla de Teppanyaki con superficie de cocción en acero inoxidable, Acero inoxidable, Perillas ergonómicas frontales WISH, Superficie de resistencia a altas temperaturas más 270°C, 2 Zonas de cocción, Termostato de control para una temperatura de cocción constante.",
+        "variations": {
+            "varImgs": ["parrilla-22.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 50,
+        "img": "parrilla-23.jpg",
+        "name": "Parrilla vitrocerámica",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla vitrocerámica de inducción de 2 zonas con Touchcontrol, marco acero inoxidable, con sensores acústicos, 2 zonas de cocción 3,600 W, Función Power Plus",
+        "variations": {
+            "varImgs": ["parrilla-23.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 51,
+        "img": "parrilla-24.png",
+        "name": "Parrilla de cocción",
+        "uses": {
+                "Cristal Negro": ""
+                },
+        "type": "Parrilla de cocción a gas con 4 quemadores de alta eficiencia de 60 cm, Acero inoxidable, perillas ergonómicas frontales WISH, 4 quemadores 8,500 W, Seguridad por termopar integrada en cada quemador, Encendido electrónico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-24.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 52,
+        "img": "parrilla-25.jpg",
+        "name": "Parrilla de cocción",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla de cocción a gas con 5 quemadores de alta eficiencia de 75 cm, Acero inoxidable, perillas ergonómicas frontales WISH, 5 quemadores 11,500 W, Seguridad por termopar integrada en cada quemador, Encendido electrónico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-25.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 53,
+        "img": "parrilla-26.jpg",
+        "name": "Parrilla de cocción",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla de cocción a gas con 5 quemadores de alta eficiencia de 75 cm, Acero inoxidable, perillas ergonómicas frontales WISH, 5 quemadores 11,500 W, Seguridad por termopar integrada en cada quemador, Encendido electrónico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-26.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 54,
+        "img": "parrilla-27.jpg",
+        "name": "Parrilla de cocción a gas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla de cocción a gas con 5 quemadores de alta eficiencia de 90 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 5 quermadores 11,500 w, Seguridad por termopar integrado en cada perilla, Encendido electrónico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-27.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 55,
+        "img": "parrilla-28.jpg",
+        "name": "Parrilla de cocción a gas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla de cocción a gas con 6 quemadores de alta eficiencia de 90 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 6 quemadores 13,250 w, Seguridad por termopar integrado en cada perilla, Encendido electrónico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-28.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 56,
+        "img": "parrilla-29.jpg",
+        "name": "Parrilla de cocción a gas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla de cocción a gas con 4 quemadores de alta eficiencia de 60 cm, Acero inoxidable, Perillas ergonómicas frontales, 4 quemadores 9,250 w, encendido eléctronico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-29.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 57,
+        "img": "parrilla-30.jpg",
+        "name": "Parrilla de cocción a gas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla de cocción a gas con 4 quemadores de alta eficiencia de 70 cm, Acero inoxidable, Perillas ergonómicas frontales, 5 quemadores 10,400 w, encendido eléctronico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-30.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 58,
+        "img": "parrilla-31.png",
+        "name": "Parrilla de cocción a gas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla de cocción a gas con 5 quemadores de alta eficiencia de 90 cm, Acero inoxidable, Perillas ergonómicas frontales, 5 quemadores 10,400 w, encendido eléctronico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-31.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 59,
+        "img": "parrilla-32.jpg",
+        "name": "Parrilla de cocción a gas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla de cocción a gas con 4 quemadores de alta eficiencia de 60 cm, Acero inoxidable, Perillas ergonómicas laterales, 4 quemadores 7,300 w, encendido eléctronico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-32.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 60,
+        "img": "parrilla-33.jpg",
+        "name": "Parrilla de cocción a gas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla de cocción a gas con 4 quemadores de alta eficiencia de 60 cm, Acero inoxidable, Perillas ergonómicas laterales, 4 quemadores 7,300 w, encendido eléctronico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-33.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 61,
+        "img": "parrilla-34.jpg",
+        "name": "Parrilla de cocción a gas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla de cocción a gas con 4 quemadores de alta eficiencia de 60 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 4 quemadores 9,550 w, encendido eléctronico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-33.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 59,
+        "img": "parrilla-35.jpg",
+        "name": "Parrilla de cocción a gas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla de cocción a gas con 5 quemadores de alta eficiencia de 70 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 5 quemadores 11,300 w, encendido eléctronico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-35.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 60,
+        "img": "parrilla-36.jpg",
+        "name": "Parrilla de cocción a gas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla de cocción a gas con 5 quemadores de alta eficiencia de 90 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 5 quemadores 12,050 w, encendido eléctronico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-36.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 61,
+        "img": "parrilla-37.jpg",
+        "name": "Parrilla de cocción a gas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla de cocción a gas con 6 quemadores de alta eficiencia de 90 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 6 quemadores 12,050 w, encendido eléctronico integrado en cada perilla",
+        "variations": {
+            "varImgs": ["parrilla-37.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 62,
+        "img": "parrilla-38.jpg",
+        "name": "Parrilla vitrocerámica",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Parrilla vitrocerámica eléctrica de 4 zonas, marco acero inoxidable ultra delgado, Mandos de perillas laterales, 4 Zonas de cocción 6,000 W, 12 niveles de potencia",
+        "variations": {
+            "varImgs": ["parrilla-38.jpg"],
+            "varTexts": [""]
+        }
+    }
+]
