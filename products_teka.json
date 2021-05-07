@@ -6,7 +6,10 @@
             "two": "Hornos",
             "three": "Microondas",
             "Four": "Cafeteras encastrables",
-            "five": "Parrillas"
+            "five": "Parrillas",
+            "six": "Estufas",
+            "seven": "Campanas",
+            "eight": "Refrigeradores y enfriadores de vino"
         }
     },
     {
@@ -507,6 +510,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Placa Cristal Gas con función ExactFlame en 90 cm de gas butano, mandos frontales de diseño ergonómico, Superficie de vidrio cerámico, 9 niveles de potencia con un control exacto de la llama, 6 quemadores de gas.",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-8-1.png"],
             "varTexts": [""]
@@ -520,6 +524,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Placa Cristal Gas con función ExactFlame en 90 cm de gas butano, mandos frontales de diseño ergonómico, Superficie de vidrio cerámico, 9 niveles de potencia con un control exacto de la llama, 5 quemadores de gas.",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-9-1.png"],
             "varTexts": [""]
@@ -533,6 +538,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Placa Cristal Gas con función ExactFlame en 75 cm, mandos frontales de diseño ergonómico, Superficie de vidrio cerámico, 9 niveles de potencia con un control exacto de la llama, 5 quemadores de gas.",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-10-1.png"],
             "varTexts": [""]
@@ -546,6 +552,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Placa Cristal Gas con función ExactFlame en 60 cm de gas butano, mandos frontales de diseño ergonómico, Superficie de vidrio cerámico, 9 niveles de potencia con un control exacto de la llama, 4 quemadores de gas.",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-11-1.png"],
             "varTexts": [""]
@@ -559,6 +566,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Placa Cristal Gas con función ExactFlame en 60 cm de gas butano, mandos frontales de diseño ergonómico, Superficie de vidrio cerámico, 9 niveles de potencia con un control exacto de la llama, 1 quemadores auxiliar 1,00 kW, 1 quemador rápido, 2,80 kW.",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-12-1.png"],
             "varTexts": [""]
@@ -572,6 +580,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Vitrocerámica de 60 cm con Slim metal frame y 4 zonas con Touch Control, Programador del tiempo de cocción, 4 zonas (Ø145 mm + Ø145 mm + Ø180 mm + Ø180/210 mm), Función golpe de cocción, Función cronómetro con avisador acústico",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-13.jpg"],
             "varTexts": [""]
@@ -585,6 +594,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Parrilla Vitrocerámica eléctrica de 5 zonas con Touch Control, 5 zonas de cocción 7,400 W, Programación del tiempo de cocción, Función cronometro con alarma acústica.",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-14.jpg"],
             "varTexts": [""]
@@ -598,6 +608,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Parrilla Vitrocerámica eléctrica de 2 zonas con TouchControl, 2 zonas de cocción 2,900 W, Bloqueo de seguridad",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-15.jpg"],
             "varTexts": [""]
@@ -611,6 +622,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Parrilla Vitrocerámica de inducción de 5 zonas con Touch control Multislider Pro, 4 Zonas de cocinado 7,400 W, Programación del tiempo de cocción, Funciones especiales de cocinado iCooking: Hervir rápidamente, hervir derretir y mantener caliente.",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-16-1.jpg"],
             "varTexts": [""]
@@ -624,6 +636,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Parrilla de cocción eléctrica de 4 zonas con Mandos de perillas laterales, Acero inoxidable, 4 zonas de cocción 5,500 W 6 niveles de potencia, Placas blindadas, Piloto de funcionamiento.",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-17-1.jpg"],
             "varTexts": [""]
@@ -637,6 +650,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Parrilla de cocción a gas con 2 quemadores de lata eficiencia en 30 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 2 Quemadores 4,000 W Seguridad de termopar integrada en cada quemador, Encendido electronico integrado en cada perilla.",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-18.png"],
             "varTexts": [""]
@@ -650,6 +664,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Parrilla vitrocerámica eléctrica de 2 zonas con Perillas ergonómicas frontales WISH, Acero inoxidable y cristal vitrocerámico biselado frontal SchottCeran, Perillas ergonómicas frontales WISH, 2 zonas de cocción 3,000 W",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-19.png"],
             "varTexts": [""]
@@ -663,6 +678,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Parrilla eléctrica de 2 zonas con Perillas ergonómicas frontales WISH, Acero inoxidable, Perillas ergonómicas frontales WISH, 2 zonas de cocción 3,450 W, Perillas de seguridad, Placas blindadas",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-20.png"],
             "varTexts": [""]
@@ -676,6 +692,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Parrilla rill con Piedra volcánica incluida, Acero Inoxidable, Parrilla de hierro fundido, Piedra volcánica incluida, Perilla ergonómica frontal Wish, Sistema de desconexión de seguridad por sobrecalentamiento.",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-21.jpg"],
             "varTexts": [""]
@@ -689,6 +706,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Parrilla de Teppanyaki con superficie de cocción en acero inoxidable, Acero inoxidable, Perillas ergonómicas frontales WISH, Superficie de resistencia a altas temperaturas más 270°C, 2 Zonas de cocción, Termostato de control para una temperatura de cocción constante.",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-22.jpg"],
             "varTexts": [""]
@@ -702,6 +720,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Parrilla vitrocerámica de inducción de 2 zonas con Touchcontrol, marco acero inoxidable, con sensores acústicos, 2 zonas de cocción 3,600 W, Función Power Plus",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-23.jpg"],
             "varTexts": [""]
@@ -715,6 +734,7 @@
                 "Cristal Negro": ""
                 },
         "type": "Parrilla de cocción a gas con 4 quemadores de alta eficiencia de 60 cm, Acero inoxidable, perillas ergonómicas frontales WISH, 4 quemadores 8,500 W, Seguridad por termopar integrada en cada quemador, Encendido electrónico integrado en cada perilla",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-24.png"],
             "varTexts": [""]
@@ -728,6 +748,7 @@
                 "Inox": ""
                 },
         "type": "Parrilla de cocción a gas con 5 quemadores de alta eficiencia de 75 cm, Acero inoxidable, perillas ergonómicas frontales WISH, 5 quemadores 11,500 W, Seguridad por termopar integrada en cada quemador, Encendido electrónico integrado en cada perilla",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-25.jpg"],
             "varTexts": [""]
@@ -741,6 +762,7 @@
                 "Inox": ""
                 },
         "type": "Parrilla de cocción a gas con 5 quemadores de alta eficiencia de 75 cm, Acero inoxidable, perillas ergonómicas frontales WISH, 5 quemadores 11,500 W, Seguridad por termopar integrada en cada quemador, Encendido electrónico integrado en cada perilla",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-26.jpg"],
             "varTexts": [""]
@@ -754,6 +776,7 @@
                 "Inox": ""
                 },
         "type": "Parrilla de cocción a gas con 5 quemadores de alta eficiencia de 90 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 5 quermadores 11,500 w, Seguridad por termopar integrado en cada perilla, Encendido electrónico integrado en cada perilla",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-27.jpg"],
             "varTexts": [""]
@@ -767,6 +790,7 @@
                 "Inox": ""
                 },
         "type": "Parrilla de cocción a gas con 6 quemadores de alta eficiencia de 90 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 6 quemadores 13,250 w, Seguridad por termopar integrado en cada perilla, Encendido electrónico integrado en cada perilla",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-28.jpg"],
             "varTexts": [""]
@@ -780,6 +804,7 @@
                 "Inox": ""
                 },
         "type": "Parrilla de cocción a gas con 4 quemadores de alta eficiencia de 60 cm, Acero inoxidable, Perillas ergonómicas frontales, 4 quemadores 9,250 w, encendido eléctronico integrado en cada perilla",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-29.jpg"],
             "varTexts": [""]
@@ -793,6 +818,7 @@
                 "Inox": ""
                 },
         "type": "Parrilla de cocción a gas con 4 quemadores de alta eficiencia de 70 cm, Acero inoxidable, Perillas ergonómicas frontales, 5 quemadores 10,400 w, encendido eléctronico integrado en cada perilla",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-30.jpg"],
             "varTexts": [""]
@@ -806,6 +832,7 @@
                 "Inox": ""
                 },
         "type": "Parrilla de cocción a gas con 5 quemadores de alta eficiencia de 90 cm, Acero inoxidable, Perillas ergonómicas frontales, 5 quemadores 10,400 w, encendido eléctronico integrado en cada perilla",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-31.png"],
             "varTexts": [""]
@@ -819,7 +846,8 @@
                 "Inox": ""
                 },
         "type": "Parrilla de cocción a gas con 4 quemadores de alta eficiencia de 60 cm, Acero inoxidable, Perillas ergonómicas laterales, 4 quemadores 7,300 w, encendido eléctronico integrado en cada perilla",
-        "variations": {
+        "query": "Cocina Parrillas",
+        "variations": {"query": "Cocina Parrillas",
             "varImgs": ["parrilla-32.jpg"],
             "varTexts": [""]
         }
@@ -832,6 +860,7 @@
                 "Inox": ""
                 },
         "type": "Parrilla de cocción a gas con 4 quemadores de alta eficiencia de 60 cm, Acero inoxidable, Perillas ergonómicas laterales, 4 quemadores 7,300 w, encendido eléctronico integrado en cada perilla",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-33.jpg"],
             "varTexts": [""]
@@ -845,6 +874,7 @@
                 "Inox": ""
                 },
         "type": "Parrilla de cocción a gas con 4 quemadores de alta eficiencia de 60 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 4 quemadores 9,550 w, encendido eléctronico integrado en cada perilla",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-33.jpg"],
             "varTexts": [""]
@@ -858,6 +888,7 @@
                 "Inox": ""
                 },
         "type": "Parrilla de cocción a gas con 5 quemadores de alta eficiencia de 70 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 5 quemadores 11,300 w, encendido eléctronico integrado en cada perilla",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-35.jpg"],
             "varTexts": [""]
@@ -871,6 +902,7 @@
                 "Inox": ""
                 },
         "type": "Parrilla de cocción a gas con 5 quemadores de alta eficiencia de 90 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 5 quemadores 12,050 w, encendido eléctronico integrado en cada perilla",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-36.jpg"],
             "varTexts": [""]
@@ -884,6 +916,7 @@
                 "Inox": ""
                 },
         "type": "Parrilla de cocción a gas con 6 quemadores de alta eficiencia de 90 cm, Acero inoxidable, Perillas ergonómicas frontales WISH, 6 quemadores 12,050 w, encendido eléctronico integrado en cada perilla",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-37.jpg"],
             "varTexts": [""]
@@ -897,8 +930,1367 @@
                 "Inox": ""
                 },
         "type": "Parrilla vitrocerámica eléctrica de 4 zonas, marco acero inoxidable ultra delgado, Mandos de perillas laterales, 4 Zonas de cocción 6,000 W, 12 niveles de potencia",
+        "query": "Cocina Parrillas",
         "variations": {
             "varImgs": ["parrilla-38.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 63,
+        "img": "estufa-1.jpg",
+        "name": "Estufa de empotre",
+        "uses": {
+                "Reflex": ""
+                },
+        "type": "Estufa de empotre tipo cassete 80 cm, Estufa de acero inoxidable con puerta acabado reflex, Encendido electrónico integrado en cada perilla para quemadores superiores y horno, 3 parrillas superiores profesionales de hierro fundido, 6 Quemadores de alta eficiencia a gas en parrilla 13,800 W",
+        "query": "Cocina Estufas",
+        "variations": {
+            "varImgs": ["estufa-1-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 64,
+        "img": "estufa-2.jpg",
+        "name": "Estufa de empotre",
+        "uses": {
+                "Reflex": ""
+                },
+        "type": "Estufa de empotre tipo cassete 80 cm, Estufa de acero inoxidable con puerta acabado reflex, Encendido electrónico integrado en cada perilla para quemadores superiores y horno, 3 parrillas superiores profesionales de hierro fundido, 6 Quemadores de alta eficiencia a gas en parrilla 14,100 W",
+        "query": "Cocina Estufas",
+        "variations": {
+            "varImgs": ["estufa-2-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 65,
+        "img": "estufa-3.jpg",
+        "name": "Estufa de piso",
+        "uses": {
+                "Reflex": ""
+                },
+        "type": "Estufa de piso de 76 cm, Estufa de acero inoxidable con puerta acabado reflex, Encendido electrónico integrado en cada perilla para quemadores superiores y horno, 3 parrillas superiores profesionales de hierro fundido, 6 Quemadores de alta eficiencia a gas en parrilla 13,800 W",
+        "query": "Cocina Estufas",
+        "variations": {
+            "varImgs": ["estufa-3-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 66,
+        "img": "estufa-4.jpg",
+        "name": "Estufa de piso",
+        "uses": {
+                "Reflex": ""
+                },
+        "type": "Estufa de piso de 76 cm, Estufa de acero inoxidable con puerta acabado reflex, Encendido electrónico integrado en cada perilla para quemadores superiores y horno, 3 parrillas superiores profesionales de hierro fundido, 6 Quemadores de alta eficiencia a gas en parrilla 14,100 W, Horno de gas de 3,600 W",
+        "query": "Cocina Estufas",
+        "variations": {
+            "varImgs": ["estufa-4-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 67,
+        "img": "estufa-5.jpg",
+        "name": "Estufa de piso",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Estufa de piso de 90 cm, Estufa de acero inoxidable con puerta de cristal negro, Encendido electrónico integrado en cada perilla para quemadores superiores y horno, 3 parrillas superiores profesionales de hierro fundido, 6 Quemadores de alta eficiencia a gas en parrilla 16,250 W, Horno de gas de 4,500 W",
+        "query": "Cocina Estufas",
+        "variations": {
+            "varImgs": ["estufa-5.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 68,
+        "img": "estufa-6.jpg",
+        "name": "Estufa de piso",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Estufa de piso de 90 cm, Estufa de acero inoxidable con puerta acabado espejo, Encendido electrónico integrado en cada perilla para quemadores superiores y horno, 3 parrillas superiores profesionales de hierro fundido, 5 Quemadores de alta eficiencia a gas en parrilla 11,500 W, Horno de gas de 4,500 W",
+        "query": "Cocina Estufas",
+        "variations": {
+            "varImgs": ["estufa-6-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 69,
+        "img": "estufa-7.jpg",
+        "name": "Estufa de piso",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Estufa de piso de 90 cm, Estufa de acero inoxidable con puerta de cristal negro, Encendido electrónico integrado en cada perilla para quemadores superiores y horno, 3 parrillas superiores profesionales de hierro fundido, 6 Quemadores de alta eficiencia a gas en parrilla 16,250 W, Horno de gas de 4,500 W",
+        "query": "Cocina Estufas",
+        "variations": {
+            "varImgs": ["estufa-7.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 70,
+        "img": "estufa-8.jpg",
+        "name": "Estufa de piso",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Estufa de piso de 50 cm, Estufa de acero inoxidable con puerta acabado reflex, Encendido electrónico integrado en cada perilla para quemadores superiores y horno, 2 parrillas superiores profesionales de hierro fundido, 4 Quemadores de alta eficiencia a gas en parrilla 7,000 W, Horno de gas de 2,800 W",
+        "query": "Cocina Estufas",
+        "variations": {
+            "varImgs": ["estufa-8-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 71,
+        "img": "campana-1.png",
+        "name": "Campana decorativa",
+        "uses": {
+                "Cristal negro": ""
+                },
+        "type": "Campana decorativa para instalación en pared de 90 cm, Acero inoxidable con panel Cristal Stone Grey, Panel Touch Control, Tres velocidades + intensiva, filtro metálico, lavable en lavavajillas,Barra de iluminación LED (7 W)",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-1-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 72,
+        "img": "campana-2.png",
+        "name": "Campana decorativa",
+        "uses": {
+                "Cristal negro": ""
+                },
+        "type": "Campana decorativa vertical con función de FreshAir en 90cm, Mandos digitales Touch Control con display blanco, Tres velocidades + intensiva, Función aire fresco, indicador digital.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-2-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 73,
+        "img": "campana-3.png",
+        "name": "Campana decorativa",
+        "uses": {
+                "Brick Brown": ""
+                },
+        "type": "Campana decorativa para instalación en pared de 90 cm, Acero inoxidable con panel Cristal London Brick, Panel Touch Control, Tres velocidades + intensiva, Barra de iluminación LED (7 W)",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-3-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 74,
+        "img": "campana-4.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 70 cm, Panel de mandos pulsantes, Dos velocidades, Filtros metálicos lavables en lavavajillas, Filtro de carbón activo para recirculación del aire",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-4.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 75,
+        "img": "campana-5.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 80 cm, Panel de mandos pulsantes, Dos velocidades, Filtros metálicos lavables en lavavajillas, Filtro de carbón activo para recirculación del aire",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-5.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 76,
+        "img": "campana-6.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 80 cm, Panel de mandos pulsantes, Dos velocidades, Filtros metálicos lavables en lavavajillas, Filtro de carbón activo para recirculación del aire",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-6.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 77,
+        "img": "campana-7.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 80 cm, Panel de mandos pulsantes, Dos velocidades, Filtros metálicos lavables en lavavajillas, Filtro de carbón activo para recirculación del aire",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-7.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 78,
+        "img": "campana-8.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 80 cm, Panel de mandos pulsantes, Dos velocidades, Filtros metálicos lavables en lavavajillas, Filtro de carbón activo para recirculación del aire",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-8.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 79,
+        "img": "campana-9.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 70 cm, Panel de mandos pulsantes, Dos velocidades, Filtros metálicos lavables en lavavajillas, Filtro de carbón activo para recirculación del aire",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-9.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 80,
+        "img": "campana-10.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 70 cm, Panel de mandos pulsantes, Dos velocidades, Filtros metálicos lavables en lavavajillas, Filtro de carbón activo para recirculación del aire",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-10.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 81,
+        "img": "campana-11.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 70 cm, Panel de mandos pulsantes, Dos velocidades, Filtros metálicos lavables en lavavajillas, Filtro de carbón activo para recirculación del aire",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-11.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 82,
+        "img": "campana-12.jpg",
+        "name": "Campana empotrable",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Campana empotrable recirculatoria Negra 60 mcs, acero inoxidable, Dos velocidades, Lámpara incandescente.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-12.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 83,
+        "img": "campana-13.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Titanium": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 60cm, panel de mandos pulsantes, Dos velocidades, filtros metálicos lavables en lavavajillas, filtro de carbón activo para recirculación",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-13.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 84,
+        "img": "campana-14.jpg",
+        "name": "Campana empotrable",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Campana empotrable recirculatoria Blanca 60 mcs, acero inoxidable, Dos velocidades, Lámpara incandescente",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-14.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 85,
+        "img": "campana-15.jpg",
+        "name": "Campana empotrable",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Campana empotrable recirculatoria Negra 50 mcs, acero inoxidable, Dos velocidades, Lámpara incandescente",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-15.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 86,
+        "img": "campana-16.png",
+        "name": "Campana decorativa",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 60 cm, Acero inoxidable, Panel de mandos pulsantes, Dos velocidades, Filtros metálicos lavables en lavavajillas, Filtro de carbón activo par recirculación de aire.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-16.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 87,
+        "img": "campana-17.png",
+        "name": "Campana decorativa",
+        "uses": {
+                "Titanium": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 50 cm, Acero inoxidable, Panel de mandos pulsantes, Dos velocidades, Filtros metálicos lavables en lavavajillas, Filtro de carbón activo par recirculación de aire.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-17.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 88,
+        "img": "campana-18.png",
+        "name": "Campana empotrable",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Campana empotrable recirculatoria Blanca 50 mcs, Campana empotrable de acero inoxidable, Dos velocidades, Lámpara incandescente",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-18.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 89,
+        "img": "campana-19.png",
+        "name": "Campana decorativa",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 60 cm, Acero inoxidable, Panel de mandos pulsantes, Dos velocidades, Filtros metálicos lavables en lavavajillas, Filtro de carbón activo para recirculación del aire.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-19.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 90,
+        "img": "campana-20.png",
+        "name": "Campana extensible",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Campana extensible con motor de doble turbina y 2 velocidades de 90 cm, Frente inox extraíble y sustituible, Mandos mecánicos, Dos velocidades, 2 lámparas LED, Motor de doble turbina.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-20.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 91,
+        "img": "campana-21.png",
+        "name": "Campana extensible",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Campana extensible con motor de doble turbina y 2 velocidades de 60 cm, Frente inox extraíble y sustituible, Mandos mecánicos, Dos velocidades, 2 lámparas LED, Motor de doble turbina.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-21.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 92,
+        "img": "campana-22.png",
+        "name": "Campana de empotre",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Campana extensible de empotre, mandos mecánicos, tres velocidades, 2 lámparas LED, Piloto indicativo de funcionamiento.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-22-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 93,
+        "img": "campana-23.png",
+        "name": "Campana clásica",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Campana clásica integrable de acero inoxidable antihuella en 76 cm, Panel de mandos pulsantes, tres velocidades, Filtros metálicos curvos lavables en lavavajillas.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-23.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 94,
+        "img": "campana-24.png",
+        "name": "Campana decorativa",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 80 cm, Acero inoxidable, panel de mandos pulsantes, tres velocidades, Filtros metálicos curvos lavables en lavavajillas.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-24.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 95,
+        "img": "campana-25.png",
+        "name": "Campana decorativa",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Campana decorativa Isla con mandos digitales Touch Control en 40 cm, 2 lámparas LED, Motor de doble turbina, Indicador luminoso de saturación de filtros",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-25-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 96,
+        "img": "campana-26.png",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación de empotre de 90 cm, acero inoxidable, Panel de mandos pulsantes, Tres velocidades, Filtros metálicos curvos lavables en lavavajillas.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-26.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 97,
+        "img": "campana-27.png",
+        "name": "Campana de pared",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Decorativa para instalación en pared, Panel de mandos deslizantes, Tres velocidades, Lámpara incandescentes, Energía eléctrica: 110-127v/60Hz",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-27.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 98,
+        "img": "campana-28.png",
+        "name": "Campana de empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Filtros semi-profesionales de acero inoxidables, Mandos de perillas, Tres velocidades + intensiva, Lámparas LED, Capacidad de extracción máxima: 800 m3/h, Filtro de carbón activo para recirculación del aire.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-28.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 99,
+        "img": "campana-29.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación en pared de 60 cm, Acero inoxidable, Panel de mandos pulsantes, Tres velocidades, Filtros metálicos lavables en lavavajillas.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-29.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 100,
+        "img": "campana-30.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación en pared de 70 cm, Acero inoxidable, Panel de mandos pulsantes, Tres velocidades, Filtros metálicos lavables en lavavajillas.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-30.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 101,
+        "img": "campana-31.png",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación en pared de 90 cm, Acero inoxidable, Panel de mandos pulsantes, Tres velocidades, Filtros metálicos lavables en lavavajillas.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-31.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 102,
+        "img": "campana-32.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación en pared de 90 cm, Acero inoxidable, Panel electrónico iluminado con display, Tres velocidades + intensiva, Filtros metálicos lavables en lavavajillas.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-32.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 103,
+        "img": "campana-33.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa vertical con mandos electrónicos retroiluminados en 90 cm, Tres velocidad + intensiva, Barra de iluminación led, Programador del tiempo de aspiración.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-33.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 104,
+        "img": "campana-34.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación en isla de 90 cm, Acero inoxidable, Panel electrónico iluminado con display, Tres velocidades + intensiva, Filtros de acero inoxidable lavables en lavavajillas, Lámparas LED.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-34.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 105,
+        "img": "campana-35.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación en isla de 90 cm, Acero inoxidable, Panel electrónico iluminado con display, Tres velocidades + intensiva, Filtros de acero inoxidable lavables en lavavajillas, Lámparas LED.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-35.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 106,
+        "img": "campana-36.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación en pared de 70 cm, Acero inoxidable, Panel de mandos pulsantes, Tres velocidades, Filtros metálicos lavables en lavavajillas, Lámparas LED.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-36.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 107,
+        "img": "campana-37.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación en pared de 90 cm, Acero inoxidable, Panel de mandos pulsantes, Tres velocidades, Filtros metálicos lavables en lavavajillas, Lámparas LED.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-37.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 108,
+        "img": "campana-38.png",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación en pared de 90 cm, Acero inoxidable, Panel TouchControl, Tres velocidades + intensiva, Programador del tiempo de aspiración",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-38.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 109,
+        "img": "campana-39.jpg",
+        "name": "Campana de integración",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana de integración con motor de doble turbina de 55 cm, 3 velocidades, Lámparas halógenas.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-39.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 110,
+        "img": "campana-40.png",
+        "name": "Campana de integración",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana de integración con motor de doble turbina de 73 cm, Mandos pulsantes, 3 velocidades, 2 Lámparas halógenas, Piloto indicativo de funcionamiento.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-40.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 111,
+        "img": "campana-41.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación en isla de 100 cm, Acero inoxidable, Mandos pulsantes, 3 velocidades, Filtro profesional de acero inoxidable lavable en lavavajillas, Lámparas LED.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-41.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 112,
+        "img": "campana-42.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación en pared de 90 cm, Acero inoxidable, Panel touch control, 3 velocidades + intensiva, Filtro profesional de acero inoxidable lavable en lavavajillas, Lámparas LED.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-42.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 113,
+        "img": "campana-43.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa vertical con mandos electrónicos retroiluminados en 90 cm, Tres velocidades + intensivas, 2 lámparas led, Indicador luminoso de saturación de filtros, Motor de doble turbina.",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-43.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 114,
+        "img": "campana-44.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación en isla de 90 cm, Acero inoxidable, Panel touch control, tres velocidades + intensiva, Filtro profesional de acero inoxidable lavable en lavavajillas, Lámparas LED",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-44.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 115,
+        "img": "campana-45.jpg",
+        "name": "Campana decorativa",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Campana decorativa para instalación en isla de 90 cm, Acero inoxidable, Panel iluminado con display, tres velocidades + intensiva, Filtro profesional de acero inoxidable lavable en lavavajillas, Lámparas LED",
+        "query": "Cocina Campanas",
+        "variations": {
+            "varImgs": ["campana-45.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 116,
+        "img": "refri-1.png",
+        "name": "Frigorífico French Door",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Frigorífico French Door A++ con Motor inverter y puerta de cristal, Tecnología IonClean que neutraliza las bacterias y malos olores, Touch control con regulación de temperatura independiente, Detalles cromados.",
+        "query": "Cocina Refrigeradores y enfriadores de vino",
+        "variations": {
+            "varImgs": ["refri-1-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 117,
+        "img": "refri-2.png",
+        "name": "Refrigerador 4 puertas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Refrigerador 4 puertas, 23 pies, acabado acero inoxidable, fabrica de hielos Twist, bloqueo de seguridad para niños.",
+        "query": "Cocina Refrigeradores y enfriadores de vino",
+        "variations": {
+            "varImgs": ["refri-2-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 118,
+        "img": "refri-3.png",
+        "name": "Refrigerador Four Door",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Refrugeradi de 4 puertas con acabado acero inoxidable antihuella, Capacidad: 23 Cu. Ft, Sistema de enfriamiento Triple CoolFlow, Display digital exterior, Alarma sonora de puerta abierta, Bloque de seguridad para niños.",
+        "query": "Cocina Refrigeradores y enfriadores de vino",
+        "variations": {
+            "varImgs": ["refri-3-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 119,
+        "img": "refri-4.jpg",
+        "name": "Refrigerador Frigobar",
+        "uses": {
+                "Cristal negro": ""
+                },
+        "type": "Refrigerador Frigobar con acabado en cristal negro, Capacidad: 4Cu. Ft, Iluminación incandescente, Control mecánico.",
+        "query": "Cocina Refrigeradores y enfriadores de vino",
+        "variations": {
+            "varImgs": ["refri-4-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 120,
+        "img": "refri-5.jpg",
+        "name": "Refrigerador Bottom",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Refrigerador Bottom Freezer con acero inoxidable antihuella, Capacidad: 12 Cu. Ft, Sistema de enfriamiento CoolFlow, Iluminación LED, Display digital exterior para el refrigerador y control mecánico para el congelador.",
+        "query": "Cocina Refrigeradores y enfriadores de vino",
+        "variations": {
+            "varImgs": ["refri-5-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 121,
+        "img": "refri-6.jpg",
+        "name": "Enfriador de Vinos",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Enfriador de Vinos con capacidad de hasta 51 botellas, Vidrio de puerta con protección de rayos UV, Unidad de grados: °F / °C, Panel de mandos digital con display LED, Cerradura con llave.",
+        "query": "Cocina Refrigeradores y enfriadores de vino",
+        "variations": {
+            "varImgs": ["refri-6.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 122,
+        "img": "freg-1.jpg",
+        "name": "Fregadero de Empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de dos cubetas, AISI 304, Acabado: Pulido, Calibre: 22, Reversible.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-1-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 123,
+        "img": "freg-3.jpg",
+        "name": "Fregadero de Empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de una cubeta, AISI 304, Acabado: Pulido, Calibre: 22, Reversible.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-3-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 124,
+        "img": "freg-4.png",
+        "name": "Fregadero Triple Mount",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable + PVD Dorado de una cubeta, Acabado: PVD Dorado, Instalación: Triple mount, Radio cubeta R15 para facilitar la limpieza y evacuación del agua, Silentsmart (reduce 50% el ruido)",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-4-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 125,
+        "img": "freg-5.png",
+        "name": "Fregadero Triple Mount",
+        "uses": {
+                "Titanium": ""
+                },
+        "type": "Acero inoxidable + PVD Titanium de una cubeta, Acabado: PVD Titanium, Instalación: Triple mount, Radio cubeta R15 para facilitar la limpieza y evacuación del agua, Silentsmart (reduce 50% el ruido)",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-5-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 126,
+        "img": "freg-6.jpg",
+        "name": "Paquete Tekaway",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable, Instalación empotre, Profundidad 15 cm, Grifo cromado, Aireador anti-cal, Accesorios incluidos: Contracanasta TKM",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-6-1.jpg", "freg-6-2.jpg"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 127,
+        "img": "freg-7.jpg",
+        "name": "Paquete Tekaway",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable, Instalación empotre, Profundidad 15 cm, Grifo cromado, Aireador anti-cal, Accesorios incluidos: Contracanasta TKM",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-7-1.jpg", "freg-7-2.jpg"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 128,
+        "img": "freg-8.jpg",
+        "name": "Paquete Tekaway",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable pulido, Instalación submontar, Profundidad 20 cm, Grifo color negro, Aireador anti-cal, Maneral con función chorro, Accesorios incluidos: Escurridor de acero inoxidable y contracanasta negra",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-8-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 129,
+        "img": "freg-9.png",
+        "name": "Paquete Tekaway",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable, Instalación dual mount, Profundidad 20 cm, Grifo tipo acero inoxidable, Aireador anti-cal, Maneral extraíble con 2 funciones: Regadera y chorro, Accesorios incluidos: Canastilla para cubeta, escurridor de platos y contracanasta TKM",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-9-1.jpg", "freg-9-2.png"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 130,
+        "img": "freg-9.png",
+        "name": "Paquete Tekaway",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable, Instalación dual mount, Profundidad 20 cm, Grifo tipo acero inoxidable, Aireador anti-cal, Maneral extraíble con 2 funciones: Regadera y chorro, Accesorios incluidos: Canastilla para cubeta, escurridor de platos y contracanasta TKM",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-9-1.jpg", "freg-9-2.png"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 131,
+        "img": "freg-10.jpg",
+        "name": "Fregadero DM 33.22",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de una cubeta, AISI 304, Acabado: pulido, Calibre: 19, Incluye: Contracanasta TKM.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-10-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 132,
+        "img": "freg-11.jpg",
+        "name": "Fregadero Dual Mount",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de una cubeta, AISI 304, Acabado: pulido, Calibre: 19, Incluye: Contracanasta TKM.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-11-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 133,
+        "img": "freg-12.png",
+        "name": "Fregadero Dual Mount",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de una cubeta, AISI 304, Acabado: pulido, Calibre: 19, Incluye: Contracanasta TKM.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-12-1.jpg", "freg-12-2"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 134,
+        "img": "freg-13.jpg",
+        "name": "Fregadero Tekaway",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable pulido, Instalación dual mount, Profundidad de 22 cm, Grifo tipo acero inoxidable, Aireador anti-cal, Maneral extraíble con 2 funciones: Regadera y chorro, Accesorios incluidos: Canastilla para cubeta, escurridor de platos y contracanastas TKM (x2)",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-13-1.jpg", "freg-13-2"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 135,
+        "img": "freg-14.jpg",
+        "name": "Fregadero Tekaway",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable pulido, Instalación dual mount, Profundidad de 22 cm, Grifo tipo acero inoxidable, Aireador anti-cal, Maneral extraíble con 2 funciones: Regadera y chorro, Accesorios incluidos: Canastilla para cubeta, escurridor de platos y contracanastas TKM (x2)",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-14-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 136,
+        "img": "freg-15.jpeg",
+        "name": "Fregadero acero inoxidable",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable para empotrar de una cubeta y escurridor, Profundidad de la cubeta 200 mm, Desagüe automático con válvula canasta 3½”, Tapa decorativa inox, Mueble de 50 cm",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-15-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 137,
+        "img": "freg-16.jpeg",
+        "name": "Fregadero acero inoxidable",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable para empotrar de una cubeta y escurridor, Profundidad de la cubeta 200 mm, Desagüe automático con válvula canasta 3½”, Tapa decorativa inox, Mueble de 50 cm",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-16-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 138,
+        "img": "freg-17.png",
+        "name": "Fregadero para empotrar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable para empotrar de una cubeta y escurridor, Profundidad de la cubeta 200 mm, Desagüe automático con válvula canasta 3½”, Tapa decorativa inox, Mueble de 50 cm",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-17-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 139,
+        "img": "freg-18.png",
+        "name": "Fregadero para empotrar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable para empotrar de una cubeta grande, cubeta auxiliar y escurridor, Profundidad de la cubeta 200 mm y 140 mm, Desagüe automático con válvula canasta 3½”, Tapa decorativa inox, Mueble de 60 cm",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-18-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 140,
+        "img": "freg-19.png",
+        "name": "Fregadero para empotrar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable para empotrar de una cubeta grande, cubeta auxiliar y escurridor, Profundidad de la cubeta 200 mm y 140 mm, Desagüe automático con válvula canasta 3½”, Tapa decorativa inox, Mueble de 60 cm",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-19-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 141,
+        "img": "freg-20.jpg",
+        "name": "Fregadero para empotrar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable, acabado mate.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-20.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 142,
+        "img": "freg-21.jpg",
+        "name": "Fregadero para empotrar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable, acabado mate.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-21.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 143,
+        "img": "freg-22.png",
+        "name": "Fregadero Submontar Tegranite",
+        "uses": {
+                "Stone Grey": ""
+                },
+        "type": "Fregadero Submontar Tegranite+ de una cubeta (80% cuarzo), Color Stone grey resistente a decoloración, Superficie de alta resistencia a impactos, Contracanasta con rebosadero decorativo.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-22-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 144,
+        "img": "freg-23.png",
+        "name": "Fregadero Submontar Tegranite",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Fregadero Submontar Tegranite+ de una cubeta (80% cuarzo), Color Stone grey resistente a decoloración, Superficie de alta resistencia a impactos, Contracanasta con rebosadero decorativo.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-23-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 145,
+        "img": "freg-24.png",
+        "name": "Fregadero Submontar Tegranite",
+        "uses": {
+                "Blanco Artico": ""
+                },
+        "type": "Fregadero Submontar Tegranite+ de una cubeta (80% cuarzo), Color Stone grey resistente a decoloración, Superficie de alta resistencia a impactos, Contracanasta con rebosadero decorativo.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-24-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 146,
+        "img": "freg-25.png",
+        "name": "Fregadero Submontar Tegranite",
+        "uses": {
+                "Stone Grey": ""
+                },
+        "type": "Fregadero Submontar Tegranite+ de una cubeta (80% cuarzo), Color Stone grey resistente a decoloración, Superficie de alta resistencia a impactos, Contracanasta con rebosadero decorativo.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-25-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 147,
+        "img": "freg-26.png",
+        "name": "Fregadero Submontar Tegranite",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Fregadero Submontar Tegranite+ de una cubeta (80% cuarzo), Color Stone grey resistente a decoloración, Superficie de alta resistencia a impactos, Contracanasta con rebosadero decorativo.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-26-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 148,
+        "img": "freg-27.png",
+        "name": "Fregadero Submontar Tegranite",
+        "uses": {
+                "Blanco Artico": ""
+                },
+        "type": "Fregadero Submontar Tegranite+ de una cubeta (80% cuarzo), Color Stone grey resistente a decoloración, Superficie de alta resistencia a impactos, Contracanasta con rebosadero decorativo.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-27-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 149,
+        "img": "freg-28.png",
+        "name": "Fregadero Submontar Tegranite",
+        "uses": {
+                "Stone Grey": ""
+                },
+        "type": "Fregadero Submontar Tegranite+ de una cubeta (80% cuarzo), Color Stone grey resistente a decoloración, Superficie de alta resistencia a impactos, Contracanasta con rebosadero decorativo.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-28-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 150,
+        "img": "freg-29.png",
+        "name": "Fregadero Submontar Tegranite",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Fregadero Submontar Tegranite+ de una cubeta (80% cuarzo), Color Stone grey resistente a decoloración, Superficie de alta resistencia a impactos, Contracanasta con rebosadero decorativo.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-29-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 151,
+        "img": "freg-30.png",
+        "name": "Fregadero Submontar Tegranite",
+        "uses": {
+                "Blanco Artico": ""
+                },
+        "type": "Fregadero Submontar Tegranite+ de una cubeta (80% cuarzo), Color Stone grey resistente a decoloración, Superficie de alta resistencia a impactos, Contracanasta con rebosadero decorativo.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-30-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 152,
+        "img": "freg-31.png",
+        "name": "Fregadero de Empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de dos cubetas, AISI 304, Acabado: Pulido, Calibre: 21, Silentsmart (reduce 50% el ruido), Incluye: Contracanastas.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-31.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 153,
+        "img": "freg-32.png",
+        "name": "Fregadero encastrado",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero derecha encastrado y reversible de cubeta y escurridor en 45 cm, Mueble de 45cm, Profundida de la cubeta 170 mm, Válvula canasta 3 ½”.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-32.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 154,
+        "img": "freg-33.jpg",
+        "name": "Fregadero encastrado",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero izquierda encastrado y reversible de cubeta y escurridor en 45 cm, Mueble de 45cm, Profundida de la cubeta 170 mm, Válvula canasta 3 ½”.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-33.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 155,
+        "img": "freg-34.jpg",
+        "name": "Fregadero de empotrar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de empotrar, reversible de una cubetas y escurridor, Válvula cestilla 3 ½”, Mueble de 45 cm, Profunidad de las cubetas 170 mm",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-34-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 156,
+        "img": "freg-35.jpg",
+        "name": "Paquete Tekaway",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable, instalación empotre, Profundidad 17 cm, Grifo cromado, Aireador anti-cal",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-35-1.png", "freg-35-2.jpg", "freg-35-3.jpg"],
+            "varTexts": ["", "", ""]
+        }
+    },
+    {
+        "id": 157,
+        "img": "freg-36.jpg",
+        "name": "Fregadero de Empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de dos cubetas, Acabado: Pulido, Calibre: 21, Reversible, Silentsmart (reduce 50% el ruido)",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-36.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 158,
+        "img": "freg-37.png",
+        "name": "Fregadero de Submontar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de dos cubetas, Acabado: Pulido, Calibre: 19, Reversible, Silentsmart (reduce 50% el ruido), Incluye: Contracanasta con rebosadero decorativo y accesorios de fijación",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-37-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 159,
+        "img": "freg-38.png",
+        "name": "Fregadero de Submontar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable una cubetas, Acabado: Pulido, Calibre: 18, Silentsmart (reduce 50% el ruido), Incluye: Contracanasta con rebosadero y tapa decorativa y accesorios de fijación",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-38-1.png"],
             "varTexts": [""]
         }
     }
