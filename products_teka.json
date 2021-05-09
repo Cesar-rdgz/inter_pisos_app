@@ -9,7 +9,11 @@
             "five": "Parrillas",
             "six": "Estufas",
             "seven": "Campanas",
-            "eight": "Refrigeradores y enfriadores de vino"
+            "eight": "Refrigeradores y enfriadores de vino",
+            "nine": "Griferia cocina",
+            "ten": "Lavavajillas",
+            "eleven": "Accesorios de cocina",
+            "twelve": "Complementos de cocina"
         }
     },
     {
@@ -2291,6 +2295,1168 @@
         "query": "Cocina Fregaderos",
         "variations": {
             "varImgs": ["freg-38-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 160,
+        "img": "freg-39.png",
+        "name": "Fregadero de Submontar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de una cubetas, Acabado: Pulido, Calibre: 18, Silentsmart (reduce 50% el ruido), Incluye: Contracanasta con rebosadero decorativo y acceorios de fijación",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-39-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 161,
+        "img": "freg-40.png",
+        "name": "Fregadero de Submontar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de una cubeta, Acabado: Pulido, Calibre: 18, Silentsmart (reduce 50% el ruido), Incluye: Contracanasta con rebosadero decorativo y acceorios de fijación, Radio cubetas R15 para facilitar la limpieza y evacuación del agua.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-40-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 162,
+        "img": "freg-40.png",
+        "name": "Fregadero de Submontar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de una cubeta, Acabado: Pulido, Calibre: 18, Silentsmart (reduce 50% el ruido), Incluye: Contracanasta con rebosadero decorativo y acceorios de fijación, Radio cubetas R15 para facilitar la limpieza y evacuación del agua.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-40-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 163,
+        "img": "freg-41.jpg",
+        "name": "Fregadero Classic",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero Classic 2 1/2 C1E, instalación submontar, Acero inoxidable, Acabado pulido, Incluye contracanastas 3 1/2 con kit de instalación.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-41-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 164,
+        "img": "freg-42.jpg",
+        "name": "Fregadero Dual Mount",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de dos cubetas, Acabado: Pulido, Calibre: 19, Incluye: Contracanastas TKM.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-42.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 165,
+        "img": "freg-43.jpg",
+        "name": "Fregadero Dual Mount",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de una cubeta, Acabado: Pulido, Calibre: 18, Incluye: Contracanastas y accesorios de fijación.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-43.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 166,
+        "img": "freg-44.jpg",
+        "name": "Fregadero de Submontar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de dos cubetas, Acabado: Pulido, Calibre: 17.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-44-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 167,
+        "img": "freg-45.png",
+        "name": "Fregadero de Submontar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de dos cubetas, Acabado: Pulido, Calibre: 17, Incluye: Contracanastas y accesorios de fijación.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-45-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 168,
+        "img": "freg-46.png",
+        "name": "Fregadero de Submontar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero BE 79.43 de acero inoxidable de dos cubetas, Acabado: Pulido, Calibre: 17, Incluye: Contracanastas 3 1/2 (sin tubo ceja).",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-46-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 169,
+        "img": "freg-47.jpg",
+        "name": "Fregadero de Submontar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de dos cubetas, Acabado: Pulido, Calibre: 17, Incluye: Contracanastas y accesorios de fijación.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-47.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 170,
+        "img": "freg-48.png",
+        "name": "Fregadero de empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de empotre seria Teka, acero inoxidable, Acabado: Pulido..",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-48.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 171,
+        "img": "freg-49.jpg",
+        "name": "Fregadero de Submontar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de dos cubetas, Acabado: Pulido, Calibre: 17, Incluye: Contracanastas y accesorios de fijación.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-49-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 172,
+        "img": "freg-50.jpg",
+        "name": "Fregadero de Submontar",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable de dos cubetas, Acabado: Pulido, Calibre: 17, Incluye: Contracanastas y accesorios de fijación.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-50-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 173,
+        "img": "freg-51.jpg",
+        "name": "Fregadero universo",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero universo, instalación empotre, Acero inoxidable, Acabado pulido, Incluye contracanasta 3 1/2",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-51.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 174,
+        "img": "freg-52.jpg",
+        "name": "Fregadero instalación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado semi pulido, de empotre.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-52.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 175,
+        "img": "freg-53.jpg",
+        "name": "Fregadero instalación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado semi pulido, de empotre.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-53.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 176,
+        "img": "freg-54.jpg",
+        "name": "Fregadero instalación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado semi pulido, de empotre.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-54.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 177,
+        "img": "freg-55.jpg",
+        "name": "Fregadero instalación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado semi pulido, de empotre.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-55.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 178,
+        "img": "freg-56.jpg",
+        "name": "Fregadero instalación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado semi pulido, de empotre.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-56.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 179,
+        "img": "freg-57.jpg",
+        "name": "Fregadero instalación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado semi pulido, de empotre.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-57.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 180,
+        "img": "freg-58.jpg",
+        "name": "Fregadero instalación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado semi pulido, de empotre.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-58.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 181,
+        "img": "freg-59.jpg",
+        "name": "Fregadero instalación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado semi pulido, de empotre.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-59.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 182,
+        "img": "freg-60.png",
+        "name": "Paquete Tekaway",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable, Instalación empotre, Profundidad 17 cm, Aireador anti-cal, Maneral extraíble con 2 funciones: Regadera y chorro, Cartucho cerámico de gran duración, Accesorios incluidos: Canastilla para cubeta, escurridor de platos y contracanasta.",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-60-1.png", "freg-60-2.jpg", "freg-60-3.jpg"],
+            "varTexts": ["", "", ""]
+        }
+    },
+    {
+        "id": 183,
+        "img": "freg-61.jpg",
+        "name": "Fregadero Tekaway",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fregadero de acero inoxidable, Instalación empotre, Profundidad 15 cm, Grifo cromado, Aireador anti-cal, Cartucho cerámico de gran duración, Accesorios incluidos: Contracanasta TKM",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-61-1.jpg", "freg-61-2.jpg", "freg-61-3.png"],
+            "varTexts": ["", "", ""]
+        }
+    },
+    {
+        "id": 184,
+        "img": "freg-62.jpg",
+        "name": "Fregadero Instación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado mate, de empotre",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-62.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 185,
+        "img": "freg-63.jpg",
+        "name": "Fregadero Instación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado mate, de empotre",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-63.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 186,
+        "img": "freg-64.jpg",
+        "name": "Fregadero Instación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado mate, de empotre",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-64.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 187,
+        "img": "freg-65.jpg",
+        "name": "Fregadero Instación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado mate, de empotre",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-65.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 188,
+        "img": "freg-66.jpg",
+        "name": "Fregadero Instación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado mate, de empotre",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-66.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 189,
+        "img": "freg-67.jpg",
+        "name": "Fregadero Instación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado mate, de empotre",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-67.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 190,
+        "img": "freg-68.jpg",
+        "name": "Fregadero Instación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado mate, de empotre",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-68.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 191,
+        "img": "freg-69.jpg",
+        "name": "Fregadero Instación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado mate, de empotre",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-69.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 192,
+        "img": "freg-70.jpg",
+        "name": "Fregadero Instación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado mate, de empotre",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-70.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 193,
+        "img": "freg-71.jpg",
+        "name": "Fregadero Instación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado mate, de empotre",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-71.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 194,
+        "img": "freg-71.jpg",
+        "name": "Fregadero Instación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado mate, de empotre",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-71.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 195,
+        "img": "freg-72.jpg",
+        "name": "Fregadero Instación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado mate, de empotre",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-72-1.jpg", "freg-72-2.jpg"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 196,
+        "img": "freg-73.jpg",
+        "name": "Fregadero Instación empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable, acabado mate, de empotre",
+        "query": "Cocina Fregaderos",
+        "variations": {
+            "varImgs": ["freg-73-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 197,
+        "img": "grif-1.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Grifo de cocina monomando profesional con caño giratorio y flexible, Muelle flexible de alta resistencia, Maneral extraíble con 1 función.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 198,
+        "img": "grif-2.jpg",
+        "name": "Monomando de cocina",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Monomando de cocina semi-profesional, caño giratorio y flexible, Tubo de caucho ultra resistente, Ducha de 1 función.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-2.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 199,
+        "img": "grif-3.jpg",
+        "name": "Monomando de cocina",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Monomando de cocina semi-profesional, caño giratorio y flexible, Tubo de caucho ultra resistente, Ducha de 1 función.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-3.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 200,
+        "img": "grif-4.jpg",
+        "name": "Monomando de cocina",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Monomando de cocina semi-profesional, caño giratorio y flexible, Tubo de caucho ultra resistente, Ducha de 1 función.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-4.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 201,
+        "img": "grif-5.jpg",
+        "name": "Monomando de cocina",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Monomando de cocina semi-profesional, caño giratorio y flexible, Tubo de caucho ultra resistente, Ducha de 1 función.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-5.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 202,
+        "img": "grif-6.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Grifo de cocina monomando con caño giratorio bajo ventana y retraible en 2 posiciones, Extendido (299mm) y oculto (20mm).",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-6.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 203,
+        "img": "grif-7.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Fabricado en acero inoxidable de alta calidad, Caño giratorio articulado, Especialmente diseñado para llenar ollas o recipientes sin necesidad de moverlos de la encimera o el mármol,",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-7.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 204,
+        "img": "grif-8.jpg",
+        "name": "Monomando alto extraible",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Monomando de acero inoxidable, Caño giratorio, Funciones de regadera y chorro.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-8-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 205,
+        "img": "grif-9.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Grifo de cocina monomando profesional de acero inoxidable con caño giratorio, Fabricado en acero inoxidable de alta calidad, Muelle flexible de alta resistencia, Maneral extraíble con 1 función.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-9.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 206,
+        "img": "grif-10.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Acabado: Cromo exteme glow, Caño giratorio, Aireador anti-cal, Maneral con 1 función: chorro.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-10.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 207,
+        "img": "grif-11.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Grifo de cocina monomando con caño alto plano, Aireador anti calcáreo integrado en el caño, latiguillos de alimentación 1/2\"",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-11.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 208,
+        "img": "grif-12.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Tipo acero Inoxidable, Caño giratorio, Aireador anti-cal, Maneral extraíble con 1 función: chorro.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-12.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 209,
+        "img": "grif-13.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Grifo de cocina monomando con caño alto extraíble de gran resistencia, Caño giratorio, Maneral metálico extraíble, Flexible súper resistente.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-13.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 210,
+        "img": "grif-14.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Grifo de cocina monomando con caño alto extraíble de gran resistencia, Caño giratorio, Maneral metálico extraíble de 1 función, Flexible súper resistente.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-14.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 211,
+        "img": "grif-15.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Grifo de cocina monomando con caño alto giratorio, Aireador anticalcáreo.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-15.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 212,
+        "img": "grif-16.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo extreme glow, Caño giratorio y flexible, Aireador anti-cal, Maneral extraíble con 2 funciones: chorro y regadera.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-16.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 213,
+        "img": "grif-18.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo extreme glow, Caño giratorio y flexible, Aireador anti-cal.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-18.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 214,
+        "img": "grif-19.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo extreme glow, Caño giratorio, Aireador anti-cal.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-19.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 215,
+        "img": "grif-20.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo extreme glow, Caño giratorio, Aireador anti-cal.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-20.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 216,
+        "img": "grif-21.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo extreme glow, Caño giratorio, Aireador anti-cal, Maneral extraíble con 2 funciones: chorro y regadera.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-21.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 217,
+        "img": "grif-22.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo extreme glow, Caño giratorio, Aireador anti-cal.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-22.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 218,
+        "img": "grif-23.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo extreme glow, Caño giratorio, Aireador anti-cal.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-23.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 219,
+        "img": "grif-24.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: tipo acero inoxidable, Caño giratorio, bimando, Aireador anti-cal.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-24.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 220,
+        "img": "grif-25.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo extreme glow, Caño giratorio, Aireador anti-cal, Maneral extraíble con 2 funciones: chorro y regadera.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-25.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 221,
+        "img": "grif-26.jpg",
+        "name": "Grifo de cocina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Grifo de cocina monomando con caño bajo giratorio y aireador anti-calcáreo.",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-26.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 222,
+        "img": "grif-27.jpg",
+        "name": "Monomando cromo",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Monomando cromo con funciones de regadera y chorro, Caño giratorio, De fácil limpieza antical, Incluye mangueras de alimentación flexibles",
+        "query": "Cocina Griferia cocina",
+        "variations": {
+            "varImgs": ["grif-27.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 223,
+        "img": "lav-1.jpg",
+        "name": "Lavavajilla de empotre",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Lavavajilla con puerta en acero inoxidable antihuella, Capacidad: 13 cubiertos, Consumo: 11 litros, Display digital, 9 programas de lavado, Función secado extra.",
+        "query": "Cocina Lavavajillas",
+        "variations": {
+            "varImgs": ["lav-1-1.jpg", "lav-1-2.jpg"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 224,
+        "img": "lav-2.jpg",
+        "name": "Lavavajilla de empotre",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Lavavajilla de puerta con exterior panelable (jaladera no incluida) , Capacidad: 13 cubiertos, Consumo: 11 litros, Display digital, 9 programas de lavado, Función secado extra.",
+        "query": "Cocina Lavavajillas",
+        "variations": {
+            "varImgs": ["lav-2-1.jpg", "lav-2-2.jpg"],
+            "varTexts": ["", ""]
+        }
+    },
+    {
+        "id": 225,
+        "img": "lav-3.jpg",
+        "name": "Lavavajilla de libre instalación",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Lavavajilla de libre instalación con 3 bandejas para 14 cubiertos de 60 cm, 6 programas de lavado, capacidad de 14 cubiertos, programa de media carga.",
+        "query": "Cocina Lavavajillas",
+        "variations": {
+            "varImgs": ["lav-3.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 226,
+        "img": "lav-4.jpg",
+        "name": "Lavavajilla de libre instalación",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Lavavajilla con silver, Capacidad: 12 cubiertos, Consumo: 11 litros, Display digital, 6 programas de lavado, Bloqueo de seguridad para niños.",
+        "query": "Cocina Lavavajillas",
+        "variations": {
+            "varImgs": ["lav-4.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 227,
+        "img": "acc-1.jpg",
+        "name": "Cesta de varillas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Cesta de varillas de acero inoxidable, Diseño especial para fregaderos Teka",
+        "query": "Cocina Accesorios de cocina",
+        "variations": {
+            "varImgs": ["acc-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 228,
+        "img": "acc-2.jpg",
+        "name": "Kit cocina al vapor",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Kit The SteamBox para cocinar al vapor en el horno, Dos bandejas individuales, Tapa de cristal, Parrilla interior, Bandeja extra profunda.",
+        "query": "Cocina Accesorios de cocina",
+        "variations": {
+            "varImgs": ["acc-2.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 229,
+        "img": "acc-3.jpg",
+        "name": "Kit cocina al vapor",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Kit The SteamBox para cocinar al vapor en el horno, Dos bandejas individuales, Tapa de cristal, Parrilla interior, Bandeja extra profunda.",
+        "query": "Cocina Accesorios de cocina",
+        "variations": {
+            "varImgs": ["acc-3-1.jpg", "acc-3-2.jpg", "acc-3-3.jpg"],
+            "varTexts": ["", "", ""]
+        }
+    },
+    {
+        "id": 230,
+        "img": "acc-4.jpg",
+        "name": "Dispensador de jabón",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Dispensador de jabón universal para cocina, Capacidad de 275 ml",
+        "query": "Cocina Accesorios de cocina",
+        "variations": {
+            "varImgs": ["acc-3-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 231,
+        "img": "com-1.jpg",
+        "name": "Cesta de varillas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Cesta de varillas de acero inoxidable, Diseño especial para fregaderos Teka,",
+        "query": "Cocina Complementos de cocina",
+        "variations": {
+            "varImgs": ["com-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 232,
+        "img": "com-2.jpg",
+        "name": "Cubretaladro",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Contracanasta, Acero inoxidable",
+        "query": "Cocina Complementos de cocina",
+        "variations": {
+            "varImgs": ["com-2.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 233,
+        "img": "com-3.jpg",
+        "name": "Tabla de corte",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Tabla de corte de cristal negra para cocina, Cristal de seguridad, Diseño en cristal negro.",
+        "query": "Cocina Complementos de cocina",
+        "variations": {
+            "varImgs": ["com-3.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 234,
+        "img": "com-4.jpg",
+        "name": "Plancha grill",
+        "uses": {
+                "Negro": ""
+                },
+        "type": "Plancha grill, Placa de hierro fundido",
+        "query": "Cocina Complementos de cocina",
+        "variations": {
+            "varImgs": ["com-4.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 235,
+        "img": "com-5.jpg",
+        "name": "Kit de unión de encimeras",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Kit de unión para encimeras.",
+        "query": "Cocina Complementos de cocina",
+        "variations": {
+            "varImgs": ["com-5.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 237,
+        "img": "com-6.jpg",
+        "name": "Sal para lavavajillas",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Sal para lavavajillas de uso doméstico, Alto grado de concentración, incluye pala dispensadora, Contenido neto: 5kg.",
+        "query": "Cocina Complementos de cocina",
+        "variations": {
+            "varImgs": ["com-6.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 238,
+        "img": "com-7.jpg",
+        "name": "Contracanasta",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Contracanasta, Acero inoxidable, Cuerpo: Plástico antibacterial.",
+        "query": "Cocina Complementos de cocina",
+        "variations": {
+            "varImgs": ["com-7.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 239,
+        "img": "com-8.jpg",
+        "name": "Contracanasta",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Contracanasta, Acero inoxidable, Cuerpo: Plástico antibacterial, Contracanasta 3½” con válvula automática.",
+        "query": "Cocina Complementos de cocina",
+        "variations": {
+            "varImgs": ["com-8.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 240,
+        "img": "com-9.jpg",
+        "name": "Contracanasta",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Contracanasta, Acero inoxidable, Cuerpo: Plástico antibacterial, Contracanasta 3½” con rebosadero.",
+        "query": "Cocina Complementos de cocina",
+        "variations": {
+            "varImgs": ["com-9.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 241,
+        "img": "com-10.jpg",
+        "name": "Contracanasta",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Contracanasta, Acabado: Negro mate, Contracanasta 3½”.",
+        "query": "Cocina Complementos de cocina",
+        "variations": {
+            "varImgs": ["com-10.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 242,
+        "img": "com-11.jpg",
+        "name": "Triturador de alimentos",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Instalación debajo de fregadero, Diseño compacto, Motor magnético de alta velocidad: 1/2 HP, Cámara de trituración en acero galvanizado resistente a la corrosión, Capacidd de la cámara de trituración: 900ml",
+        "query": "Cocina Complementos de cocina",
+        "variations": {
+            "varImgs": ["com-11.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 243,
+        "img": "com-12.png",
+        "name": "Triturador de alimentos",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Triturador de alimentos Motor magnético de alta velocidad: 3/4 HP",
+        "query": "Cocina Complementos de cocina",
+        "variations": {
+            "varImgs": ["com-12.png"],
             "varTexts": [""]
         }
     }
