@@ -3,6 +3,7 @@
         "filters": {
             "all": "Todo", 
             "One": "Cocina",
+            "OneMain": "Baño",
             "two": "Hornos",
             "three": "Microondas",
             "Four": "Cafeteras encastrables",
@@ -13,7 +14,10 @@
             "nine": "Griferia cocina",
             "ten": "Lavavajillas",
             "eleven": "Accesorios de cocina",
-            "twelve": "Complementos de cocina"
+            "twelve": "Complementos de cocina",
+            "thirdteen": "Griferia de baño",
+            "fourteen": "Colección de duchas",
+            "fifteen": "Accesorios de baño"
         }
     },
     {
@@ -3457,6 +3461,678 @@
         "query": "Cocina Complementos de cocina",
         "variations": {
             "varImgs": ["com-12.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 244,
+        "img": "grifban-1.png",
+        "name": "Monomando lavabo alto",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Monomando lavabo alto, Acabado: Cromo",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 245,
+        "img": "grifban-2.jpg",
+        "name": "Grifo de ducha",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Grifo de ducha oculto ALAIOR, Sin equipo de ducha",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-2.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 246,
+        "img": "grifban-3.jpg",
+        "name": "Mezcladora mural",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Mezcladora mural para lavabo, Acabado: Cromo, Caño máximo 187 mm, Aireador anti-cal.",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-3.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 247,
+        "img": "grifban-4.jpg",
+        "name": "Monomando regadera-tina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Monomando regadera-tina, con desviador",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-4.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 248,
+        "img": "grifban-5.jpg",
+        "name": "Monomando regadera-tina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Monomando regadera-tina, Con desviador, Con equipo de regadera Cuadro",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-5.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 249,
+        "img": "grifban-6.jpg",
+        "name": "Mezcladora de pared",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Mezcladora de pared para ducha, Acabado: cromo, Cartucho de 400 mm",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-6.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 250,
+        "img": "grifban-7.jpg",
+        "name": "Mezcladora de pared",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Mezcladora de pared para ducha, Acabado: cromo, Caño máximo 187 mm, Aireador anti-cal",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-7.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 251,
+        "img": "grifban-8.jpg",
+        "name": "Monomando regadera-tina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Monomando regadera-tina, Acabado: Cromo, Con desviador, sin equipo de regadera.",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-8.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 252,
+        "img": "grifban-9.jpg",
+        "name": "Monomando regadera",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Monomando regadera, Acabado: Cromo, Sin desviador, sin equipo de regadera.",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-9.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 253,
+        "img": "grifban-10.jpg",
+        "name": "Monomando regadera",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-10.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 254,
+        "img": "grifban-11.jpg",
+        "name": "Monomando regadera-tina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo, con equipo de regadera",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-11.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 255,
+        "img": "grifban-12.jpg",
+        "name": "Monomando regadera",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo, con equipo de regadera, sin desviador",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-12.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 256,
+        "img": "grifban-13.jpg",
+        "name": "Monomando regadera",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo, con equipo de regadera, sin desviador",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-13.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 257,
+        "img": "grifban-14.jpg",
+        "name": "Monomando regadera-tina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo, con equipo de regadera, sin desviador",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-14.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 258,
+        "img": "grifban-15.jpg",
+        "name": "Monomando regadera",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo, sin equipo de regadera, sin desviador",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-15.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 259,
+        "img": "grifban-16.jpg",
+        "name": "Monomando regadera-tina",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo, sin equipo de regadera, con desviador",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-16.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 260,
+        "img": "grifban-17.jpg",
+        "name": "Monomando regadera",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo, sin equipo de regadera, sin desviador",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-17.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 261,
+        "img": "grifban-18.jpg",
+        "name": "Monomando lavabo",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Salida tipo cascada",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-18.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 262,
+        "img": "grifban-19.jpg",
+        "name": "Monomando para lavabo",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo extreme glow, Material: latón, Aireador anti-cal, Cartucho cerámico de gran duración",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-19.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 263,
+        "img": "grifban-20.jpg",
+        "name": "Monomando largo para lavabo",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo extreme glow, Material: latón, Aireador anti-cal, Cartucho cerámico de gran duración",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-20.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 264,
+        "img": "grifban-21.jpg",
+        "name": "Monomando largo para lavabo",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo extreme glow, Material: latón, Aireador anti-cal, Largo de caño: 180mm, Cartufho cerámico de gran duración.",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-21.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 265,
+        "img": "grifban-22.jpg",
+        "name": "Monomando alto",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Monomando alto para lavabo de cascada XL, Acabado: Cromo extreme glow, Material: latón, Salida de agua anti-cal, Salida de agua en cascada, Dispositivo innovador anti-salpicaduras con ahorro de agua ubicado en el cartucho.",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-22.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 266,
+        "img": "grifban-23.jpg",
+        "name": "Monomando alto para lavabo",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Monomando alto para lavabo XL, Acabado: cromo, Material: Latón, Aireador anti-cal.",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-23.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 267,
+        "img": "grifban-24.jpg",
+        "name": "Monomando para lavabo",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Monomando para lavabo de cascada, Material: Latón, Salida de agua anti-cal, Salidad de agua en cascada, Dispositivo innovador anti-salpicaduras con ahorro de agua ubicado en el cartucho.",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-24.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 268,
+        "img": "grifban-25.jpg",
+        "name": "Monomando para lavabo",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Monomando para lavabo, Acabado: Cromo extreme glow, Material: Latón, Aireador anti-cal.",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-25.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 269,
+        "img": "grifban-26.jpg",
+        "name": "Monomando alto",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Monomando alto para lavabo fuente XL, Acabado: Cromo extreme glow, Material: Latón, Aireador anti-cal.",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-26.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 270,
+        "img": "grifban-27.jpg",
+        "name": "Monomando largo",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Monomando largo para lavabo L, Acabado: Cromo extreme glow, Material: Latón, Aireador anti-cal.",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-27.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 271,
+        "img": "grifban-28.jpg",
+        "name": "Monomando para lavabo",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo extreme glow, Material: Latón, Aireador anti-cal.",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-28-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 272,
+        "img": "grifban-29.jpg",
+        "name": "Monomando para lavabo",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo, Material: Latón, Aireador anti-cal.",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-29.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 273,
+        "img": "grifban-30.jpg",
+        "name": "Monomando para lavabo",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo, Material: Latón, Aireador anti-cal.",
+        "query": "Baño Griferia de baño",
+        "variations": {
+            "varImgs": ["grifban-30.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 274,
+        "img": "ducha-1.jpg",
+        "name": "Sistema de ducha",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Sistema de ducha con salida superior, Desviador automático integrado, Ducha de mano ajustable de 200 mm, Sistema anti-cal.",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-1.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 275,
+        "img": "ducha-2.jpg",
+        "name": "Rociador de ducha",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Rociador de ducha Formentera, Incluye rótula, Sistema anticalcáreo.",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-2.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 276,
+        "img": "ducha-3.jpg",
+        "name": "Brazo de ducha",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Acabado: Cromo, Rosca ½”",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-3.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 277,
+        "img": "ducha-4.jpg",
+        "name": "Brazo de ducha",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Brazo de ducha FORMENTERA 400, 400 mm, 25x25 mm, Rosca 1/2",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-4.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 278,
+        "img": "ducha-5.jpg",
+        "name": "Ducha",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable seria 304, Aireador anti-cal, Ultra delgado, Flujo extra.",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-5.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 279,
+        "img": "ducha-6.jpg",
+        "name": "Sistema de ducha",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Sistema de ducha Formentera, Brazo de ducha telescópico, ajustable en altura, Grifo de ducha con salida superior, Rociador anticalcáreo Formentera 279x279 Maneral anticalcáreo Formentera, Flexible metálico de ducha 1.50m",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-6.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 280,
+        "img": "ducha-7.jpg",
+        "name": "Brazo de ducha",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Brazo de ducha, Acabado: Cromo, Rosca ½”",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-7.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 281,
+        "img": "ducha-8.jpg",
+        "name": "Brazo de ducha",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "400 mm, Ø 22 mm, Rosca de 1/2",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-8.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 282,
+        "img": "ducha-9.jpg",
+        "name": "Ducha",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acabado: Cromo, Aireador anti-cal, Rótula giratoria.",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-9.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 283,
+        "img": "ducha-10.jpg",
+        "name": "Ducha",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Acero inoxidable serie 304, Aireador anti-cal, Ultra delgado, Flujo extra.",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-10.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 284,
+        "img": "ducha-11.jpg",
+        "name": "Regadera Universe",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Regadera Universe Cuadro, Regadera fija con aireador anticalcáreo, Manguera de regadera manual en latón cromado (150cm)",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-11.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 285,
+        "img": "ducha-12.jpg",
+        "name": "Sistema de ducha",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Sistema de ducha con salida superior de una sola palanca, Desviador automático integrado, Cabezal 250 mm, Sistema anti-cal, Ducha de mano de 3 funciones.",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-12.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 286,
+        "img": "ducha-13.jpg",
+        "name": "Monomando largo para lavabo",
+        "uses": {
+                "Inox": ""
+                },
+        "type": "Monomando largo para lavabo, Sin ducha, Equipado con elemento reductor de ruido.",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-13.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 287,
+        "img": "ducha-14.png",
+        "name": "Mezclador empotrable",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Mezcladora empotrable para ducha, Acabado Cromo, Plato ultra delgado.",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-14.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 288,
+        "img": "ducha-15.png",
+        "name": "Mezclador de pared",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Mezcladora de pared para ducha, Acabado: Cromo, Plato ultra delgado.",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-15.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 289,
+        "img": "ducha-16.jpg",
+        "name": "Sistema de baño-ducha",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Mezcladora de ducha con salida superior, Desviador automático, Cabeza de regadera de 200 mm, Sistema anti-cal, Ducha de mano ajustable con tres funciones.",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-16.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 290,
+        "img": "ducha-17.jpg",
+        "name": "Sistema de ducha",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Sistema de ducha de doble control, Con salida superior, Sistema de tacto seguro, Desviador automático integrado, Ducha ulta delgada de 200 mm y 2 mm de grosor, Ducha de mano ajustable con tres funciones.",
+        "query": "Baño Colección de duchas",
+        "variations": {
+            "varImgs": ["ducha-17.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 291,
+        "img": "accban-1.jpg",
+        "name": "Kit ECO",
+        "uses": {
+                "Cromo": ""
+                },
+        "type": "Ahorra hasta un 50%, Apto para griferías de todas las marcas, Incluye 3 aireadores anticalcáreos y 1 entronque para ducha.",
+        "query": "Baño Accesorios de baño",
+        "variations": {
+            "varImgs": ["accban-1.jpg"],
             "varTexts": [""]
         }
     }

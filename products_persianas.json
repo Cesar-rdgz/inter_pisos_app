@@ -1,0 +1,127 @@
+[
+    {
+        "filters": {
+            "all": "Todo",
+            "One": "Enrollables",
+            "Two": "Romana",
+            "Three": "Sheer Elegance",
+            "Four": "Shangri-la",
+            "Five": "Impresa digitalmente",
+            "Six": "Panel Japonés",
+            "Seven": "De madera",
+            "eigth": "Toldos"
+        }
+    },
+    {
+        "id": 1,
+        "img": "persenrr-1.png",
+        "name": "Persianas enrrollables",
+        "uses": {
+                "": ""
+                },
+        "type": "Filtro de luz y protector solar en tela, Telas durables, Tubo enrollable de alumninio, El funcionamiento de la cadena, Recorte estilos, Opcional cenefa, Caja de entrada opcional casete.",
+        "query": "Enrollables",
+        "variations": {
+            "varImgs": ["persenrr-1-1.png", "persenrr-1-2.png", "persenrr-1-3.png"],
+            "varTexts": ["", "", ""]
+        }
+    },
+    {
+        "id": 2,
+        "img": "persrom.png",
+        "name": "Persiana Romana",
+        "uses": {
+            "": ""
+            },
+        "type": "Filtro de luz y protector solar en tela, Tres tipos de sistemas operativos: |cuerda, polea y cornamusa| |cable de bloqueo| |operación de la cadena continua|, Estilo moderno",
+        "query": "Romana",
+        "variations": {
+            "varImgs": ["persrom-1.png", "persrom-2.png", "persrom-1.jpg"],
+            "varTexts": ["", "", ""]
+        }
+    },
+    {
+        "id": 3,
+        "img": "perssheer.png",
+        "name": "Persiana Sheer Elegance",
+        "uses": {
+            "": ""
+            },
+        "type": "Niveles ajustables de luz, Versátil, Estilo moderno, Alineadas las bandas garantizan la privacidad, Desliz suave, La tela desaparece cuando se levanta para una vista completa.",
+        "query": "Sheer Elegance",
+        "variations": {
+            "varImgs": ["perssheer-1.png", "perssheer-2.png", "perssheer-3.png"],
+            "varTexts": ["", "", ""]
+        }
+    },
+    {
+        "id": 4,
+        "img": "persshan.png",
+        "name": "Persiana Shangri-la",
+        "uses": {
+            "": ""
+            },
+        "type": "Puede ajusta la luz, persianas de doble capa, Versátil, Estilo moderno.",
+        "query": "Shangri-la",
+        "variations": {
+            "varImgs": ["persshan-1.jpg", "persshan-2.jpg", "persshan-3.jpg"],
+            "varTexts": ["", "", ""]
+        }
+    },
+    {
+        "id": 5,
+        "img": "persimpr.png",
+        "name": "Persiana Impresa Digitalmente",
+        "uses": {
+                "": ""
+            },
+        "type": "Encontrará algo que se ajuste a sus necesidades y su bolsillo, con la impresión digital las opciones de lo que se puede imprimir en una persiana son infinitas.",
+        "query": "Impresa digitalmente",
+        "variations": {
+            "varImgs": ["persimpr-1.png", "persimpr-2.png", "persimpr-3.png"],
+            "varTexts": ["", "", ""]
+        }
+    },
+    {
+        "id": 6,
+        "img": "persjap.png",
+        "name": "Persiana Panel Japonés",
+        "uses": {
+                "": ""
+            },
+        "type": "Filtro de luz y protector solar en tela, Sistema de seguimiento, Listones de Madera o aluminio,Paneles desmontables, Pelmet Opcional.",
+        "query": "Panel Japonés",
+        "variations": {
+            "varImgs": ["persjap-1.png", "persjap-2.png", "persjap-3.png"],
+            "varTexts": ["", "", ""]
+        }
+    },
+    {
+        "id": 7,
+        "img": "persmad.png",
+        "name": "Persiana de madera",
+        "uses": {
+                "": ""
+            },
+        "type": "La madera dura es resistente, ligero y poco costoso de lo que se cree, Aspecto natural.",
+        "query": "De madera",
+        "variations": {
+            "varImgs": ["persmad-1.jpg", "persmad-2.jpg", "persmad-3.jpg"],
+            "varTexts": ["", "", ""]
+        }
+    },
+    {
+        "id": 8,
+        "img": "perstol.png",
+        "name": "Toldos de proyección y de caída vertical",
+        "uses": {
+                "": ""
+            },
+        "type": "Protegen el patio o áreas de descanso al aire libre de su hogar u oficina. Fabricadas con el 100% de sus componenetes en aluminio y tornillos en \"stainless stell\"",
+        "query": "Toldos",
+        "variations": {
+            "varImgs": ["perstol-1.png", "perstol-2.png", "perstol-3.png"],
+            "varTexts": ["", "", ""]
+        }
+    }
+]
