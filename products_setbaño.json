@@ -1,0 +1,77 @@
+[
+    {
+        "filters": {
+            "all": "Todo"
+        }
+    },
+    {
+        "id": 1,
+        "img": "aby.png",
+        "name": "Aby",
+        "uses": {
+                "Blanco": ""
+                },
+        "type": "Incluye: Mueble compuesto de 2 cajones de MDF, Gabinete suspendido compuesto de 2 puertas de MDF (abren hacia la derecha), Espejo con marco de MDF, Lavabo de cerámica con rebosadero, Monomando, contra con rebosadero y patas (10 cm) en acabado cromo.",
+        "query": "",
+        "variations": {
+            "varImgs": ["aby.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 2,
+        "img": "bety.jpg",
+        "name": "Bety",
+        "uses": {
+            "Chocolate": ""
+            },
+        "type": "Incluye: Mueble compuesto de 2 puertas de MDF con Formaica, Gabinete suspenido compuesto de 1 puerta de MDF (Abre hacia la derecha o izquierda, dependiendo su instalación), Espejo con marco de MDF con Formaica, Lavabo de mparmo de una sola pieza, Placa de mármol de una sola pieza (2cm de espesor), Monomando y contra en acabado cromo.",
+        "query": "",
+        "variations": {
+            "varImgs": ["bety.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 3,
+        "img": "teresa.jpg",
+        "name": "Teresa",
+        "uses": {
+            "": ""
+            },
+        "type": "Incluye: Mueble compuesto de 2 puertas y 1 cajón de MDF, Espejo con marco de MDG y Formaica, Lavabo de mármol de una sola pieza, Monomando, contra y patas (8cm) en acabado cromo.",
+        "query": "",
+        "variations": {
+            "varImgs": ["teresa.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 4,
+        "img": "giovanna.png",
+        "name": "Giovanna",
+        "uses": {
+            "Chocolate": ""
+            },
+        "type": "Incluye: Mueble y espejo MDF, Lavabo de mármol, monomando y contra en acabado cromo.",
+        "query": "",
+        "variations": {
+            "varImgs": ["giovanna.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 5,
+        "img": "bianca.jpg",
+        "name": "Bianca",
+        "uses": {
+                "Chocolatr": ""
+            },
+        "type": "Mueble compuesto de 2 cajones de MDF, Espejo con marco de MDF y cristal, Placa de cristal (9 mm), Kavabo de cerámica, Monomando, contra y patas (15 cm) en acabado cromo.",
+        "query": "",
+        "variations": {
+            "varImgs": ["bianca.jpg"],
+            "varTexts": [""]
+        }
+    }
+]

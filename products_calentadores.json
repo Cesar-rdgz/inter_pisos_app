@@ -1,0 +1,21 @@
+[
+    {
+        "filters": {
+            "all": "Todo"
+        }
+    },
+    {
+        "id": 1,
+        "img": "calentador-solar.png",
+        "name": "Calentador Solar",
+        "uses": {
+                "": ""
+                },
+        "type": "Calentadores solares en 12 tubos | 8 tubos | 10 tubos | 15 tubos | 18 tubos | 20 tubos | 24 tubos",
+        "query": "Enrollables",
+        "variations": {
+            "varImgs": ["calentador-solar.png"],
+            "varTexts": [""]
+        }
+    }
+]
