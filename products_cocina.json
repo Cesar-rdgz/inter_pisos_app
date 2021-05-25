@@ -6,6 +6,48 @@
     },
     {
         "id": 1,
+        "img": "paquete-1.JPG",
+        "name": "Paquete integral",
+        "uses": {
+                "": ""
+                },
+        "type": "",
+        "query": "",
+        "variations": {
+            "varImgs": ["paquete-1-1.JPG", "paquete-1-2.JPG", "paquete-1.JPG"],
+            "varTexts": ["Inspiración para tu cocina", "Inspiración para tu cocina", "Inspiración para tu cocina"]
+        }
+    },
+    {
+        "id": 2,
+        "img": "paquete-2.JPG",
+        "name": "Paquete integral",
+        "uses": {
+                "": ""
+                },
+        "type": "",
+        "query": "",
+        "variations": {
+            "varImgs": ["paquete-2.JPG", "paquete-2-1.JPG", "paquete-2-2.JPG"],
+            "varTexts": ["Inspiración para tu cocina", "Inspiración para tu cocina", "Inspiración para tu cocina"]
+        }
+    },
+    {
+        "id": 3,
+        "img": "paquete-3.JPG",
+        "name": "Paquete integral",
+        "uses": {
+                "": ""
+                },
+        "type": "",
+        "query": "",
+        "variations": {
+            "varImgs": ["paquete-3.JPG", "paquete-3-1.JPG", "paquete-3-2.JPG"],
+            "varTexts": ["Inspiración para tu cocina", "Inspiración para tu cocina", "Inspiración para tu cocina"]
+        }
+    },
+    {
+        "id": 4,
         "img": "Teka-kitchen.jpg",
         "name": "Cocina Europa",
         "uses": {
@@ -19,7 +61,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 5,
         "img": "cocina-europea-2.jpg",
         "name": "Cocina Europa",
         "uses": {
@@ -33,7 +75,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 6,
         "img": "cocina-europea-3.jpg",
         "name": "Cocina Europa",
         "uses": {

@@ -1,7 +1,9 @@
 [
     {
         "filters": {
-            "all": "Todo"
+            "all": "Todo",
+            "one": "Sets de baño",
+            "Two": "Ovalines"
         }
     },
     {
@@ -12,7 +14,7 @@
                 "Blanco": ""
                 },
         "type": "Incluye: Mueble compuesto de 2 cajones de MDF, Gabinete suspendido compuesto de 2 puertas de MDF (abren hacia la derecha), Espejo con marco de MDF, Lavabo de cerámica con rebosadero, Monomando, contra con rebosadero y patas (10 cm) en acabado cromo.",
-        "query": "",
+        "query": "Sets de baño",
         "variations": {
             "varImgs": ["aby.png"],
             "varTexts": [""]
@@ -26,7 +28,7 @@
             "Chocolate": ""
             },
         "type": "Incluye: Mueble compuesto de 2 puertas de MDF con Formaica, Gabinete suspenido compuesto de 1 puerta de MDF (Abre hacia la derecha o izquierda, dependiendo su instalación), Espejo con marco de MDF con Formaica, Lavabo de mparmo de una sola pieza, Placa de mármol de una sola pieza (2cm de espesor), Monomando y contra en acabado cromo.",
-        "query": "",
+        "query": "Sets de baño",
         "variations": {
             "varImgs": ["bety.jpg"],
             "varTexts": [""]
@@ -40,7 +42,7 @@
             "": ""
             },
         "type": "Incluye: Mueble compuesto de 2 puertas y 1 cajón de MDF, Espejo con marco de MDG y Formaica, Lavabo de mármol de una sola pieza, Monomando, contra y patas (8cm) en acabado cromo.",
-        "query": "",
+        "query": "Sets de baño",
         "variations": {
             "varImgs": ["teresa.jpg"],
             "varTexts": [""]
@@ -54,7 +56,7 @@
             "Chocolate": ""
             },
         "type": "Incluye: Mueble y espejo MDF, Lavabo de mármol, monomando y contra en acabado cromo.",
-        "query": "",
+        "query": "Sets de baño",
         "variations": {
             "varImgs": ["giovanna.png"],
             "varTexts": [""]
@@ -65,12 +67,376 @@
         "img": "bianca.jpg",
         "name": "Bianca",
         "uses": {
-                "Chocolatr": ""
+                "Chocolate": ""
             },
         "type": "Mueble compuesto de 2 cajones de MDF, Espejo con marco de MDF y cristal, Placa de cristal (9 mm), Kavabo de cerámica, Monomando, contra y patas (15 cm) en acabado cromo.",
-        "query": "",
+        "query": "Sets de baño",
         "variations": {
             "varImgs": ["bianca.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 6,
+        "img": "ovalin-1.png",
+        "name": "Ovalín Cuadrado",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Arenado y Transparente, 420 x 420 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["ovalin-1.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 7,
+        "img": "ovalin-2.png",
+        "name": "Ovalín Redondo",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Arenado y Transparente, 420 x 420 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["ovalin-2.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 8,
+        "img": "allos.png",
+        "name": "Lavabo Allos",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 650 x 385 x 140 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["allos.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 9,
+        "img": "aral.png",
+        "name": "Lavabo Aral",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 460 x 160 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["aral.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 10,
+        "img": "argos.png",
+        "name": "Lavabo Argos",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 615 x 470 x 180 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["argos.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 11,
+        "img": "babel.png",
+        "name": "Lavabo Babel",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 395 x 240 x 120 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["babel.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 12,
+        "img": "balak.png",
+        "name": "Lavabo Balak",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 590 x 390 x 160 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["balak.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 13,
+        "img": "capiro.png",
+        "name": "Lavabo Capiro",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 400 x 120 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["capiro.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 14,
+        "img": "fiji.png",
+        "name": "Lavabo Fiji",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 440 x 400 x 345 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["fiji.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 15,
+        "img": "moorea.jpg",
+        "name": "Lavabo Moorea",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 390 x 390 x 150 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["moorea.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 16,
+        "img": "constanza.png",
+        "name": "Lavabo Constanza",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 425 x 180 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["constanza.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 17,
+        "img": "curvus.png",
+        "name": "Lavabo Curvus",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 630 x 420 x 110 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["curvus.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 18,
+        "img": "draco.png",
+        "name": "Lavabo Draco",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 760 x 460 x 140 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["draco.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 19,
+        "img": "domus.png",
+        "name": "Lavabo Domus",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 480 x 370 x 140 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["domus.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 20,
+        "img": "erie.png",
+        "name": "Lavabo Erie",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 415 x 165 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["erie.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 21,
+        "img": "kios.png",
+        "name": "Lavabo Kios",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 455 x 552 x 75 mm. 585 x 550 x 75 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["kios.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 22,
+        "img": "lemans.png",
+        "name": "Lavabo Lemans",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 520 x 440 x 155 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["lemans.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 23,
+        "img": "magma.png",
+        "name": "Lavabo Magma",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 580 x 460 x 140 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["magma.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 24,
+        "img": "nilo.png",
+        "name": "Lavabo Nilo",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 430 x 120 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["nilo.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 25,
+        "img": "san-marino.png",
+        "name": "Lavabo San Marino",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Medidas disponibles 620 x 420 x 135 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["san-marino.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 26,
+        "img": "sirios.png",
+        "name": "Lavabo Sirios",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": "Lavabo bajo cubierta Medidas disponibles: 550 x 350 x 195 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["sirios.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 27,
+        "img": "zen.jpg",
+        "name": "Lavabo Zen",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": " Medidas disponibles: 450 x 450 x 180 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["zen.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 28,
+        "img": "bali.jpg",
+        "name": "Lavabo Bali",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": " Medidas disponibles: 450 x 450 x 180 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["bali.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 29,
+        "img": "tahiti.jpg",
+        "name": "Lavabo Tahití",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": " Medidas disponibles: 680 x 420 x 115 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["tahiti.jpg"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 30,
+        "img": "perseo.png",
+        "name": "Lavabo Perseo",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": " Medidas disponibles: 655 x 510 x 825 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["perseo.png"],
+            "varTexts": [""]
+        }
+    },
+    {
+        "id": 31,
+        "img": "kinea.jpg",
+        "name": "Lavabo Kinea",
+        "uses": {
+            "Transparente": ""
+            },
+        "type": " Medidas disponibles: 500 x 850 x 500 mm",
+        "query": "Ovalines",
+        "variations": {
+            "varImgs": ["kiena.jpg"],
             "varTexts": [""]
         }
     }

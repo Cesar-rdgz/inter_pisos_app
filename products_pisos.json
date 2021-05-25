@@ -13,7 +13,8 @@
             "filerEleven": "Tipo madera",
             "filterTwelve": "Piso y pared",
             "filtertThirteen": "cerámica",
-            "filterFourteen": "varios colores"
+            "filterFourteen": "varios colores",
+            "filterFiftheen": "Fachada"
         }
     },
     {
@@ -1916,6 +1917,104 @@
         "variations": {
             "varImgs": ["volterra-1.jpg"],
             "varTexts": ["Tipo piedra Café cálido 30x60cm"]
+        }
+    },
+    {
+        "id": 117,
+        "img": "yakarta_tetrix.jpeg",
+        "name": "Yakarta",
+        "uses": {
+            "Muro": ""
+            },
+        "type": "Piedra para fachada muro",
+        "query": "Fachada",
+        "variations": {
+            "varImgs": ["yakarta_tetrix.jpeg", "yakarta_stripes.jpg", "zenit_yakarta.jpg"],
+            "varTexts": ["Tetrix 30x30cm", "Stripes 30x30cm", "Zenit 15x60cm"]
+        }
+    },
+    {
+        "id": 118,
+        "img": "amari_tetrix.jpg",
+        "name": "Amari",
+        "uses": {
+            "Muro": ""
+            },
+        "type": "Piedra para fachada muro",
+        "query": "Fachada",
+        "variations": {
+            "varImgs": ["amari_tetrix.jpg", "amari_stripes.jpg", "zenit_amari.jpg", "mankora_marfil.jpg"],
+            "varTexts": ["Tetrix 30x30cm", "Stripes 30x30cm", "Zenit 15x60cm", "Mankora Marfil 10x35cm"]
+        }
+    },
+    {
+        "id": 119,
+        "img": "himalaya_beige.jpg",
+        "name": "Himalaya",
+        "uses": {
+            "Muro": ""
+            },
+        "type": "Piedra para fachada muro",
+        "query": "Fachada",
+        "variations": {
+            "varImgs": ["himalaya_beige.jpg", "himalaya_marron.jpg", "himalaya golden.jpeg", "mankora_marfil.jpg", "himalaya_nero.jpg"],
+            "varTexts": ["Beige 15x60cm", "Marrón Quartzite 15x60cm", "Golden 15x60cm", "Nero Quartzite 15x60cm"]
+        }
+    },
+    {
+        "id": 120,
+        "img": "zenit_nero.jpg",
+        "name": "Zenit Quartzite",
+        "uses": {
+            "Muro": ""
+            },
+        "type": "Piedra para fachada muro",
+        "query": "Fachada",
+        "variations": {
+            "varImgs": ["zenit_nero.jpg", "zenit_white.jpg"],
+            "varTexts": ["Nero Quartzite 15x60cm", "White Quartzite 15x60cm"]
+        }
+    },
+    {
+        "id": 121,
+        "img": "zenit_nero.jpg",
+        "name": "Zenit Quartzite Black",
+        "uses": {
+            "Muro": ""
+            },
+        "type": "Piedra para fachada muro",
+        "query": "Fachada",
+        "variations": {
+            "varImgs": ["zenit_black.jpg", "nepal-black1.jpg"],
+            "varTexts": ["Zenit Black 15x60cm", "Nepal Black 15x60cm"]
+        }
+    },
+    {
+        "id": 122,
+        "img": "rio_beige.jpg",
+        "name": "Piedras de Rio",
+        "uses": {
+            "Muro": ""
+            },
+        "type": "Piedra para fachada muro",
+        "query": "Fachada",
+        "variations": {
+            "varImgs": ["rio_beige.jpg", "rio_black.jpg"],
+            "varTexts": ["Rio Beige 30.5x30.5cm", "Rio black 30.5x30.5cm"]
+        }
+    },
+    {
+        "id": 123,
+        "img": "rio_beige.jpg",
+        "name": "Piedras de Rio (plana)",
+        "uses": {
+            "Muro": ""
+            },
+        "type": "Piedra para fachada muro",
+        "query": "Fachada",
+        "variations": {
+            "varImgs": ["rio_beige_plano.jpg", "rio_black_plano.jpg", "rio_white_plano.jpg"],
+            "varTexts": ["Rio Beige Plano 30.5x30.5cm", "Rio Black Plano 30.5x30.5cm", "Rio White Plano 30.5x30.5cm"]
         }
     }
 ]
