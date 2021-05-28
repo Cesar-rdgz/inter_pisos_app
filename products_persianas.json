@@ -50,8 +50,8 @@
         "type": "Niveles ajustables de luz, Versátil, Estilo moderno, Alineadas las bandas garantizan la privacidad, Desliz suave, La tela desaparece cuando se levanta para una vista completa.",
         "query": "Sheer Elegance",
         "variations": {
-            "varImgs": ["perssheer-1.png", "perssheer-2.png", "perssheer-3.png"],
-            "varTexts": ["", "", ""]
+            "varImgs": ["perssheer-1.png", "perssheer-2.png", "perssheer-3.png", "persiana-sheer-control-remoto.mp4"],
+            "varTexts": ["", "", "", "video Clip"]
         }
     },
     {
@@ -113,7 +113,7 @@
     {
         "id": 8,
         "img": "perstol.png",
-        "name": "Toldos de proyección y de caída vertical",
+        "name": "proyección y de caída vertical",
         "uses": {
                 "": ""
             },

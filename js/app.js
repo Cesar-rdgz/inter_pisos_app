@@ -158,12 +158,23 @@ function drawingProductVar(item){
         item.variations.varImgs.forEach(img => {
             const imgIndex = item.variations.varImgs.indexOf(img);
 
-            const html = `
-                <div class="var">
-                    <img src="${img}" alt="" value="${imgIndex}">
-                </div>
-            `;
-            varContainer.innerHTML += html;
+            if(img.includes('.mp4')){
+                const html = `
+                    <div class="var">
+                        <img src="${item.variations.varImgs[0]}" alt="" value="${imgIndex}">
+                    </div>
+                `;
+                varContainer.innerHTML += html;
+
+            }else {
+
+                const html = `
+                    <div class="var">
+                        <img src="${img}" alt="" value="${imgIndex}">
+                    </div>
+                `;
+                varContainer.innerHTML += html;
+            }
         });
         
         resolve();
@@ -195,6 +206,27 @@ function injectionSecViewContent(item){
             btn.addEventListener('click', e => {
 
                 const data = e.target.getAttribute('value');
+
+                console.log(item.variations.varImgs[0]);
+
+                if(item.variations.varImgs[data].includes('.mp4')){
+                    const injectContainer = document.querySelector('.secondary-view .sec-content-view');
+
+                    const html = `
+            
+                    <div class="img-content">
+                        <video width="100%" height="100%" controls src="${item.variations.varImgs[data]}" alt=""></video>
+                    </div>
+                    <div class="text-img">
+                        <p class="text-sec">${item.variations.varTexts[data]}</p>
+                    </div>
+            
+                    `;
+            
+                    injectContainer.innerHTML = html;
+                    secView.style.left = '50%';
+                    closeSecondaryView();
+                }else{
                 
                     const injectContainer = document.querySelector('.secondary-view .sec-content-view');
 
@@ -212,6 +244,7 @@ function injectionSecViewContent(item){
                     injectContainer.innerHTML = html;
                     secView.style.left = '50%';
                     closeSecondaryView();
+                }
             });
             
         });
