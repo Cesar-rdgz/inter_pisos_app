@@ -1,4 +1,4 @@
-const slides = document.querySelectorAll('.container.top-fold');
+const slides = document.querySelectorAll('.slider-container .slide');
 
 setTimeout(() => {
     const spinner = document.querySelector('.window-loader');
@@ -207,7 +207,6 @@ function injectionSecViewContent(item){
 
                 const data = e.target.getAttribute('value');
 
-                console.log(item.variations.varImgs[0]);
 
                 if(item.variations.varImgs[data].includes('.mp4')){
                     const injectContainer = document.querySelector('.secondary-view .sec-content-view');
