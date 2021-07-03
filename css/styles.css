@@ -254,7 +254,7 @@
 
 .slider-container .title{
     position: absolute;
-    bottom: 0;
+    top: 0;
     left: 0;
     width: 100%;
 }
@@ -262,6 +262,8 @@
 .slider-container .secondary{
     background:rgba(0, 0, 0, 0.3);
     color: #fff;
+    top: unset;
+    bottom: 0;
 }
 
 .slider-container .secondary .or-title{
@@ -279,6 +281,7 @@
 .slider-container .title .company-name{
     font-size: 1.5rem;
     width: 50%;
+    color: #fff;
 }
 
 .slider-container .title .company-name span{
@@ -291,6 +294,7 @@
     font-weight: 300;
     width: 70%;
     margin: .7rem .5rem;
+    color: #fff;
 }
 
 .container.products{

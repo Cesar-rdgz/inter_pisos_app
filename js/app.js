@@ -36,7 +36,7 @@ const getProducts =  (resource) => {
     });
 };
 
-getProducts('products_pisos.json').then(data => {
+getProducts('./json/products_pisos.json').then(data => {
     renderContent(data);
 }).catch(err => {
     console.log('promise rejected:', err);
@@ -63,7 +63,7 @@ function renderContent(data){
                 });
             }else{
                 const html = `
-                    <a value="${item.id}" data-query="${item.query}" href="#"><div class="item" style="background-image: url('${item.img}');background-size: cover;background-position: center;">
+                    <a value="${item.id}" data-query="${item.query}" href="#"><div class="item" style="background-image: url('./img/${item.img}');background-size: cover;background-position: center;">
                         <div value="${item.id}" class="item-img">
                             <p>${item.name}</p>
                         </div>
@@ -97,7 +97,7 @@ function renderLastContent(data){
                 });
             }else{
                 const html = `
-                <a value="${item.id}" data-query="${item.query}" href="#"><div class="item" style="background-image: url('${item.img}');background-size: cover;background-position: center;">
+                <a value="${item.id}" data-query="${item.query}" href="#"><div class="item" style="background-image: url('./img/${item.img}');background-size: cover;background-position: center;">
                         <div value="${item.id}" class="item-img">
                             <p>${item.name}</p>
                         </div>
@@ -123,7 +123,7 @@ function selectProduct(){
         cleanDiv();
         const typeOfProduct = evt.target.value;
         sheet = typeOfProduct;
-        getProducts(`products_${typeOfProduct}.json`).then(data => {
+        getProducts(`./json/products_${typeOfProduct}.json`).then(data => {
             renderLastContent(data);
         }).then(() => {
             filterproducts();
@@ -161,7 +161,7 @@ function drawingProductVar(item){
             if(img.includes('.mp4')){
                 const html = `
                     <div class="var">
-                        <img src="${item.variations.varImgs[0]}" alt="" value="${imgIndex}">
+                        <img src="./img/${item.variations.varImgs[0]}" alt="" value="${imgIndex}">
                     </div>
                 `;
                 varContainer.innerHTML += html;
@@ -170,7 +170,7 @@ function drawingProductVar(item){
 
                 const html = `
                     <div class="var">
-                        <img src="${img}" alt="" value="${imgIndex}">
+                        <img src="./img/${img}" alt="" value="${imgIndex}">
                     </div>
                 `;
                 varContainer.innerHTML += html;
@@ -214,7 +214,7 @@ function injectionSecViewContent(item){
                     const html = `
             
                     <div class="img-content">
-                        <video width="100%" height="100%" controls src="${item.variations.varImgs[data]}" alt=""></video>
+                        <video width="100%" height="100%" controls src="./img/${item.variations.varImgs[data]}" alt=""></video>
                     </div>
                     <div class="text-img">
                         <p class="text-sec">${item.variations.varTexts[data]}</p>
@@ -232,7 +232,7 @@ function injectionSecViewContent(item){
                     const html = `
             
                     <div class="img-content">
-                        <img src="${item.variations.varImgs[data]}" alt="">
+                        <img src="./img/${item.variations.varImgs[data]}" alt="">
                     </div>
                     <div class="text-img">
                         <p class="text-sec">${item.variations.varTexts[data]}</p>
@@ -306,7 +306,7 @@ function renderDynamicItem(data, id){
             }).then(() => {
                 injectionSecViewContent(item);
             }).then(() => {
-                headerImg.innerHTML = `<img alt="" src="${item.img}">`;
+                headerImg.innerHTML = `<img alt="" src="./img/${item.img}">`;
                 specsContainer.style.transform = "translateY(0%)";
             });
         } 
@@ -332,7 +332,7 @@ function responsiveItem(){
         evt.preventDefault();
         const idData = evt.target.parentElement.getAttribute('value');
         if(idData){
-            getProducts(`products_${sheet}.json`).then(data => {
+            getProducts(`./json/products_${sheet}.json`).then(data => {
                 renderDynamicItem(data, idData);
             }).catch(err => {
                 console.log('promise rejected:', err);
