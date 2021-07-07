@@ -672,6 +672,70 @@
     justify-content: flex-end;
 }
 
+
+/**** CONTACT PAGE ****/
+
+.form {
+    width: 100%;
+    padding: 1rem;
+    margin: 1rem 0;
+
+    font-family: var(--main-font);
+}
+
+.form form {
+    background: var(--main-color);
+    border-radius: 14px;
+}
+
+.form .form-group {
+    padding: 1.2rem 0;
+    text-align: center;
+}
+
+.form .form-group input {
+    height: 2rem;
+    margin: 0 1rem;
+    border-radius: 7px;
+    width: 70%;
+}
+
+.form .form-group.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.address {
+    width: 100%;
+    padding: 1rem;
+    margin: 1rem 0;
+    background-color: rgb(231, 231, 231);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: var(--main-font);
+}
+
+.address address{
+    width: max-content;
+    height: max-content;
+    margin: auto;
+    padding: 1rem;
+    background: #fff;
+}
+
+.address address p {
+    margin: .5rem 0;
+}
+
+.address address p span{
+    color: var(--main-color);
+}
+
+
 .footer-container{
     background-color: var(--main-color);
     color: #fff;

@@ -7,10 +7,10 @@ setTimeout(() => {
     filterproducts();
 }, 5000);
 
+responsiveMenu();
 sliderReset();
 sliderInit();
 selectProduct();
-responsiveMenu();
 responsiveItem();
 closeProductSpecs();
 
