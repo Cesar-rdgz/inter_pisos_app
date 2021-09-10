@@ -1317,8 +1317,8 @@
   }
 
   .container.products .items-container .item {
-    height: 300px;
-    width: 250px;
+    height: 200px;
+    width: 150px;
   }
 
   .container.products .items-container .item > .item-img p {
@@ -1326,7 +1326,7 @@
   }
 
   .container.products #product-slider {
-    height: 450px;
+    height: 350px;
   }
 
   .footer-container .list-addresses li {
