@@ -93,6 +93,21 @@
 
         <div class="address">
             <address>
+                <h2>Tienda 1:</h2>
+                <p>Libramiento transito pesado #304 | Crucero a Jalpa, Tlaltenango de Sanchéz Roman, C.P. 99700</p>
+                <p>Teléfono: <span>(437) 954 0522</span></p>
+                <p>Correo Electrónico: <span>interpisoslibramiento@gmail.com</span></p>
+            </address>
+
+            <address>
+                <h2>Tienda 2:</h2>
+                <p>General Anaya Esquina con Alvaro Obregon #48B | Tlaltenango de Sanchéz Roman, C.P. 99700</p>
+                <p>Teléfono: <span>(437) 954 4063</span></p>
+                <p>Correo Electrónico: <span>interpisoslibramiento@gmail.com</span></p>
+            </address>
+
+            <address>
+                <h2>Tienda 3:</h2>
                 <p>Libramiento transito pesado #304 | Crucero a Jalpa, Tlaltenango de Sanchéz Roman, C.P. 99700</p>
                 <p>Teléfono: <span>(437) 954 0522</span></p>
                 <p>Correo Electrónico: <span>interpisoslibramiento@gmail.com</span></p>
@@ -100,20 +115,37 @@
         </div>
 
         <div class="form">
-            <form action="">
-                <div class="form-group">
-                    <input type="text" name="name" id="name" placeholder="Nombre">
+            <form action="" id="form-card" class="light">
+                <div class="theme-toggle">
+                    <input type="checkbox" id="theme-toggle-btn">
+                    <label for="theme-toggle-btn">
+                        <i class="fas fa-sun toggle-icon"></i>
+                    </label>
                 </div>
-                <div class="form-group">
-                    <input type="text" name="last-name" id="last-name" placeholder="Apellido">
+                <h1> Contactanos </h1>
+                <div class="social-media-list">
+                    <a href="https://www.facebook.com/Inter-pisos-Cesantoni-2455977854637830"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://wa.me/524371047297"><i class="fab fa-whatsapp"></i></a>
+                    <a href="tel:+524379540522"><i class="fas fa-phone"></i></a>
                 </div>
-                <div class="form-group">
-                    <input type="text" name="phone" id="phone" placeholder="Teléfono">
+                <div class="input-group">
+                    <label for="name-input"> Nombre </label>
+                    <input type="text" id="name-input" autocomplete="off">
                 </div>
-                <div class="form-group text">
-                    <label for="message">Mensaje:</label>
-                    <textarea name="message" id="message" cols="30" rows="10"></textarea>
+                <div class="input-group">
+                    <label for="mail-input"> Email </label>
+                    <input type="email" id="mail-input" autocomplete="off">
                 </div>
+                <div class="input-group">
+                    <label for="num-input"> Numero </label>
+                    <input type="text" id="num-input" autocomplete="off">
+                </div>
+                <div class="input-group">
+                    <label for="password-input"> Mensaje </label>
+                    <textarea name="" id="" cols="25" rows="5"></textarea>
+                </div>
+                <!-- <a href="#" class="forgot-password"> forgot password ?</a> -->
+                <button class="signIn-btn">Enviar</button>
             </form>
         </div>
 
