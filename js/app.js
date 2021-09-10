@@ -1,24 +1,6 @@
 const slides = document.querySelectorAll('.slider-container .slide');
 
-const themeToggleBtn = document.querySelector("#theme-toggle-btn");
-const toggleIcon = document.querySelector(".toggle-icon");
-const formCard = document.querySelector("#form-card");
-
-themeToggleBtn.addEventListener("change", function() {
-    if(this.checked){
-        formCard.classList.remove("light");
-        formCard.classList.add("dark");
-
-        toggleIcon.classList.remove("fa-sun");
-        toggleIcon.classList.add("fa-moon");
-    } else {
-        formCard.classList.remove("dark");
-        formCard.classList.add("light");
-
-        toggleIcon.classList.remove("fa-moon");
-        toggleIcon.classList.add("fa-sun");
-    }
-})
+contactFunction();
 
 setTimeout(() => {
     const spinner = document.querySelector('.window-loader');
@@ -414,3 +396,29 @@ setInterval(() => {
     }
 }, 8000);
 
+function contactFunction() {
+    const themeToggleBtn = document.querySelector("#theme-toggle-btn");
+
+    if (themeToggleBtn) {
+        const toggleIcon = document.querySelector(".toggle-icon");
+        const formCard = document.querySelector("#form-card");
+
+        themeToggleBtn.addEventListener("change", function() {
+            if(this.checked){
+                formCard.classList.remove("light");
+                formCard.classList.add("dark");
+
+                toggleIcon.classList.remove("fa-sun");
+                toggleIcon.classList.add("fa-moon");
+            } else {
+                formCard.classList.remove("dark");
+                formCard.classList.add("light");
+
+                toggleIcon.classList.remove("fa-moon");
+                toggleIcon.classList.add("fa-sun");
+            }
+        });
+    } else {
+        return;
+    }
+}
