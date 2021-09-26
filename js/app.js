@@ -346,33 +346,36 @@ function responsiveItem(){
 function filterproducts(){
     const fil = document.querySelector('.container.products .filters');
 
-    fil.addEventListener('click', e => {
-        e.preventDefault();
-
-        let queryFil = e.target.getAttribute('data-query');
-
-        if(e.target.nodeName === 'A' || e.target.nodeName === 'SPAN' && queryFil === 'Todo'){
-            let items = document.querySelectorAll('#product-slider .wrapper a');
-            
-            if(queryFil === 'Todo'){
+    if (fil) {
+        fil.addEventListener('click', e => {
+            e.preventDefault();
+    
+            let queryFil = e.target.getAttribute('data-query');
+    
+            if(e.target.nodeName === 'A' || e.target.nodeName === 'SPAN' && queryFil === 'Todo'){
+                let items = document.querySelectorAll('#product-slider .wrapper a');
+                
+                if(queryFil === 'Todo'){
+                    items.forEach(item => {
+                        item.style.display = 'block';
+                    });
+                }
+            }else if(e.target.nodeName === 'A' || e.target.nodeName === 'SPAN'){
+    
+                let items = document.querySelectorAll('#product-slider .wrapper a');
+    
                 items.forEach(item => {
-                    item.style.display = 'block';
+                    const query = item.getAttribute('data-query');
+                    if(query.includes(queryFil) !== true){
+                        item.style.display = 'none';
+                    } else if(query.includes(queryFil) === true) {
+                        item.style.display = 'block';
+                    }
                 });
             }
-        }else if(e.target.nodeName === 'A' || e.target.nodeName === 'SPAN'){
+        });
+    }
 
-            let items = document.querySelectorAll('#product-slider .wrapper a');
-
-            items.forEach(item => {
-                const query = item.getAttribute('data-query');
-                if(query.includes(queryFil) !== true){
-                    item.style.display = 'none';
-                } else if(query.includes(queryFil) === true) {
-                    item.style.display = 'block';
-                }
-            });
-        }
-    });
 }
 
 function sliderInit(){
