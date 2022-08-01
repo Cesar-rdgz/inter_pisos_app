@@ -22,7 +22,7 @@ const productSchema = new mongoose.Schema(
             required: [true, 'Por favor indica el tipo de producto']
         },
         query: {
-            type: String,
+            type: Array,
             required: [true, 'Por favor indica de que manera pueden buscar este producto']
         },
         variations: {
